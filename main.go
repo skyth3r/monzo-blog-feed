@@ -274,14 +274,14 @@ func convertToFeed(items *[]blogItem, name string) (*feeds.Feed, error) {
 		})
 	}
 
-	return feed, nil
-}
-
-func generateRssFeed(feed *feeds.Feed, name string) error {
 	sort.Slice(feed.Items, func(i, j int) bool {
 		return feed.Items[i].Created.After(feed.Items[j].Created)
 	})
 
+	return feed, nil
+}
+
+func generateRssFeed(feed *feeds.Feed, name string) error {
 	rss, err := feed.ToRss()
 	if err != nil {
 		return err
