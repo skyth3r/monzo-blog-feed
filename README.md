@@ -1,6 +1,6 @@
 # Monzo Blog Feed
 
-A Go script that generates a rss+xml and json feed for the [Monzo blog](https://monzo.com/blog) that can be used by rss reader apps.
+A Go script that generates rss+xml, atom & json feeds for the [Monzo blog](https://monzo.com/blog) that can be used by rss reader apps.
 
 I put together this script to keep up to date with new posts from Monzo via my rss reader apps (Currently I use [Tapestry](https://usetapestry.com/), and [NetNewsWire](https://netnewswire.com/)).
 
@@ -24,6 +24,10 @@ These feeds are updated automatically using a GitHub Actions workflow.
 - [Monzo Blog - Technology](https://raw.githubusercontent.com/skyth3r/monzo-blog-feed/refs/heads/main/feeds/blog_technology.rss)
 - [Monzo US Blog](https://raw.githubusercontent.com/skyth3r/monzo-blog-feed/refs/heads/main/feeds/us_blog.rss)
 
+### Atom feeds
+- [Monzo Blog](https://raw.githubusercontent.com/skyth3r/monzo-blog-feed/refs/heads/main/feeds/blog.atom)
+- [Monzo Blog - Technology](https://raw.githubusercontent.com/skyth3r/monzo-blog-feed/refs/heads/main/feeds/blog_technology.atom)
+- [Monzo US Blog](https://raw.githubusercontent.com/skyth3r/monzo-blog-feed/refs/heads/main/feeds/us_blog.atom)
 
 ### JSON feeds
 

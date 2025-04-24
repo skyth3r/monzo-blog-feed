@@ -1,21 +1,21 @@
 [
   {
     "PubDate": "2024-07-29T00:00:00Z",
-    "Description": "Today marks an exciting step on the Monzo journey, as we announce interest on Savings Jars. You'll now be able to earn interest on money saved in your Jars.",
-    "Tags": [
-      "Monzo US Blog"
-    ],
-    "Title": "You can now earn up to 4.25% APY on your money with Monzo Savings Jars",
-    "Link": "https://monzo.com/us/blog/monzo-us-blog/monzo-savings-jars-launch"
-  },
-  {
-    "PubDate": "2024-07-29T00:00:00Z",
     "Description": "If you're new to saving, you might be wondering what APY is and why it's so important. Here's the lowdown…",
     "Tags": [
       "Monzo US Blog"
     ],
     "Title": "What is APY?",
     "Link": "https://monzo.com/us/blog/what-is-apy"
+  },
+  {
+    "PubDate": "2024-07-29T00:00:00Z",
+    "Description": "Today marks an exciting step on the Monzo journey, as we announce interest on Savings Jars. You'll now be able to earn interest on money saved in your Jars.",
+    "Tags": [
+      "Monzo US Blog"
+    ],
+    "Title": "You can now earn up to 4.25% APY on your money with Monzo Savings Jars",
+    "Link": "https://monzo.com/us/blog/monzo-us-blog/monzo-savings-jars-launch"
   },
   {
     "PubDate": "2023-09-12T00:00:00Z",
@@ -325,6 +325,15 @@
     ],
     "Title": "Introducing our transparent product roadmap - US",
     "Link": "https://monzo.com/us/blog/24/01/2020/monzo-us-blog-us-product-roadmap"
+  },
+  {
+    "PubDate": "2020-01-15T00:00:00Z",
+    "Description": "All Monzo Beta cards are now contactless, so you can tap to pay 🙌",
+    "Tags": [
+      "Monzo US Blog"
+    ],
+    "Title": "Contactless cards  ",
+    "Link": "https://monzo.com/us/blog/2020/01/14/monzo-us-blog-contactless"
   },
   {
     "PubDate": "2020-01-15T00:00:00Z",

@@ -211,6 +211,10 @@ func generateFeeds(blogItems *[]blogItem, feedName string) error {
 	if err != nil {
 		return err
 	}
+	err = generateAtomFeed(feed, feedName)
+	if err != nil {
+		return err
+	}
 	err = generateJsonFeed(feed, feedName)
 	if err != nil {
 		return err
@@ -299,6 +303,28 @@ func generateRssFeed(feed *feeds.Feed, name string) error {
 	}
 
 	moveFile(fmt.Sprintf("%s.rss", name), fmt.Sprintf("feeds/%s.rss", name))
+
+	return nil
+}
+
+func generateAtomFeed(feed *feeds.Feed, name string) error {
+	atom, err := feed.ToAtom()
+	if err != nil {
+		return err
+	}
+
+	atomFile, err := os.Create(fmt.Sprintf("%s.atom", name))
+	if err != nil {
+		return err
+	}
+	defer atomFile.Close()
+
+	_, err = atomFile.WriteString(atom)
+	if err != nil {
+		return err
+	}
+
+	moveFile(fmt.Sprintf("%s.atom", name), fmt.Sprintf("feeds/%s.atom", name))
 
 	return nil
 }
