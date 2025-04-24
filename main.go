@@ -3,7 +3,6 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"log"
 	"os"
 	"sort"
 	"strconv"
@@ -66,7 +65,7 @@ func processFeed(baseURL, feedName string, tags []string, wg *sync.WaitGroup, er
 	for i := 1; i <= lastPage; i++ {
 		url := fmt.Sprintf("%s/page/%d", baseURL, i)
 		pageWg.Add(1)
-		go vistPage(url, blogItems, blogTags, &pageWg, &tagsMutex)
+		go visitPage(url, blogItems, blogTags, &pageWg, &tagsMutex)
 	}
 	pageWg.Wait()
 
@@ -127,7 +126,7 @@ func getLastPage(url string) (int, error) {
 	return last, nil
 }
 
-func vistPage(url string, items *[]blogItem, tags map[string]bool, wg *sync.WaitGroup, mu *sync.Mutex) {
+func visitPage(url string, items *[]blogItem, tags map[string]bool, wg *sync.WaitGroup, mu *sync.Mutex) {
 	c := colly.NewCollector(
 		colly.MaxDepth(1),
 		colly.AllowedDomains("monzo.com"),
@@ -237,7 +236,10 @@ func generateItemFeed(items *[]blogItem, name string) error {
 		return err
 	}
 
-	moveFile(fmt.Sprintf("%s.json", name), fmt.Sprintf(".json/%s.json", name))
+	err = moveFile(fmt.Sprintf("%s.json", name), fmt.Sprintf(".json/%s.json", name))
+	if err != nil {
+		return err
+	}
 
 	return nil
 }
@@ -302,7 +304,10 @@ func generateRssFeed(feed *feeds.Feed, name string) error {
 		return err
 	}
 
-	moveFile(fmt.Sprintf("%s.rss", name), fmt.Sprintf("feeds/%s.rss", name))
+	err = moveFile(fmt.Sprintf("%s.rss", name), fmt.Sprintf("feeds/%s.rss", name))
+	if err != nil {
+		return err
+	}
 
 	return nil
 }
@@ -324,7 +329,10 @@ func generateAtomFeed(feed *feeds.Feed, name string) error {
 		return err
 	}
 
-	moveFile(fmt.Sprintf("%s.atom", name), fmt.Sprintf("feeds/%s.atom", name))
+	err = moveFile(fmt.Sprintf("%s.atom", name), fmt.Sprintf("feeds/%s.atom", name))
+	if err != nil {
+		return err
+	}
 
 	return nil
 }
@@ -346,7 +354,10 @@ func generateJsonFeed(feed *feeds.Feed, name string) error {
 		return err
 	}
 
-	moveFile(fmt.Sprintf("%s.json", name), fmt.Sprintf("feeds/%s.json", name))
+	err = moveFile(fmt.Sprintf("%s.json", name), fmt.Sprintf("feeds/%s.json", name))
+	if err != nil {
+		return err
+	}
 
 	return nil
 }
@@ -362,8 +373,9 @@ func formatText(text string) string {
 	return text
 }
 
-func moveFile(fileName, filePath string) {
+func moveFile(fileName, filePath string) error {
 	if err := os.Rename(fileName, filePath); err != nil {
-		log.Fatalf("unable to move %s to '%s'. Error: %v", fileName, filePath, err)
+		return fmt.Errorf("unable to move %s to '%s': %w", fileName, filePath, err)
 	}
+	return nil
 }
