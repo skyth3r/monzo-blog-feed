@@ -76,16 +76,16 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/enabling-horizontal-autoscaling-with-co-operative-distributed-rate-limiting",
-      "title": "Enabling horizontal autoscaling with co-operative distributed rate limiting",
-      "summary": "Monzo runs almost 3,000 microservices to power everything. A core part of being able to run all these systems and features safely is rate limiting. In this blog post we describe how that gets us to doing what we call “distributed rate limiting.”",
+      "url": "https://monzo.com/blog/demystifying-the-backend-engineering-interview-process",
+      "title": "Demystifying the Backend Engineering interview process",
+      "summary": "We want to explain exactly what our Backend Engineering interview process entails to make it fair and transparent for all our applicants. This post explains what you should expect from each of our interviewing stages and how to prepare.",
       "date_published": "2024-09-30T00:00:00Z"
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/demystifying-the-backend-engineering-interview-process",
-      "title": "Demystifying the Backend Engineering interview process",
-      "summary": "We want to explain exactly what our Backend Engineering interview process entails to make it fair and transparent for all our applicants. This post explains what you should expect from each of our interviewing stages and how to prepare.",
+      "url": "https://monzo.com/blog/enabling-horizontal-autoscaling-with-co-operative-distributed-rate-limiting",
+      "title": "Enabling horizontal autoscaling with co-operative distributed rate limiting",
+      "summary": "Monzo runs almost 3,000 microservices to power everything. A core part of being able to run all these systems and features safely is rate limiting. In this blog post we describe how that gets us to doing what we call “distributed rate limiting.”",
       "date_published": "2024-09-30T00:00:00Z"
     },
     {
@@ -622,16 +622,16 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/we-secured-thousands-of-cassandra-clients-to-keep-monzos-data-safe",
-      "title": "We secured thousands of Cassandra clients to keep Monzo's data safe",
-      "summary": "Our security team at Monzo are working towards a 'zero trust' cluster, where an attacker inside our cluster would have no power.",
+      "url": "https://monzo.com/blog/migrating-vaults-storage-with-no-downtime",
+      "title": "We migrated Vault's storage with no downtime",
+      "summary": "We use Vault for secret management and credential issuance, and we've always configured it with the Cassandra storage backend. To help us scale, we moved to the S3 backend. But it was crucial we kept Vault available.",
       "date_published": "2019-12-17T00:00:00Z"
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/migrating-vaults-storage-with-no-downtime",
-      "title": "We migrated Vault's storage with no downtime",
-      "summary": "We use Vault for secret management and credential issuance, and we've always configured it with the Cassandra storage backend. To help us scale, we moved to the S3 backend. But it was crucial we kept Vault available.",
+      "url": "https://monzo.com/blog/we-secured-thousands-of-cassandra-clients-to-keep-monzos-data-safe",
+      "title": "We secured thousands of Cassandra clients to keep Monzo's data safe",
+      "summary": "Our security team at Monzo are working towards a 'zero trust' cluster, where an attacker inside our cluster would have no power.",
       "date_published": "2019-12-17T00:00:00Z"
     },
     {
