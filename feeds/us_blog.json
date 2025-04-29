@@ -6,16 +6,16 @@
   "items": [
     {
       "id": "",
-      "url": "https://monzo.com/us/blog/what-is-apy",
-      "title": "What is APY?",
-      "summary": "If you're new to saving, you might be wondering what APY is and why it's so important. Here's the lowdown…",
+      "url": "https://monzo.com/us/blog/monzo-us-blog/monzo-savings-jars-launch",
+      "title": "You can now earn up to 4.25% APY on your money with Monzo Savings Jars",
+      "summary": "Today marks an exciting step on the Monzo journey, as we announce interest on Savings Jars. You'll now be able to earn interest on money saved in your Jars.",
       "date_published": "2024-07-29T00:00:00Z"
     },
     {
       "id": "",
-      "url": "https://monzo.com/us/blog/monzo-us-blog/monzo-savings-jars-launch",
-      "title": "You can now earn up to 4.25% APY on your money with Monzo Savings Jars",
-      "summary": "Today marks an exciting step on the Monzo journey, as we announce interest on Savings Jars. You'll now be able to earn interest on money saved in your Jars.",
+      "url": "https://monzo.com/us/blog/what-is-apy",
+      "title": "What is APY?",
+      "summary": "If you're new to saving, you might be wondering what APY is and why it's so important. Here's the lowdown…",
       "date_published": "2024-07-29T00:00:00Z"
     },
     {
@@ -258,16 +258,16 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/us/blog/2020/01/15/monzo-us-blog-pots-us-beta",
-      "title": "Pots are here on Monzo Beta!",
-      "summary": "Pots on Monzo are a way to help you budget and save for your goals 🍯",
+      "url": "https://monzo.com/us/blog/2020/01/14/monzo-us-blog-contactless",
+      "title": "Contactless cards  ",
+      "summary": "All Monzo Beta cards are now contactless, so you can tap to pay 🙌",
       "date_published": "2020-01-15T00:00:00Z"
     },
     {
       "id": "",
-      "url": "https://monzo.com/us/blog/2020/01/14/monzo-us-blog-contactless",
-      "title": "Contactless cards  ",
-      "summary": "All Monzo Beta cards are now contactless, so you can tap to pay 🙌",
+      "url": "https://monzo.com/us/blog/2020/01/15/monzo-us-blog-pots-us-beta",
+      "title": "Pots are here on Monzo Beta!",
+      "summary": "Pots on Monzo are a way to help you budget and save for your goals 🍯",
       "date_published": "2020-01-15T00:00:00Z"
     },
     {
