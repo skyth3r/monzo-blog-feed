@@ -193,7 +193,13 @@ func visitPage(url string, items *[]blogItem, tags map[string]bool, wg *sync.Wai
 
 func generateFeeds(blogItems *[]blogItem, feedName string) error {
 	sort.Slice(*blogItems, func(i, j int) bool {
-		return (*blogItems)[i].PubDate.After((*blogItems)[j].PubDate)
+		if (*blogItems)[i].PubDate.After((*blogItems)[j].PubDate) {
+			return true
+		}
+		if (*blogItems)[i].PubDate.Before((*blogItems)[j].PubDate) {
+			return false
+		}
+		return (*blogItems)[i].Link < (*blogItems)[j].Link
 	})
 
 	err := generateItemFeed(blogItems, fmt.Sprintf("%s_feed_items", feedName))
