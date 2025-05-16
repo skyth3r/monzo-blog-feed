@@ -736,16 +736,6 @@
     "Link": "https://monzo.com/blog/2022/02/17/my-first-6-months-at-monzo-as-a-backend-engineer"
   },
   {
-    "PubDate": "2021-11-18T00:00:00Z",
-    "Description": "As a bank, we have private keys and other 'secrets' we need to protect, to keep our customers and ourselves safe. Our security controls work together to stop even the most determined and capable attackers.",
-    "Tags": [
-      "Technology",
-      "Security"
-    ],
-    "Title": "How we protect our most sensitive secrets from the most determined attackers",
-    "Link": "https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets"
-  },
-  {
     "PubDate": "2021-10-13T00:00:00Z",
     "Description": "An overview of the data stack we use at Monzo, some of the challenges we face, and what we want to change.",
     "Tags": [
