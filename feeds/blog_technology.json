@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/designing-bulk-payments-for-how-businesses-really-work",
+      "title": "Designing bulk payments for how businesses really work",
+      "summary": "This blog discusses how we designed and built bulk payments: letting users send multiple payments in one go. It's a story of cross-team collaboration, complex challenges, and how we stayed laser-focused on what our users actually need to get done.",
+      "date_published": "2025-05-28T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/demystifying-the-senior-staff-engineering-interview-process",
       "title": "Demystifying the Senior Staff+ Engineering interview process",
       "summary": "We want to explain exactly what our Senior Staff+ interview process entails to make it fair and transparent for all our applicants. This post explains what you should expect from each of our interviewing stages and how to prepare.",

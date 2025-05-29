@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-05-28T00:00:00Z",
+    "Description": "This blog discusses how we designed and built bulk payments: letting users send multiple payments in one go. It's a story of cross-team collaboration, complex challenges, and how we stayed laser-focused on what our users actually need to get done.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Designing bulk payments for how businesses really work",
+    "Link": "https://monzo.com/blog/designing-bulk-payments-for-how-businesses-really-work"
+  },
+  {
     "PubDate": "2025-05-13T00:00:00Z",
     "Description": "With a Monzo account, it's now possible to reverse a payment if you made a mistake with the amount you sent, who you sent it to, or the fact that you sent it at all.",
     "Tags": [
@@ -153,6 +162,15 @@
     ],
     "Title": "How each role in Borrowing Data allows us to think big and innovate",
     "Link": "https://monzo.com/blog/how-each-role-in-borrowing-data-allows-us-to-think-big-and-innovate"
+  },
+  {
+    "PubDate": "2025-01-06T00:00:00Z",
+    "Description": "Checking your credit score can help you find out what your borrowing health is like and how you might look to potential lenders. We've outlined how to check your credit score!",
+    "Tags": [
+      "Credit scores"
+    ],
+    "Title": "How to check your credit score",
+    "Link": "https://monzo.com/blog/credit-scores/check-your-score"
   },
   {
     "PubDate": "2024-12-18T00:00:00Z",
