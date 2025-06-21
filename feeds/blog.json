@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/designing-bulk-payments-for-how-businesses-really-work",
+      "title": "Designing bulk payments for how businesses really work",
+      "summary": "This blog discusses how we designed and built bulk payments: letting users send multiple payments in one go. It's a story of cross-team collaboration, complex challenges, and how we stayed laser-focused on what our users actually need to get done.",
+      "date_published": "2025-05-28T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/undo-payments",
       "title": "You can now undo payments",
       "summary": "With a Monzo account, it's now possible to reverse a payment if you made a mistake with the amount you sent, who you sent it to, or the fact that you sent it at all.",
@@ -73,6 +80,20 @@
       "title": "We've made our writing system available to all",
       "summary": "We're sharing how we write in our app with writers, designers, engineers and everyone else in case they find it helpful.",
       "date_published": "2025-02-19T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/decoding-romance-scams",
+      "title": "Decoding romance scams: how and why they work",
+      "summary": "Romance scams are difficult to spot but devastating to deal with. Find out how and why they work, plus some tips to protect yourself.",
+      "date_published": "2025-02-14T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/tolerating-full-cloud-outages-with-monzo-stand-in",
+      "title": "Tolerating full cloud outages with Monzo Stand-in",
+      "summary": "We built a completely separate backup banking infrastructure called Monzo Stand-in to add another layer of defence so customers can continue to use important services provided by us",
+      "date_published": "2025-02-13T00:00:00Z"
     },
     {
       "id": "",
