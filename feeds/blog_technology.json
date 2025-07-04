@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/monzo-is-coming-to-barcelona",
+      "title": "Monzo is coming to Barcelona!",
+      "summary": "We're opening an office and hub in Barcelona to help reach our ambition of making money work for everyone, globally! We're attending, sponsoring and hosting events in Barcelona throughout the year",
+      "date_published": "2025-07-02T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/designing-bulk-payments-for-how-businesses-really-work",
       "title": "Designing bulk payments for how businesses really work",
       "summary": "This blog discusses how we designed and built bulk payments: letting users send multiple payments in one go. It's a story of cross-team collaboration, complex challenges, and how we stayed laser-focused on what our users actually need to get done.",
