@@ -447,6 +447,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2022/07/26/switching-from-customer-service-representative-to-backend-engineer",
+      "title": "Switching from Customer Service Representative to Backend Engineer",
+      "summary": "Kyle joined Monzo as a COp, a customer service representative, but three years on he now works in a product team as one of our backend engineers! Kyle and his mentor Duncan share the story of how Kyle made his career switch",
+      "date_published": "2022-07-25T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/06/24/redefining-our-microservice-development-process",
       "title": "Redefining our microservice development process",
       "summary": "We've been working on some new techniques to help make the development of services easier as we continue to grow and the entire platform can't be run locally.",
