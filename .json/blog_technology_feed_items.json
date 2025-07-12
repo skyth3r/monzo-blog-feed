@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-07-11T00:00:00Z",
+    "Description": "This post is about a significant change in how we approach data within Operations: shifting from a service mindset to treating our data as a product. As a result our teams can self-serve more effectively, helping us navigate our platform migration.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "From Dashboards to Data Products: How We're Redesigning Analytics in Monzo Customer Operations",
+    "Link": "https://monzo.com/blog/from-dashboards-to-data-products-how-we-are-redesigning-analytics-in-monzo"
+  },
+  {
     "PubDate": "2025-07-02T00:00:00Z",
     "Description": "We're opening an office and hub in Barcelona to support our core platform and help reach our ambition of making money work for everyone, globally! We're attending, sponsoring and hosting events in Barcelona throughout the year ✨",
     "Tags": [

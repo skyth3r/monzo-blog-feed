@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/from-dashboards-to-data-products-how-we-are-redesigning-analytics-in-monzo",
+      "title": "From Dashboards to Data Products: How We're Redesigning Analytics in Monzo Customer Operations",
+      "summary": "This post is about a significant change in how we approach data within Operations: shifting from a service mindset to treating our data as a product. As a result our teams can self-serve more effectively, helping us navigate our platform migration.",
+      "date_published": "2025-07-11T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/monzo-is-opening-an-engineering-hub-in-barcelona",
       "title": "Monzo is opening an engineering hub in Barcelona!",
       "summary": "We're opening an office and hub in Barcelona to support our core platform and help reach our ambition of making money work for everyone, globally! We're attending, sponsoring and hosting events in Barcelona throughout the year ✨",

@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-07-11T00:00:00Z",
+    "Description": "This post is about a significant change in how we approach data within Operations: shifting from a service mindset to treating our data as a product. As a result our teams can self-serve more effectively, helping us navigate our platform migration.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "From Dashboards to Data Products: How We're Redesigning Analytics in Monzo Customer Operations",
+    "Link": "https://monzo.com/blog/from-dashboards-to-data-products-how-we-are-redesigning-analytics-in-monzo"
+  },
+  {
     "PubDate": "2025-07-02T00:00:00Z",
     "Description": "We're opening an office and hub in Barcelona to support our core platform and help reach our ambition of making money work for everyone, globally! We're attending, sponsoring and hosting events in Barcelona throughout the year ✨",
     "Tags": [
@@ -2302,12 +2311,13 @@
   },
   {
     "PubDate": "2021-10-21T00:00:00Z",
-    "Description": "Kirsti's income decreased after a degenerative eye condition meant she could no longer work at a desk. Here's how she pivoted from full-time accounting to start her own yoga business - and kept on top of her finances through it all.",
+    "Description": "If you have a loan with Monzo, please reach out to us in the app. Here's what we could do to help.",
     "Tags": [
-      "How I Use Monzo"
+      "How Money Works",
+      "Loans Help"
     ],
-    "Title": "‘My income halved': How an accountant-turned-yoga teacher adapted to her new income",
-    "Link": "https://monzo.com/blog/my-income-halved-accountant-turned-freelance-yoga-teacher"
+    "Title": "What to do if you miss a loan repayment",
+    "Link": "https://monzo.com/blog/what-to-do-if-you-miss-a-loan-repayment"
   },
   {
     "PubDate": "2021-10-21T00:00:00Z",
@@ -3359,16 +3369,6 @@
     ],
     "Title": "We're making it easier to add money to your Monzo account",
     "Link": "https://monzo.com/blog/2020/07/06/easy-bank-transfers"
-  },
-  {
-    "PubDate": "2020-06-29T00:00:00Z",
-    "Description": "If you have a loan with Monzo, please reach out to us in the app. Here's what we could do to help.",
-    "Tags": [
-      "How Money Works",
-      "Loans Help"
-    ],
-    "Title": "What to do if you miss a loan repayment",
-    "Link": "https://monzo.com/blog/what-to-do-if-you-miss-a-loan-repayment"
   },
   {
     "PubDate": "2020-06-26T00:00:00Z",
