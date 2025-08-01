@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-07-30T00:00:00Z",
+    "Description": "Over the last year, we've re-designed our Fraud Prevention Platform at Monzo to scale with control complexity, allows us to ship fast and adds better monitoring for our controls",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Building a reactive Fraud Prevention Platform",
+    "Link": "https://monzo.com/blog/build-a-reactive-fraud-prevention-platform"
+  },
+  {
     "PubDate": "2025-07-11T00:00:00Z",
     "Description": "This post is about a significant change in how we approach data within Operations: shifting from a service mindset to treating our data as a product. As a result our teams can self-serve more effectively, helping us navigate our platform migration.",
     "Tags": [

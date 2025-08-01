@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/build-a-reactive-fraud-prevention-platform",
+      "title": "Building a reactive Fraud Prevention Platform",
+      "summary": "Over the last year, we've re-designed our Fraud Prevention Platform at Monzo to scale with control complexity, allows us to ship fast and adds better monitoring for our controls",
+      "date_published": "2025-07-30T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/from-dashboards-to-data-products-how-we-are-redesigning-analytics-in-monzo",
       "title": "From Dashboards to Data Products: How We're Redesigning Analytics in Monzo Customer Operations",
       "summary": "This post is about a significant change in how we approach data within Operations: shifting from a service mindset to treating our data as a product. As a result our teams can self-serve more effectively, helping us navigate our platform migration.",
