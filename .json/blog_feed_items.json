@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-08-21T00:00:00Z",
+    "Description": "What is trusted access and how can it help support you or your loved ones when your living circumstances change? We break it all down for you in this blog.",
+    "Tags": [
+      "Customer Support"
+    ],
+    "Title": "What to do if you need help looking after your account",
+    "Link": "https://monzo.com/blog/what-to-do-if-you-need-help-looking-after-your-account"
+  },
+  {
     "PubDate": "2025-07-30T00:00:00Z",
     "Description": "Over the last year, we've re-designed our Fraud Prevention Platform at Monzo to scale with control complexity, allows us to ship fast and adds better monitoring for our controls",
     "Tags": [
@@ -115,15 +124,6 @@
     ],
     "Title": "Demystifying the Backend Engineering interview process",
     "Link": "https://monzo.com/blog/demystifying-the-backend-engineering-interview-process"
-  },
-  {
-    "PubDate": "2025-02-27T00:00:00Z",
-    "Description": "What is a third-party mandate, and how can it help you support you, or your loved ones when your living circumstances change? We break it all down for you in this blog.",
-    "Tags": [
-      "Customer Support"
-    ],
-    "Title": "What to do if you need help looking after your account",
-    "Link": "https://monzo.com/blog/what-to-do-if-you-need-help-looking-after-your-account"
   },
   {
     "PubDate": "2025-02-19T00:00:00Z",
@@ -4841,7 +4841,7 @@
   },
   {
     "PubDate": "2019-09-05T00:00:00Z",
-    "Description": "You can now open an Easy Access Savings Pot with a £10 minimum deposit and start earning up to 1.15% interest (AER, variable).",
+    "Description": "You can now open an Easy Access Savings account with a £10 minimum deposit and start earning interest (AER, variable).",
     "Tags": [
       "Product Updates"
     ],
@@ -7302,15 +7302,6 @@
     ],
     "Title": "How do I add money to my Monzo account?",
     "Link": "https://monzo.com/blog/2018/06/08/adding-money-to-monzo"
-  },
-  {
-    "PubDate": "2018-06-07T00:00:00Z",
-    "Description": "Yes! Monzo is a fully-licenced UK bank. That means we're regulated by the FCA and the PRA and the money in your Monzo account's protected up to £85,000.",
-    "Tags": [
-      "Monzo 101"
-    ],
-    "Title": "Is Monzo a bank?",
-    "Link": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank"
   },
   {
     "PubDate": "2018-06-07T00:00:00Z",
