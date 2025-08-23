@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/best-value-sun-loungers",
+      "title": "Beach day budgeting: the best value spots for sun loungers across Europe",
+      "summary": "Discover where your holiday budget goes furthest with our guide to the best and worst value sun loungers on the top beaches in the UK and Europe this summer.",
+      "date_published": "2025-08-21T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/what-to-do-if-you-need-help-looking-after-your-account",
       "title": "What to do if you need help looking after your account",
       "summary": "What is trusted access and how can it help support you or your loved ones when your living circumstances change? We break it all down for you in this blog.",
@@ -3760,7 +3767,7 @@
       "id": "",
       "url": "https://monzo.com/blog/2019/08/09/how-were-doing-savings-accounts-differently",
       "title": "We've added new interest rates for Savings Pots!",
-      "summary": "We're now offering up to 1.81%* (AER/Gross) on Fixed Savings Pots and 1.15%* (AER/Gross variable) on Easy Access Savings Pots - the highest rates for Monzo Savings Pots so far!",
+      "summary": "We've added new interest rates for Savings Pots! Learn how we're making it easier to have all your money in one place and still get a strong interest rate.",
       "date_published": "2019-08-09T00:00:00Z"
     },
     {
@@ -3844,7 +3851,7 @@
       "id": "",
       "url": "https://monzo.com/blog/2019/07/24/fixed-term-savings-pot-account",
       "title": "What is a Fixed Term Savings Pot?",
-      "summary": "We've just launched a 3 month Fixed Savings Pot, with a market-leading interest rate of 1.35% (AER, variable).",
+      "summary": "We've just launched a 3 month Fixed Savings Pot, with market-leading interest rates (AER, variable).",
       "date_published": "2019-07-23T00:00:00Z"
     },
     {
@@ -4278,7 +4285,7 @@
       "id": "",
       "url": "https://monzo.com/blog/2019/05/02/shawbrook-savings-pots",
       "title": "Flexible Savings Pots are back - with a new provider! 🎉",
-      "summary": "We're launching Flexible Savings Pots with Shawbrook to help you earn 1.12% on your savings.",
+      "summary": "We're launching Flexible Savings Pots with Shawbrook to help you earn interest on your savings.",
       "date_published": "2019-05-02T00:00:00Z"
     },
     {
@@ -4992,7 +4999,7 @@
       "id": "",
       "url": "https://monzo.com/blog/2018/11/01/savings-pots",
       "title": "Get interest paid on your savings!",
-      "summary": "Savings Pots let you earn 1% interest on your savings through Monzo. And we're starting to roll them out today!",
+      "summary": "Savings Pots let you earn interest on your savings through Monzo. And we're starting to roll them out today!",
       "date_published": "2018-11-01T00:00:00Z"
     },
     {
@@ -5547,6 +5554,13 @@
       "title": "How do I add money to my Monzo account?",
       "summary": "Add money to your Monzo account by making a bank transfer, setting up a standing order, or getting your salary paid straight in.",
       "date_published": "2018-06-08T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank",
+      "title": "Is Monzo a bank?",
+      "summary": "Yes! Monzo is a fully-licenced UK bank. That means we're regulated by the FCA and the PRA and the money in your Monzo account's protected up to £85,000.",
+      "date_published": "2018-06-07T00:00:00Z"
     },
     {
       "id": "",
