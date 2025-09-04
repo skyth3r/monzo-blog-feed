@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/beyond-the-last-click-how-monzo-measures-crms-true-impact",
+      "title": "Beyond the Last Click: How Monzo Measures CRM's True Impact",
+      "summary": "In this blog we cover how Monzo approaches CRM measurement. We detail our new hybrid model that uses universal holdouts and attribution to precisely measure how our messages impact customer behaviour.",
+      "date_published": "2025-09-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/build-a-reactive-fraud-prevention-platform",
       "title": "Building a reactive Fraud Prevention Platform",
       "summary": "Over the last year, we've re-designed our Fraud Prevention Platform at Monzo to scale with control complexity, allows us to ship fast and adds better monitoring for our controls",

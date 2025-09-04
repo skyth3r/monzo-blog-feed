@@ -1,5 +1,23 @@
 [
   {
+    "PubDate": "2025-09-03T00:00:00Z",
+    "Description": "In this blog we cover how Monzo approaches CRM measurement. We detail our new hybrid model that uses universal holdouts and attribution to precisely measure how our messages impact customer behaviour.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Beyond the Last Click: How Monzo Measures CRM's True Impact",
+    "Link": "https://monzo.com/blog/beyond-the-last-click-how-monzo-measures-crms-true-impact"
+  },
+  {
+    "PubDate": "2025-09-03T00:00:00Z",
+    "Description": "Our bereavement specialists are here to support you and make closing the Monzo account of someone who's died as simple as possible.",
+    "Tags": [
+      "Customer Support"
+    ],
+    "Title": "How we can support you if someone with a Monzo account dies",
+    "Link": "https://monzo.com/blog/help-if-someone-with-a-monzo-account-dies"
+  },
+  {
     "PubDate": "2025-08-21T00:00:00Z",
     "Description": "Discover where your holiday budget goes furthest with our guide to the best and worst value sun loungers on the top beaches in the UK and Europe this summer.",
     "Tags": [
@@ -775,15 +793,6 @@
     ],
     "Title": "Protecting our platform from spikes in usage by reducing load from the Monzo app",
     "Link": "https://monzo.com/blog/2023/10/12/protecting-our-platform-from-spikes-in-usage-by-reducing-load-from-the-monzo"
-  },
-  {
-    "PubDate": "2023-09-21T00:00:00Z",
-    "Description": "Our bereavement specialists are here to support you and make closing the Monzo account of someone who's died as simple as possible.",
-    "Tags": [
-      "Customer Support"
-    ],
-    "Title": "How we can support you if someone with a Monzo account dies",
-    "Link": "https://monzo.com/blog/help-if-someone-with-a-monzo-account-dies"
   },
   {
     "PubDate": "2023-09-13T00:00:00Z",
@@ -4700,6 +4709,15 @@
     ],
     "Title": "How our security team handle secrets",
     "Link": "https://monzo.com/blog/2019/10/11/how-our-security-team-handle-secrets"
+  },
+  {
+    "PubDate": "2019-10-10T00:00:00Z",
+    "Description": "Excited to see what you've earned? Want to make sure you're being taxed right? Learn the language of payslips with our comprehensive guide.",
+    "Tags": [
+      "How Money Works"
+    ],
+    "Title": "Understanding your payslip",
+    "Link": "https://monzo.com/blog/2018/09/26/how-to-read-your-payslip"
   },
   {
     "PubDate": "2019-10-10T00:00:00Z",

@@ -6,6 +6,20 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/beyond-the-last-click-how-monzo-measures-crms-true-impact",
+      "title": "Beyond the Last Click: How Monzo Measures CRM's True Impact",
+      "summary": "In this blog we cover how Monzo approaches CRM measurement. We detail our new hybrid model that uses universal holdouts and attribution to precisely measure how our messages impact customer behaviour.",
+      "date_published": "2025-09-03T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/help-if-someone-with-a-monzo-account-dies",
+      "title": "How we can support you if someone with a Monzo account dies",
+      "summary": "Our bereavement specialists are here to support you and make closing the Monzo account of someone who's died as simple as possible.",
+      "date_published": "2025-09-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/best-value-sun-loungers",
       "title": "Beach day budgeting: the best value spots for sun loungers across Europe",
       "summary": "Discover where your holiday budget goes furthest with our guide to the best and worst value sun loungers on the top beaches in the UK and Europe this summer.",
@@ -598,13 +612,6 @@
       "title": "Protecting our platform from spikes in usage by reducing load from the Monzo app",
       "summary": "This blog explores how we've made our platform more resilient to spikes in app opens. We can now reduce load on our platform before we get overwhelmed so you can still access and use critical parts of the app, and your card continues to work.",
       "date_published": "2023-10-12T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/help-if-someone-with-a-monzo-account-dies",
-      "title": "How we can support you if someone with a Monzo account dies",
-      "summary": "Our bereavement specialists are here to support you and make closing the Monzo account of someone who's died as simple as possible.",
-      "date_published": "2023-09-21T00:00:00Z"
     },
     {
       "id": "",
@@ -3538,6 +3545,13 @@
       "title": "How our security team handle secrets",
       "summary": "We recently designed a new system to manage secret information safely - from the keys that we use to sign your Mastercard transactions, to credentials for external services.",
       "date_published": "2019-10-11T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/09/26/how-to-read-your-payslip",
+      "title": "Understanding your payslip",
+      "summary": "Excited to see what you've earned? Want to make sure you're being taxed right? Learn the language of payslips with our comprehensive guide.",
+      "date_published": "2019-10-10T00:00:00Z"
     },
     {
       "id": "",
