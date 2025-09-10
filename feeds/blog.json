@@ -1742,13 +1742,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2021/11/23/monzo-flex-ways-to-pay-later",
-      "title": "Ways to pay with Monzo Flex: in-store, online or up to two weeks later",
-      "summary": "Use Monzo Flex to get more time to pay in store, online or up to two weeks later.",
-      "date_published": "2021-11-23T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets",
       "title": "How we protect our most sensitive secrets from the most determined attackers",
       "summary": "As a bank, we have private keys and other 'secrets' we need to protect, to keep our customers and ourselves safe. Our security controls work together to stop even the most determined and capable attackers.",
