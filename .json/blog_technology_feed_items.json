@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-09-18T00:00:00Z",
+    "Description": "A comprehensive guide for Engineering Managers. It outlines expectations on impact, technical strategy, and team building and how we enable our EMs to drive their areas with strong support from their manager at Monzo.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Expectations for an Engineering Manager at Monzo",
+    "Link": "https://monzo.com/blog/expectations-for-an-engineering-manager-at-monzo"
+  },
+  {
     "PubDate": "2025-09-03T00:00:00Z",
     "Description": "In this blog we cover how Monzo approaches CRM measurement. We detail our new hybrid model that uses universal holdouts and attribution to precisely measure how our messages impact customer behaviour.",
     "Tags": [
@@ -723,6 +732,25 @@
     ],
     "Title": "Scaling our on-call process",
     "Link": "https://monzo.com/blog/2022-02-24/scaling-our-on-call-process"
+  },
+  {
+    "PubDate": "2022-02-18T00:00:00Z",
+    "Description": "In June 2021 we started designing and implementing a new way to calculate balances that is more reliable and consistent. This post explains why the old approach needed improving and the changes we made.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How we calculate balances",
+    "Link": "https://monzo.com/blog/2022/02/18/how-we-calculate-balances"
+  },
+  {
+    "PubDate": "2022-02-15T00:00:00Z",
+    "Description": "This post explains how our public key infrastructure uses a combination of different secret storage systems to implement a balance between security assurances and usability.",
+    "Tags": [
+      "Technology",
+      "Security"
+    ],
+    "Title": "Securely delegating trust with digital signatures and secret storage systems",
+    "Link": "https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems"
   },
   {
     "PubDate": "2022-02-08T00:00:00Z",

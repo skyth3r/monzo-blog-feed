@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/expectations-for-an-engineering-manager-at-monzo",
+      "title": "Expectations for an Engineering Manager at Monzo",
+      "summary": "A comprehensive guide for Engineering Managers. It outlines expectations on impact, technical strategy, and team building and how we enable our EMs to drive their areas with strong support from their manager at Monzo.",
+      "date_published": "2025-09-18T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/beyond-the-last-click-how-monzo-measures-crms-true-impact",
       "title": "Beyond the Last Click: How Monzo Measures CRM's True Impact",
       "summary": "In this blog we cover how Monzo approaches CRM measurement. We detail our new hybrid model that uses universal holdouts and attribution to precisely measure how our messages impact customer behaviour.",
@@ -556,6 +563,20 @@
       "title": "Scaling our on-call process",
       "summary": "As Monzo has grown, we've continued to change our on-call process so we can keep our systems running smoothly without sacrificing the wellbeing of our engineers. Luke Briscoe explains what we've changed and how.",
       "date_published": "2022-02-24T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/02/18/how-we-calculate-balances",
+      "title": "How we calculate balances",
+      "summary": "In June 2021 we started designing and implementing a new way to calculate balances that is more reliable and consistent. This post explains why the old approach needed improving and the changes we made.",
+      "date_published": "2022-02-18T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems",
+      "title": "Securely delegating trust with digital signatures and secret storage systems",
+      "summary": "This post explains how our public key infrastructure uses a combination of different secret storage systems to implement a balance between security assurances and usability.",
+      "date_published": "2022-02-15T00:00:00Z"
     },
     {
       "id": "",
