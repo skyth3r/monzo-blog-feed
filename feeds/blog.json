@@ -1119,9 +1119,9 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2023/01/31/an-update-on-our-gender-pay-gap-jan-2023",
-      "title": "An update on our gender pay gap, April 2022",
-      "summary": "In October 2021, we reported our gender pay gap as a snapshot for April 2020 and April 2021. This update looks at the gender pay gap changes since we last reported.",
+      "url": "https://monzo.com/blog/2018/05/18/voluntary-disclosure",
+      "title": "Disclosing mental health to your bank",
+      "summary": "Head of Financial Difficulties Stuart explains why it can be useful to tell us if you're struggling with mental health problems, and what we can do to help.",
       "date_published": "2023-01-31T00:00:00Z"
     },
     {
@@ -4850,6 +4850,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2018/12/11/december-update",
+      "title": "Monzo Monthly Update: December",
+      "summary": "We take a look at the progress we've made so far, and explain what's in store for the rest of the month.",
+      "date_published": "2018-12-11T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2018/12/11/design-files-system",
       "title": "Why you should care about keeping your design files clean",
       "summary": "Organising your design files is crucial if you want to work quickly and collaborate effectively as you grow. We've explained the way our system works and made our tooling open source so you can use it too!",
@@ -4861,6 +4868,13 @@
       "title": "Providing customer support from Las Vegas! 🇺🇸",
       "summary": "We're opening our own office in Las Vegas so we can keep giving all our customers round-the-clock support as we grow.",
       "date_published": "2018-12-11T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/12/10/joint-pots",
+      "title": "Save together with Pots on joint accounts!",
+      "summary": "You can now use Pots on joint accounts!",
+      "date_published": "2018-12-10T00:00:00Z"
     },
     {
       "id": "",
@@ -5637,13 +5651,6 @@
       "url": "https://monzo.com/blog/2018/05/18/mindfulness-and-wellbeing",
       "title": "Supporting Mindfulness and Wellbeing at Monzo",
       "summary": "Beth from our People team explains what we're doing at Monzo to help make sure our minds stay healthy.",
-      "date_published": "2018-05-18T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2018/05/18/voluntary-disclosure",
-      "title": "Disclosing mental health to your bank",
-      "summary": "Head of Financial Difficulties Stuart explains why it can be useful to tell us if you're struggling with mental health problems, and what we can do to help.",
       "date_published": "2018-05-18T00:00:00Z"
     },
     {

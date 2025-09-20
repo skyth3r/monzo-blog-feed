@@ -1450,12 +1450,12 @@
   },
   {
     "PubDate": "2023-01-31T00:00:00Z",
-    "Description": "In October 2021, we reported our gender pay gap as a snapshot for April 2020 and April 2021. This update looks at the gender pay gap changes since we last reported.",
+    "Description": "Head of Financial Difficulties Stuart explains why it can be useful to tell us if you're struggling with mental health problems, and what we can do to help.",
     "Tags": [
-      "Diversity and Inclusion"
+      "Mental Health"
     ],
-    "Title": "An update on our gender pay gap, April 2022",
-    "Link": "https://monzo.com/blog/2023/01/31/an-update-on-our-gender-pay-gap-jan-2023"
+    "Title": "Disclosing mental health to your bank",
+    "Link": "https://monzo.com/blog/2018/05/18/voluntary-disclosure"
   },
   {
     "PubDate": "2023-01-31T00:00:00Z",
@@ -6401,6 +6401,15 @@
   },
   {
     "PubDate": "2018-12-11T00:00:00Z",
+    "Description": "We take a look at the progress we've made so far, and explain what's in store for the rest of the month.",
+    "Tags": [
+      "Quarterly Updates"
+    ],
+    "Title": "Monzo Monthly Update: December",
+    "Link": "https://monzo.com/blog/2018/12/11/december-update"
+  },
+  {
+    "PubDate": "2018-12-11T00:00:00Z",
     "Description": "Organising your design files is crucial if you want to work quickly and collaborate effectively as you grow. We've explained the way our system works and made our tooling open source so you can use it too!",
     "Tags": [
       "Design"
@@ -6416,6 +6425,15 @@
     ],
     "Title": "Providing customer support from Las Vegas! 🇺🇸",
     "Link": "https://monzo.com/blog/2018/12/11/las-vegas-office"
+  },
+  {
+    "PubDate": "2018-12-10T00:00:00Z",
+    "Description": "You can now use Pots on joint accounts!",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Save together with Pots on joint accounts!",
+    "Link": "https://monzo.com/blog/2018/12/10/joint-pots"
   },
   {
     "PubDate": "2018-12-06T00:00:00Z",
@@ -7419,15 +7437,6 @@
     ],
     "Title": "Supporting Mindfulness and Wellbeing at Monzo",
     "Link": "https://monzo.com/blog/2018/05/18/mindfulness-and-wellbeing"
-  },
-  {
-    "PubDate": "2018-05-18T00:00:00Z",
-    "Description": "Head of Financial Difficulties Stuart explains why it can be useful to tell us if you're struggling with mental health problems, and what we can do to help.",
-    "Tags": [
-      "Mental Health"
-    ],
-    "Title": "Disclosing mental health to your bank",
-    "Link": "https://monzo.com/blog/2018/05/18/voluntary-disclosure"
   },
   {
     "PubDate": "2018-05-17T00:00:00Z",
