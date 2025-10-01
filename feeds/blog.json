@@ -1616,13 +1616,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/03/2/everything-you-need-to-know-about-making-tax-digital",
-      "title": "Everything you need to know about Making Tax Digital",
-      "summary": "We've teamed up with our friends at Xero to share everything you need to know before 1 April's Making Tax Digital deadline 🧾",
-      "date_published": "2022-03-02T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022-02-24/scaling-our-on-call-process",
       "title": "Scaling our on-call process",
       "summary": "As Monzo has grown, we've continued to change our on-call process so we can keep our systems running smoothly without sacrificing the wellbeing of our engineers. Luke Briscoe explains what we've changed and how.",
