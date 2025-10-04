@@ -433,6 +433,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2022/11/25/reducing-nat-gateway-cost-with-private-networking-between-aws-and-gcp",
+      "title": "Reducing our NAT Gateway cost with private networking between AWS and GCP",
+      "summary": "Sharing knowledge on how we implementing private networking between AWS and GCP",
+      "date_published": "2022-11-25T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/11/16/how-insights-shaped-building-a-0-1-product-monzo-flex",
       "title": "How insights shaped building a 0-1 product: Monzo Flex",
       "summary": "We wanted to share more about why we launched a new 0-1 product to help people pay for purchases later and how a mixed-method research discovery led to the product that over hundreds of thousands of customers use and love today!",
