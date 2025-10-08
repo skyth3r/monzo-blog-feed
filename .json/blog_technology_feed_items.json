@@ -529,6 +529,17 @@
     "Link": "https://monzo.com/blog/2023/01/26/preparing-for-spikes-in-traffic-as-millions-get-paid-early"
   },
   {
+    "PubDate": "2022-12-19T00:00:00Z",
+    "Description": "An end-of-year review of how machine learning continues to evolve and grow at Monzo",
+    "Tags": [
+      "Data",
+      "Machine Learning",
+      "Technology"
+    ],
+    "Title": "Machine Learning at Monzo in 2022",
+    "Link": "https://monzo.com/blog/2022/12/19/machine-learning-at-monzo-in-2022"
+  },
+  {
     "PubDate": "2022-12-15T00:00:00Z",
     "Description": "dbt is a fundamental piece of Monzo's data platform. We made the big decision to build a whole new extension framework that would give us more flexibility.",
     "Tags": [
