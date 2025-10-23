@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/our-growth-forecasting-journey-from-launch-to-impact",
+      "title": "Our Growth forecasting journey: from launch to impact",
+      "summary": "This blog talks about how we forecast customer growth at Monzo, and how we use the tool Prophet, which accounts for seasonality, marketing spend, and one-off campaigns to produce accurate, interpretable forecasts, to support our various functions.",
+      "date_published": "2025-10-22T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/expectations-for-an-engineering-manager-at-monzo",
       "title": "Expectations for an Engineering Manager at Monzo",
       "summary": "A comprehensive guide for Engineering Managers. It outlines expectations on impact, technical strategy, and team building and how we enable our EMs to drive their areas with strong support from their manager at Monzo.",
@@ -1361,6 +1368,13 @@
       "title": "Becoming a Product Marketing Manager at Monzo",
       "summary": "Rore shares what a product marketing manager does do and what a typical day in the life looks like.",
       "date_published": "2022-10-13T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/10/04/product-management-at-monzo-the-interview-process",
+      "title": "Product Management at Monzo: The interview process",
+      "summary": "In this blog we share details about what our product manager interviewing process looks like behind the scenes!",
+      "date_published": "2022-10-04T00:00:00Z"
     },
     {
       "id": "",

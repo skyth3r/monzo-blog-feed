@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-10-22T00:00:00Z",
+    "Description": "This blog talks about how we forecast customer growth at Monzo, and how we use the tool Prophet, which accounts for seasonality, marketing spend, and one-off campaigns to produce accurate, interpretable forecasts, to support our various functions.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Our Growth forecasting journey: from launch to impact",
+    "Link": "https://monzo.com/blog/our-growth-forecasting-journey-from-launch-to-impact"
+  },
+  {
     "PubDate": "2025-09-18T00:00:00Z",
     "Description": "A comprehensive guide for Engineering Managers. It outlines expectations on impact, technical strategy, and team building and how we enable our EMs to drive their areas with strong support from their manager at Monzo.",
     "Tags": [
@@ -1769,6 +1778,15 @@
     ],
     "Title": "Becoming a Product Marketing Manager at Monzo",
     "Link": "https://monzo.com/blog/2022/10/13/becoming-a-product-marketing-manager-at-monzo"
+  },
+  {
+    "PubDate": "2022-10-04T00:00:00Z",
+    "Description": "In this blog we share details about what our product manager interviewing process looks like behind the scenes!",
+    "Tags": [
+      "Product Management"
+    ],
+    "Title": "Product Management at Monzo: The interview process",
+    "Link": "https://monzo.com/blog/2022/10/04/product-management-at-monzo-the-interview-process"
   },
   {
     "PubDate": "2022-09-28T00:00:00Z",
