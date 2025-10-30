@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/hidden-costs-of-shared-pet-ownership",
+      "title": "Pet-nup before you break-up: the hidden costs of sharing a pet with a partner",
+      "summary": "Do you really need a pet-nup? Discover the hidden costs of sharing a pet with a partner, including the price of a break-up and the pitfalls of splitting expenses.",
+      "date_published": "2025-10-28T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/our-growth-forecasting-journey-from-launch-to-impact",
       "title": "Our Growth forecasting journey: from launch to impact",
       "summary": "This blog talks about how we forecast customer growth at Monzo, and how we use the tool Prophet, which accounts for seasonality, marketing spend, and one-off campaigns to produce accurate, interpretable forecasts, to support our various functions.",
@@ -37,13 +44,6 @@
       "url": "https://monzo.com/blog/best-value-sun-loungers",
       "title": "Beach day budgeting: the best value spots for sun loungers across Europe",
       "summary": "Discover where your holiday budget goes furthest with our guide to the best and worst value sun loungers on the top beaches in the UK and Europe this summer.",
-      "date_published": "2025-08-21T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/hidden-costs-of-shared-pet-ownership",
-      "title": "Pet-nup before you break-up: the hidden costs of sharing a pet with a partner",
-      "summary": "Do you really need a pet-nup? Discover the hidden costs of sharing a pet with a partner, including the price of a break-up and the pitfalls of splitting expenses.",
       "date_published": "2025-08-21T00:00:00Z"
     },
     {
