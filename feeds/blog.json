@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/building-the-1p-saving-challenge",
+      "title": "Building the 1p Saving Challenge",
+      "summary": "This blog shares the process behind how we created the 1p Saving Challenge, our incremental saving challenge that has been hugely successful with customers.",
+      "date_published": "2025-11-12T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/flex-on-apple-pay",
       "title": "Flex on Apple Pay: Now it's even easier to pay your way",
       "summary": "iPhone users can now choose their monthly payment right at checkout with Flex on Apple Pay, in-store, online and in-app 🎉",

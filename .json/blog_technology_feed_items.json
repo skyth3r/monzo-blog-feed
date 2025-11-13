@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-11-12T00:00:00Z",
+    "Description": "This blog shares the process behind how we created the 1p Saving Challenge, our incremental saving challenge that has been hugely successful with customers.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Building the 1p Saving Challenge",
+    "Link": "https://monzo.com/blog/building-the-1p-saving-challenge"
+  },
+  {
     "PubDate": "2025-10-22T00:00:00Z",
     "Description": "This blog talks about how we forecast customer growth at Monzo, and how we use the tool Prophet, which accounts for seasonality, marketing spend, and one-off campaigns to produce accurate, interpretable forecasts, to support our various functions.",
     "Tags": [

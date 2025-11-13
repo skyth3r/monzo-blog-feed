@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/building-the-1p-saving-challenge",
+      "title": "Building the 1p Saving Challenge",
+      "summary": "This blog shares the process behind how we created the 1p Saving Challenge, our incremental saving challenge that has been hugely successful with customers.",
+      "date_published": "2025-11-12T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/our-growth-forecasting-journey-from-launch-to-impact",
       "title": "Our Growth forecasting journey: from launch to impact",
       "summary": "This blog talks about how we forecast customer growth at Monzo, and how we use the tool Prophet, which accounts for seasonality, marketing spend, and one-off campaigns to produce accurate, interpretable forecasts, to support our various functions.",
