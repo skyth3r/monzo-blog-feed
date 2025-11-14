@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm",
+      "title": "How much can you withdraw from an ATM?",
+      "summary": "The daily amount that you can withdraw from an ATM depends on what bank you're with and the type of account you have.",
+      "date_published": "2025-11-13T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/building-the-1p-saving-challenge",
       "title": "Building the 1p Saving Challenge",
       "summary": "This blog shares the process behind how we created the 1p Saving Challenge, our incremental saving challenge that has been hugely successful with customers.",
@@ -570,13 +577,6 @@
       "title": "Thank you, from our co-founder Jonas",
       "summary": "After nine years, our co-founder Jonas is leaving Monzo ❤️",
       "date_published": "2023-12-01T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm",
-      "title": "How much can you withdraw from an ATM?",
-      "summary": "The daily amount that you can withdraw from an ATM depends on what bank you're with and the type of account you have.",
-      "date_published": "2023-11-27T00:00:00Z"
     },
     {
       "id": "",
