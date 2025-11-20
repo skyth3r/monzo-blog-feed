@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/beyond-the-bank-app-my-first-eight-months-in-monzo-data/",
+      "title": "Beyond the Bank App: My First Eight Months in Monzo Data",
+      "summary": "Aiste Luksyte, one of our Data Science Manager at Monzo shares their journey from a missed LinkedIn message to joining the Operations Data team. She tells us about Monzo's strong data culture, flexible work setup, and collaborative environment.",
+      "date_published": "2025-11-19T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/current-account-guides/how-much-can-you-withdraw-from-an-atm",
       "title": "How much can you withdraw from an ATM?",
       "summary": "The daily amount that you can withdraw from an ATM depends on what bank you're with and the type of account you have.",

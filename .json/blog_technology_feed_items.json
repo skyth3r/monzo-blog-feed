@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-11-19T00:00:00Z",
+    "Description": "Aiste Luksyte, one of our Data Science Manager at Monzo shares their journey from a missed LinkedIn message to joining the Operations Data team. She tells us about Monzo's strong data culture, flexible work setup, and collaborative environment.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Beyond the Bank App: My First Eight Months in Monzo Data",
+    "Link": "https://monzo.com/blog/beyond-the-bank-app-my-first-eight-months-in-monzo-data/"
+  },
+  {
     "PubDate": "2025-11-12T00:00:00Z",
     "Description": "This blog shares the process behind how we created the 1p Saving Challenge, our incremental saving challenge that has been hugely successful with customers.",
     "Tags": [
