@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/machine-learning-at-monzo-in-2025",
+      "title": "Machine Learning at Monzo in 2025",
+      "summary": "Our Machine Learning foundations have matured into a core capability. ML is used at Monzo for defending against financial crime, scaling operations, and powering intelligent, personalised experiences in our products",
+      "date_published": "2025-11-21T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/beyond-the-bank-app-my-first-eight-months-in-monzo-data/",
       "title": "Beyond the Bank App: My First Eight Months in Monzo Data",
       "summary": "Aiste Luksyte, one of our Data Science Manager at Monzo shares their journey from a missed LinkedIn message to joining the Operations Data team. She tells us about Monzo's strong data culture, flexible work setup, and collaborative environment.",
