@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2025-12-03T00:00:00Z",
+    "Description": "Kelly shares her first three months at Monzo as a Lead Product Designer - onboarding, early projects, shaping the business sign-up vision, experimenting, and key lessons she's picked up while settling into fintech and the Business Banking Collective",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "My first 3 months at Monzo as a Product Designer",
+    "Link": "https://monzo.com/blog/my-first-3-months-at-monzo-as-a-product-designer/"
+  },
+  {
     "PubDate": "2025-11-21T00:00:00Z",
     "Description": "Our Machine Learning foundations have matured into a core capability. ML is used at Monzo for defending against financial crime, scaling operations, and powering intelligent, personalised experiences in our products",
     "Tags": [
@@ -7732,6 +7741,15 @@
     ],
     "Title": "Understanding our Users",
     "Link": "https://monzo.com/blog/2018/02/02/user-research"
+  },
+  {
+    "PubDate": "2018-01-26T00:00:00Z",
+    "Description": "We answer some of your most pressing questions and dispel common myths and misconceptions about upgrading your Monzo account.",
+    "Tags": [
+      "Upgrading Explained"
+    ],
+    "Title": "Upgrading Explained: Does upgrading affect my credit score?",
+    "Link": "https://monzo.com/blog/2018/01/26/upgrade-credit-score"
   },
   {
     "PubDate": "2018-01-25T00:00:00Z",
