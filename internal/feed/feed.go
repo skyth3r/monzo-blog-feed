@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"reflect"
 	"sort"
 	"strings"
 	"time"
@@ -25,36 +26,54 @@ func GenerateFeeds(blogItems *[]models.BlogItem, feedName string) error {
 		return (*blogItems)[i].Link < (*blogItems)[j].Link
 	})
 
-	err := generateItemFeed(blogItems, fmt.Sprintf("%s_feed_items", feedName))
+	changes, err := generateItemFeed(blogItems, fmt.Sprintf("%s_feed_items", feedName))
 	if err != nil {
 		return err
 	}
 
-	feed, err := convertToFeed(blogItems, feedName)
-	if err != nil {
-		return err
-	}
+	if changes {
+		feed, err := convertToFeed(blogItems, feedName)
+		if err != nil {
+			return err
+		}
 
-	err = generateRssFeed(feed, feedName)
-	if err != nil {
-		return err
-	}
-	err = generateAtomFeed(feed, feedName)
-	if err != nil {
-		return err
-	}
-	err = generateJsonFeed(feed, feedName)
-	if err != nil {
-		return err
+		err = generateRssFeed(feed, feedName)
+		if err != nil {
+			return err
+		}
+		err = generateAtomFeed(feed, feedName)
+		if err != nil {
+			return err
+		}
+		err = generateJsonFeed(feed, feedName)
+		if err != nil {
+			return err
+		}
 	}
 
 	return nil
 }
 
-func generateItemFeed(items *[]models.BlogItem, name string) error {
+func generateItemFeed(items *[]models.BlogItem, name string) (bool, error) {
+	existingPath := fmt.Sprintf(".json/%s.json", name)
+	var existingItems []models.BlogItem
+	noChanges := false
+
+	if existingFile, err := os.Open(existingPath); err == nil {
+		defer existingFile.Close()
+		decoder := json.NewDecoder(existingFile)
+		if err := decoder.Decode(&existingItems); err == nil {
+			noChanges = true
+		}
+	}
+
+	if noChanges && reflect.DeepEqual(existingItems, *items) {
+		return false, nil
+	}
+
 	jsonFile, err := os.Create(fmt.Sprintf("%s.json", name))
 	if err != nil {
-		return err
+		return false, err
 	}
 	defer jsonFile.Close()
 
@@ -62,15 +81,15 @@ func generateItemFeed(items *[]models.BlogItem, name string) error {
 	encoder.SetIndent("", "  ")
 	err = encoder.Encode(items)
 	if err != nil {
-		return err
+		return false, err
 	}
 
 	err = utils.MoveFile(fmt.Sprintf("%s.json", name), fmt.Sprintf(".json/%s.json", name))
 	if err != nil {
-		return err
+		return false, err
 	}
 
-	return nil
+	return true, nil
 }
 
 func convertToFeed(items *[]models.BlogItem, name string) (*feeds.Feed, error) {
