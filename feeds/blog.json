@@ -1630,6 +1630,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2022/04/04/my-first-3-months-at-monzo-as-an-engineering-manager",
+      "title": "My first 3 months at Monzo as an engineering manager",
+      "summary": "Jarryd joined Monzo as an engineering manager a few months ago. In this post he shares his journey to Monzo and how he found his feet in his new role.",
+      "date_published": "2022-04-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform",
       "title": "How we secure Monzo's banking platform",
       "summary": "Our Security Infrastructure team introduces the principles we follow to build security in Monzo's fast-moving engineering environment and how they work with other engineering teams to keep our customers and platform safe.",
@@ -5238,13 +5245,6 @@
       "url": "https://monzo.com/blog/2018/08/14/launching-joint-accounts",
       "title": "Manage your money together with joint accounts!",
       "summary": "Introducing Monzo joint accounts! Pool your resources with someone to make life easier to manage.",
-      "date_published": "2018-08-14T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2018/08/14/sharing-finances",
-      "title": "Should you share your finances?",
-      "summary": "Sharing finances with someone is a big step. Here's what you need to consider if you're thinking of opening a joint bank account or applying for credit together.",
       "date_published": "2018-08-14T00:00:00Z"
     },
     {

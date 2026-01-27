@@ -741,6 +741,15 @@
     "Link": "https://monzo.com/blog/2022/04/12/how-anyone-at-monzo-can-test"
   },
   {
+    "PubDate": "2022-04-03T00:00:00Z",
+    "Description": "Jarryd joined Monzo as an engineering manager a few months ago. In this post he shares his journey to Monzo and how he found his feet in his new role.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "My first 3 months at Monzo as an engineering manager",
+    "Link": "https://monzo.com/blog/2022/04/04/my-first-3-months-at-monzo-as-an-engineering-manager"
+  },
+  {
     "PubDate": "2022-03-30T00:00:00Z",
     "Description": "Our Security Infrastructure team introduces the principles we follow to build security in Monzo's fast-moving engineering environment and how they work with other engineering teams to keep our customers and platform safe.",
     "Tags": [
