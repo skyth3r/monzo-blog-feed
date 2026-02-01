@@ -7563,15 +7563,6 @@
   },
   {
     "PubDate": "2018-04-05T00:00:00Z",
-    "Description": "From reaching half a million current accounts, to making more overdrafts available, we take a look at the progress we've made in March, and explain what's in store for April.",
-    "Tags": [
-      "Quarterly Updates"
-    ],
-    "Title": "Monzo Monthly Update: April",
-    "Link": "https://monzo.com/blog/2018/04/05/april-update"
-  },
-  {
-    "PubDate": "2018-04-05T00:00:00Z",
     "Description": "Backend Engineer James Routley explains the technical work we do to help you send payments to your contacts on Monzo.",
     "Tags": [
       "Technology"
