@@ -5753,6 +5753,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2018/04/05/april-update",
+      "title": "Monzo Monthly Update: April",
+      "summary": "From reaching half a million current accounts, to making more overdrafts available, we take a look at the progress we've made in March, and explain what's in store for April.",
+      "date_published": "2018-04-05T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work",
       "title": "A technical look at how Monzo-to-Monzo payments work",
       "summary": "Backend Engineer James Routley explains the technical work we do to help you send payments to your contacts on Monzo.",
