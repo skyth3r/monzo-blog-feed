@@ -2099,8 +2099,8 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2018/09/20/on-call",
-      "title": "How we do on-call at Monzo",
+      "url": "https://monzo.com/blog/new-bill-split-reminder/",
+      "title": "You can now send a payment reminder to someone you split a bill with",
       "summary": "Just go to the transaction, and tap \"send payment reminder\".",
       "date_published": "2021-05-04T00:00:00Z"
     },
@@ -5106,6 +5106,13 @@
       "title": "How to protect yourself against identity theft and fraud",
       "summary": "Banks and other companies work hard to prevent data theft and financial fraud. But there are a few things you can do to protect yourself too.",
       "date_published": "2018-09-21T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/09/20/on-call",
+      "title": "How we do on-call at Monzo",
+      "summary": "A team of engineers are available 24/7/365 to respond when things go wrong. For other companies thinking about how to approach incidents, here's how we do on-call at Monzo.",
+      "date_published": "2018-09-20T00:00:00Z"
     },
     {
       "id": "",
