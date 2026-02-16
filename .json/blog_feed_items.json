@@ -1301,15 +1301,6 @@
     "Link": "https://monzo.com/blog/2023/05/04/i-only-got-monzo-for-holidays-now-i-use-it-for-everything-and-have-saved"
   },
   {
-    "PubDate": "2023-04-28T00:00:00Z",
-    "Description": "The ledger is where we keep track of all customer money movements coming in and out of customers' accounts. We started a project to speed up the ledger balance read time. In this post we'll cover the planning and experiments we ran.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Speeding up our balance read time: The planning phase",
-    "Link": "https://monzo.com/blog/2023/04/28/speeding-up-our-balance-read-time-the-planning-phase"
-  },
-  {
     "PubDate": "2023-04-27T00:00:00Z",
     "Description": "Don't forget to factor in treats and enjoyment when managing your money after payday.",
     "Tags": [

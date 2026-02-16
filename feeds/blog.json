@@ -1007,13 +1007,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2023/04/28/speeding-up-our-balance-read-time-the-planning-phase",
-      "title": "Speeding up our balance read time: The planning phase",
-      "summary": "The ledger is where we keep track of all customer money movements coming in and out of customers' accounts. We started a project to speed up the ledger balance read time. In this post we'll cover the planning and experiments we ran.",
-      "date_published": "2023-04-28T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2023/04/28/payday-tips-while-treating-yourself",
       "title": "7 payday tips to make your money last - while still treating yourself",
       "summary": "Don't forget to factor in treats and enjoyment when managing your money after payday.",

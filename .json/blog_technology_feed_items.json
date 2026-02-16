@@ -518,15 +518,6 @@
     "Link": "https://monzo.com/blog/2023/05/04/how-we-manage-technology-risk-at-monzo"
   },
   {
-    "PubDate": "2023-04-28T00:00:00Z",
-    "Description": "The ledger is where we keep track of all customer money movements coming in and out of customers' accounts. We started a project to speed up the ledger balance read time. In this post we'll cover the planning and experiments we ran.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Speeding up our balance read time: The planning phase",
-    "Link": "https://monzo.com/blog/2023/04/28/speeding-up-our-balance-read-time-the-planning-phase"
-  },
-  {
     "PubDate": "2023-03-28T00:00:00Z",
     "Description": "This blog shares some of the learnings we've had from our experiments in customer help and support over the last year",
     "Tags": [
