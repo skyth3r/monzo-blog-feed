@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/shipping-constantly-in-a-fast-paced-product-team",
+      "title": "Shipping constantly in a fast-paced product team",
+      "summary": "This blog covers how Monzo ships constantly in fast-paced product teams, and gives a look at our day-to-day ways of working. Catia",
+      "date_published": "2026-02-16T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/my-first-3-months-at-monzo-as-a-product-designer/",
       "title": "My first 3 months at Monzo as a Product Designer",
       "summary": "Kelly shares her first three months at Monzo as a Lead Product Designer - onboarding, early projects, shaping the business sign-up vision, experimenting, and key lessons she's picked up while settling into fintech and the Business Banking Collective",
@@ -402,6 +409,13 @@
       "title": "How we manage technology risk at Monzo ",
       "summary": "In this post, three Monzonauts explain how they work together with each other and other disciplines to manage risk in a fast-moving tech-focused banking environment. ",
       "date_published": "2023-05-10T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2023/04/28/speeding-up-our-balance-read-time-the-planning-phase",
+      "title": "Speeding up our balance read time: The planning phase",
+      "summary": "The ledger is where we keep track of all customer money movements coming in and out of customers' accounts. We started a project to speed up the ledger balance read time. In this post we'll cover the planning and experiments we ran.",
+      "date_published": "2023-04-28T00:00:00Z"
     },
     {
       "id": "",

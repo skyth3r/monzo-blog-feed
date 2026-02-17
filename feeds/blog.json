@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/shipping-constantly-in-a-fast-paced-product-team",
+      "title": "Shipping constantly in a fast-paced product team",
+      "summary": "This blog covers how Monzo ships constantly in fast-paced product teams, and gives a look at our day-to-day ways of working. Catia",
+      "date_published": "2026-02-16T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/the-cost-of-love",
       "title": "The cost of love: lessons on wedding spending from people who've done it before",
       "summary": "Discover what people did differently at their second weddings, from their biggest financial regrets to money-saving tips.",
@@ -1004,6 +1011,13 @@
       "title": "“I only got Monzo for holidays - now I use it for everything \u0026 have saved £10k” ",
       "summary": "How self-employed PT Oscar, 31, went from using Monzo only for travelling to using it day to day and saving up £10k",
       "date_published": "2023-05-04T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2023/04/28/speeding-up-our-balance-read-time-the-planning-phase",
+      "title": "Speeding up our balance read time: The planning phase",
+      "summary": "The ledger is where we keep track of all customer money movements coming in and out of customers' accounts. We started a project to speed up the ledger balance read time. In this post we'll cover the planning and experiments we ran.",
+      "date_published": "2023-04-28T00:00:00Z"
     },
     {
       "id": "",
