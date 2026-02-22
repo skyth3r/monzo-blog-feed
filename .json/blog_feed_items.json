@@ -2073,15 +2073,6 @@
     "Link": "https://monzo.com/blog/2022/05/18/joining-monzo-as-a-data-scientist"
   },
   {
-    "PubDate": "2022-05-15T00:00:00Z",
-    "Description": "Our success relies on us rapidly shipping new features. To achieve this rapid release cadence, we've optimised our engineering culture, tooling, and architecture to go from idea to production as frictionless as possible, without sacrificing safety.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How we deploy to production over 100 times a day",
-    "Link": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day"
-  },
-  {
     "PubDate": "2022-05-12T00:00:00Z",
     "Description": "Rob joined Monzo as a Data Scientist, and recently moved into Machine Learning. Here's his journey!",
     "Tags": [
@@ -4437,15 +4428,6 @@
     ],
     "Title": "Everything they didn't teach you in school about how to save money",
     "Link": "https://monzo.com/blog/2019/05/17/how-to-save-money"
-  },
-  {
-    "PubDate": "2019-11-15T00:00:00Z",
-    "Description": "Finding yourself in overdraft is completely normal and managing money isn't easy. We've put together a few tips on how to get out of your overdraft...",
-    "Tags": [
-      "How Money Works"
-    ],
-    "Title": "How do I get out of my overdraft?",
-    "Link": "https://monzo.com/blog/2019/11/15/how-do-i-get-out-of-my-overdraft"
   },
   {
     "PubDate": "2019-11-15T00:00:00Z",

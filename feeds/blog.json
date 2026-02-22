@@ -1595,13 +1595,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day",
-      "title": "How we deploy to production over 100 times a day",
-      "summary": "Our success relies on us rapidly shipping new features. To achieve this rapid release cadence, we've optimised our engineering culture, tooling, and architecture to go from idea to production as frictionless as possible, without sacrificing safety.",
-      "date_published": "2022-05-15T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/05/13/moving-from-data-science-into-machine-learning",
       "title": "Moving from Data Science into Machine Learning",
       "summary": "Rob joined Monzo as a Data Scientist, and recently moved into Machine Learning. Here's his journey!",
@@ -3349,13 +3342,6 @@
       "title": "Everything they didn't teach you in school about how to save money",
       "summary": "Financial self-education 💪",
       "date_published": "2019-11-18T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2019/11/15/how-do-i-get-out-of-my-overdraft",
-      "title": "How do I get out of my overdraft?",
-      "summary": "Finding yourself in overdraft is completely normal and managing money isn't easy. We've put together a few tips on how to get out of your overdraft...",
-      "date_published": "2019-11-15T00:00:00Z"
     },
     {
       "id": "",

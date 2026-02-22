@@ -552,13 +552,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day",
-      "title": "How we deploy to production over 100 times a day",
-      "summary": "Our success relies on us rapidly shipping new features. To achieve this rapid release cadence, we've optimised our engineering culture, tooling, and architecture to go from idea to production as frictionless as possible, without sacrificing safety.",
-      "date_published": "2022-05-15T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/05/06/becoming-an-engineering-manager-1-year-in",
       "title": "Becoming an Engineering Manager: 1 year in",
       "summary": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
