@@ -714,6 +714,15 @@
     "Link": "https://monzo.com/blog/2022/05/18/joining-monzo-as-a-data-scientist"
   },
   {
+    "PubDate": "2022-05-15T00:00:00Z",
+    "Description": "Our success relies on us rapidly shipping new features. To achieve this rapid release cadence, we've optimised our engineering culture, tooling, and architecture to go from idea to production as frictionless as possible, without sacrificing safety.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How we deploy to production over 100 times a day",
+    "Link": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day"
+  },
+  {
     "PubDate": "2022-05-05T00:00:00Z",
     "Description": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
     "Tags": [
