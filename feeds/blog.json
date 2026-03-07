@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/representation-learning-for-enhanced-fraud-detection",
+      "title": "Representation Learning for Enhanced Fraud Detection",
+      "summary": "We describe the modelling formulation we have used for fraud detection and present an extension based on learning a shared fraud representation using multi-task neural networks",
+      "date_published": "2026-03-06T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/university-accommodation-costs",
       "title": "How much is university accommodation for students in the UK?",
       "summary": "Discover the costs of halls of residence across the UK, the pros and cons of living in halls, and how students are handling the costs.",
@@ -237,13 +244,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/weve-made-our-writing-system-available-to-all",
-      "title": "We've made our writing system available to all",
-      "summary": "We're sharing how we write in our app with writers, designers, engineers and everyone else in case they find it helpful.",
-      "date_published": "2025-02-19T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/decoding-romance-scams",
       "title": "Decoding romance scams: how and why they work",
       "summary": "Romance scams are difficult to spot but devastating to deal with. Find out how and why they work, plus some tips to protect yourself.",
@@ -458,6 +458,13 @@
       "title": "Making mortgages more Monzo",
       "summary": "This blog talks about how we went 0-1 with our new Homeownership mortgage feature. It gives insight into how we transitioned from a mortgage-focused to a home-focused view, where equity (customer's progress) sits at the heart of the experience.",
       "date_published": "2024-07-19T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/advanced-tools-for-joint-accounts",
+      "title": "Advanced tools for Joint Accounts ",
+      "summary": "Our joint accounts help you manage your money together more effectively. Say goodbye to manual spreadsheets or calculating how much you owe each other at the end of every month.",
+      "date_published": "2024-07-11T00:00:00Z"
     },
     {
       "id": "",
@@ -5284,13 +5291,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2018/08/09/things-to-consider-before-you-borrow-money",
-      "title": "Should you borrow money?",
-      "summary": "If you're thinking about borrowing money, here are seven things to consider first, like how much you need, what you can afford, and which lender to use.",
-      "date_published": "2018-08-09T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2018/08/09/what-is-a-credit-score",
       "title": "What is a credit score?",
       "summary": "Everything you need to know about credit scores, how credit reference agencies calculate them, and how lenders use them to decide whether or not to lend you money.",
@@ -5414,6 +5414,13 @@
       "title": "Round up your Monzo purchases automatically!",
       "summary": "You can automatically round up transactions to the nearest pound and put the spare change aside into any pot!",
       "date_published": "2018-07-18T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/07/16/schedule-payments-into-pots",
+      "title": "Schedule payments into Pots!",
+      "summary": "Start putting money aside regularly by scheduling payments into Pots.",
+      "date_published": "2018-07-16T00:00:00Z"
     },
     {
       "id": "",

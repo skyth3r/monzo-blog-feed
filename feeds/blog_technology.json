@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/representation-learning-for-enhanced-fraud-detection",
+      "title": "Representation Learning for Enhanced Fraud Detection",
+      "summary": "We describe the modelling formulation we have used for fraud detection and present an extension based on learning a shared fraud representation using multi-task neural networks",
+      "date_published": "2026-03-06T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/shipping-constantly-in-a-fast-paced-product-team",
       "title": "Shipping constantly in a fast-paced product team",
       "summary": "This blog covers how Monzo ships constantly in fast-paced product teams, and gives a look at our day-to-day ways of working. Catia",
