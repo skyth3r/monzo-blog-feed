@@ -307,6 +307,16 @@
     "Link": "https://monzo.com/blog/demystifying-the-backend-engineering-interview-process"
   },
   {
+    "PubDate": "2025-02-19T00:00:00Z",
+    "Description": "We're sharing how we write in our app with writers, designers, engineers and everyone else in case they find it helpful.",
+    "Tags": [
+      "Product Updates",
+      "Design"
+    ],
+    "Title": "We've made our writing system available to all",
+    "Link": "https://monzo.com/blog/weve-made-our-writing-system-available-to-all"
+  },
+  {
     "PubDate": "2025-02-14T00:00:00Z",
     "Description": "Romance scams are difficult to spot but devastating to deal with. Find out how and why they work, plus some tips to protect yourself.",
     "Tags": [
@@ -586,15 +596,6 @@
     ],
     "Title": "Making mortgages more Monzo",
     "Link": "https://monzo.com/blog/making-mortgages-more-monzo"
-  },
-  {
-    "PubDate": "2024-07-11T00:00:00Z",
-    "Description": "Our joint accounts help you manage your money together more effectively. Say goodbye to manual spreadsheets or calculating how much you owe each other at the end of every month.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Advanced tools for Joint Accounts ",
-    "Link": "https://monzo.com/blog/advanced-tools-for-joint-accounts"
   },
   {
     "PubDate": "2024-07-11T00:00:00Z",
@@ -6963,6 +6964,15 @@
   },
   {
     "PubDate": "2018-08-09T00:00:00Z",
+    "Description": "If you're thinking about borrowing money, here are seven things to consider first, like how much you need, what you can afford, and which lender to use.",
+    "Tags": [
+      "How Money Works"
+    ],
+    "Title": "Should you borrow money?",
+    "Link": "https://monzo.com/blog/2018/08/09/things-to-consider-before-you-borrow-money"
+  },
+  {
+    "PubDate": "2018-08-09T00:00:00Z",
     "Description": "Everything you need to know about credit scores, how credit reference agencies calculate them, and how lenders use them to decide whether or not to lend you money.",
     "Tags": [
       "How Money Works"
@@ -7123,15 +7133,6 @@
     ],
     "Title": "Round up your Monzo purchases automatically!",
     "Link": "https://monzo.com/blog/2018/07/18/round-up-monzo-purchases-automatically"
-  },
-  {
-    "PubDate": "2018-07-16T00:00:00Z",
-    "Description": "Start putting money aside regularly by scheduling payments into Pots.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Schedule payments into Pots!",
-    "Link": "https://monzo.com/blog/2018/07/16/schedule-payments-into-pots"
   },
   {
     "PubDate": "2018-07-16T00:00:00Z",
