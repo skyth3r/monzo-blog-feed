@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/how-Monzo-Designers-are-shipping-safer-faster-product-improvements",
+      "title": "How Monzo Designers are shipping safer, faster product improvements",
+      "summary": "This blog covers how we're closing the gap between design intent and what gets shipped. Focusing on details like copy, UI consistency, and edge cases shape which can impact how reliable and trustworthy a product feels.",
+      "date_published": "2026-03-20T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/representation-learning-for-enhanced-fraud-detection",
       "title": "Representation Learning for Enhanced Fraud Detection",
       "summary": "We describe the modelling formulation we have used for fraud detection and present an extension based on learning a shared fraud representation using multi-task neural networks",
@@ -118,13 +125,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/expectations-for-an-engineering-manager-at-monzo",
-      "title": "Expectations for an Engineering Manager at Monzo",
-      "summary": "A comprehensive guide for Engineering Managers. It outlines expectations on impact, technical strategy, and team building and how we enable our EMs to drive their areas with strong support from their manager at Monzo.",
-      "date_published": "2025-09-18T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/beyond-the-last-click-how-monzo-measures-crms-true-impact",
       "title": "Beyond the Last Click: How Monzo Measures CRM's True Impact",
       "summary": "In this blog we cover how Monzo approaches CRM measurement. We detail our new hybrid model that uses universal holdouts and attribution to precisely measure how our messages impact customer behaviour.",
@@ -142,6 +142,13 @@
       "url": "https://monzo.com/blog/best-value-sun-loungers",
       "title": "Beach day budgeting: the best value spots for sun loungers across Europe",
       "summary": "Discover where your holiday budget goes furthest with our guide to the best and worst value sun loungers on the top beaches in the UK and Europe this summer.",
+      "date_published": "2025-08-21T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/what-to-do-if-you-need-help-looking-after-your-account",
+      "title": "What to do if you need help looking after your account",
+      "summary": "What is trusted access and how can it help support you or your loved ones when your living circumstances change? We break it all down for you in this blog.",
       "date_published": "2025-08-21T00:00:00Z"
     },
     {
@@ -1637,13 +1644,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/monzo-parents",
-      "title": "\"At Monzo, it's as easy as it can be for a parent!\"",
-      "summary": "We spoke to parents across Monzo to learn about their experiences of balancing building a bank with taking care of their little ones.",
-      "date_published": "2022-04-28T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack",
       "title": "Monzo's machine learning stack",
       "summary": "Neal Lathia, Director of Machine Learning at Monzo gives an overview of Monzo's machine learning platform, the principles behind it, and future plans.",
@@ -1718,6 +1718,13 @@
       "title": "Mutual Mentoring at Monzo ",
       "summary": "Our teammates talk us through how taking part in mutual mentoring has helped develop their professional and personal journeys.",
       "date_published": "2022-02-23T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/02/18/how-we-calculate-balances",
+      "title": "How we calculate balances",
+      "summary": "In June 2021 we started designing and implementing a new way to calculate balances that is more reliable and consistent. This post explains why the old approach needed improving and the changes we made.",
+      "date_published": "2022-02-18T00:00:00Z"
     },
     {
       "id": "",
