@@ -154,6 +154,15 @@
     "Link": "https://monzo.com/blog/our-growth-forecasting-journey-from-launch-to-impact"
   },
   {
+    "PubDate": "2025-09-18T00:00:00Z",
+    "Description": "A comprehensive guide for Engineering Managers. It outlines expectations on impact, technical strategy, and team building and how we enable our EMs to drive their areas with strong support from their manager at Monzo.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Expectations for an Engineering Manager at Monzo",
+    "Link": "https://monzo.com/blog/expectations-for-an-engineering-manager-at-monzo"
+  },
+  {
     "PubDate": "2025-09-03T00:00:00Z",
     "Description": "In this blog we cover how Monzo approaches CRM measurement. We detail our new hybrid model that uses universal holdouts and attribution to precisely measure how our messages impact customer behaviour.",
     "Tags": [
@@ -179,15 +188,6 @@
     ],
     "Title": "Beach day budgeting: the best value spots for sun loungers across Europe",
     "Link": "https://monzo.com/blog/best-value-sun-loungers"
-  },
-  {
-    "PubDate": "2025-08-21T00:00:00Z",
-    "Description": "What is trusted access and how can it help support you or your loved ones when your living circumstances change? We break it all down for you in this blog.",
-    "Tags": [
-      "Customer Support"
-    ],
-    "Title": "What to do if you need help looking after your account",
-    "Link": "https://monzo.com/blog/what-to-do-if-you-need-help-looking-after-your-account"
   },
   {
     "PubDate": "2025-08-21T00:00:00Z",
@@ -2137,6 +2137,15 @@
     "Link": "https://monzo.com/blog/2022/05/04/view-cvc-in-app"
   },
   {
+    "PubDate": "2022-04-28T00:00:00Z",
+    "Description": "We spoke to parents across Monzo to learn about their experiences of balancing building a bank with taking care of their little ones.",
+    "Tags": [
+      "Team"
+    ],
+    "Title": "\"At Monzo, it's as easy as it can be for a parent!\"",
+    "Link": "https://monzo.com/blog/monzo-parents"
+  },
+  {
     "PubDate": "2022-04-25T00:00:00Z",
     "Description": "Neal Lathia, Director of Machine Learning at Monzo gives an overview of Monzo's machine learning platform, the principles behind it, and future plans.",
     "Tags": [
@@ -2237,15 +2246,6 @@
     ],
     "Title": "Mutual Mentoring at Monzo ",
     "Link": "https://monzo.com/blog/2022/02/23/mutual-mentoring-at-monzo"
-  },
-  {
-    "PubDate": "2022-02-18T00:00:00Z",
-    "Description": "In June 2021 we started designing and implementing a new way to calculate balances that is more reliable and consistent. This post explains why the old approach needed improving and the changes we made.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How we calculate balances",
-    "Link": "https://monzo.com/blog/2022/02/18/how-we-calculate-balances"
   },
   {
     "PubDate": "2022-02-18T00:00:00Z",
