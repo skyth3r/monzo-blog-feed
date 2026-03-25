@@ -1054,15 +1054,6 @@
     "Link": "https://monzo.com/blog/2019/05/28/fixing-notifications-on-android"
   },
   {
-    "PubDate": "2019-05-28T00:00:00Z",
-    "Description": "We encountered an interesting bug in our Android app notifications. Here's how we fixed it.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How we accidentally broke our Android notification sounds (and fixed them!)",
-    "Link": "https://monzo.com/blog/2019/05/28/fixing-notifications-on-android"
-  },
-  {
     "PubDate": "2019-04-03T00:00:00Z",
     "Description": "We moved our remote procedure call (RPC) service mesh from Linkerd to Envoy to make Monzo faster.",
     "Tags": [
@@ -1224,15 +1215,6 @@
     ],
     "Title": "Fighting Fraud with Machine Learning",
     "Link": "https://monzo.com/blog/2017/02/03/fighting-fraud-with-machine-learning"
-  },
-  {
-    "PubDate": "2017-01-27T00:00:00Z",
-    "Description": "How we're designing Monzo to be a powerful and unique financial service for our most vulnerable customers.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Designing a product with mental health issues in mind",
-    "Link": "https://monzo.com/blog/2017/01/27/designing-product-mental-health-mind"
   },
   {
     "PubDate": "2017-01-27T00:00:00Z",
