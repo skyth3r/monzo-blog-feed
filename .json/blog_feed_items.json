@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-03-25T00:00:00Z",
+    "Description": "We've ‘run' the numbers on marathon costs, from entry fees to training gear, revealing how much it really costs to run a marathon from start to finish.",
+    "Tags": [
+      "Research"
+    ],
+    "Title": "Running the numbers: how much does it cost to run a marathon?",
+    "Link": "https://monzo.com/blog/cost-to-run-a-marathon"
+  },
+  {
     "PubDate": "2026-03-20T00:00:00Z",
     "Description": "This blog covers how we're closing the gap between design intent and what gets shipped. Focusing on details like copy, UI consistency, and edge cases shape which can impact how reliable and trustworthy a product feels.",
     "Tags": [
@@ -143,15 +152,6 @@
     ],
     "Title": "Pet-nup before you break-up: the hidden costs of sharing a pet with a partner",
     "Link": "https://monzo.com/blog/hidden-costs-of-shared-pet-ownership"
-  },
-  {
-    "PubDate": "2025-10-22T00:00:00Z",
-    "Description": "This blog talks about how we forecast customer growth at Monzo, and how we use the tool Prophet, which accounts for seasonality, marketing spend, and one-off campaigns to produce accurate, interpretable forecasts, to support our various functions.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Our Growth forecasting journey: from launch to impact",
-    "Link": "https://monzo.com/blog/our-growth-forecasting-journey-from-launch-to-impact"
   },
   {
     "PubDate": "2025-09-18T00:00:00Z",
@@ -460,6 +460,15 @@
     ],
     "Title": "How our design team shapes products for our customers",
     "Link": "https://monzo.com/blog/how-our-design-team-shapes-products-for-our-customers"
+  },
+  {
+    "PubDate": "2024-11-07T00:00:00Z",
+    "Description": "Monzo cares about inclusive hiring in engineering by doing things like advertising our salaries on our job ads, sharing our process transparently, and providing different options for doing different technical interview stages",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Inclusive Hiring in Engineering at Monzo",
+    "Link": "https://monzo.com/blog/inclusive-hiring-in-engineering-at-monzo"
   },
   {
     "PubDate": "2024-11-07T00:00:00Z",
@@ -2128,15 +2137,6 @@
     "Link": "https://monzo.com/blog/2022/05/06/becoming-an-engineering-manager-1-year-in"
   },
   {
-    "PubDate": "2022-05-04T00:00:00Z",
-    "Description": "Usually called the CVC, and found on the back of your card.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "No card, no problem - view your 3-digit security number in-app",
-    "Link": "https://monzo.com/blog/2022/05/04/view-cvc-in-app"
-  },
-  {
     "PubDate": "2022-04-28T00:00:00Z",
     "Description": "We spoke to parents across Monzo to learn about their experiences of balancing building a bank with taking care of their little ones.",
     "Tags": [
@@ -2237,6 +2237,15 @@
     ],
     "Title": "Scaling our on-call process",
     "Link": "https://monzo.com/blog/2022-02-24/scaling-our-on-call-process"
+  },
+  {
+    "PubDate": "2022-02-23T00:00:00Z",
+    "Description": "Our teammates talk us through how taking part in mutual mentoring has helped develop their professional and personal journeys.",
+    "Tags": [
+      "Diversity and Inclusion"
+    ],
+    "Title": "Mutual Mentoring at Monzo ",
+    "Link": "https://monzo.com/blog/2022/02/23/mutual-mentoring-at-monzo"
   },
   {
     "PubDate": "2022-02-23T00:00:00Z",
@@ -3354,6 +3363,17 @@
     ],
     "Title": "Which savings account is best for a lump sum of money?",
     "Link": "https://monzo.com/blog/savings-account-guides/lump-sum-savings-account/"
+  },
+  {
+    "PubDate": "2020-09-18T00:00:00Z",
+    "Description": "When you're looking to buy a house, the first thing you need to think about is saving up for a house deposit. 🏠",
+    "Tags": [
+      "How Money Works",
+      "How to Save Money",
+      "Savings Account Guides"
+    ],
+    "Title": "How to save money for a house",
+    "Link": "https://monzo.com/blog/savings-account-guides/how-to-save-money-for-a-house/"
   },
   {
     "PubDate": "2020-09-18T00:00:00Z",
@@ -4524,15 +4544,6 @@
     ],
     "Title": "To protect yourself from fraud, never tell anyone your PIN",
     "Link": "https://monzo.com/blog/protect-yourself-from-fraud-never-share-your-pin"
-  },
-  {
-    "PubDate": "2019-11-11T00:00:00Z",
-    "Description": "All the Monzo features that'll turn you into a money management mage ✨",
-    "Tags": [
-      "Monzo 101"
-    ],
-    "Title": "10 magical Monzo features 🔮",
-    "Link": "https://monzo.com/blog/10-magical-monzo-features"
   },
   {
     "PubDate": "2019-11-11T00:00:00Z",
@@ -8265,15 +8276,6 @@
     "Link": "https://monzo.com/blog/2016/08/15/launching-the-bank"
   },
   {
-    "PubDate": "2016-08-11T00:00:00Z",
-    "Description": "Today, we're excited to announce that we have hit another milestone on our journey…",
-    "Tags": [
-      "Community"
-    ],
-    "Title": "We Are Now a Bank",
-    "Link": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank"
-  },
-  {
     "PubDate": "2016-08-08T00:00:00Z",
     "Description": "New day, new Mondo update! We've just pushed a new update to the iOS app with two big changes and a bunch of bug fixes…",
     "Tags": [
@@ -8398,6 +8400,15 @@
     ],
     "Title": "We're Ready",
     "Link": "https://monzo.com/blog/2015/10/30/we-are-ready"
+  },
+  {
+    "PubDate": "2015-10-01T00:00:00Z",
+    "Description": "A few weeks ago we released the Mondo API, allowing people to...",
+    "Tags": [
+      "Community"
+    ],
+    "Title": "The First Mondo Hackathon",
+    "Link": "https://monzo.com/blog/2015/10/01/the-first-mondo-hackathon"
   },
   {
     "PubDate": "2015-10-01T00:00:00Z",
