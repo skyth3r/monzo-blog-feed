@@ -125,6 +125,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/our-growth-forecasting-journey-from-launch-to-impact",
+      "title": "Our Growth forecasting journey: from launch to impact",
+      "summary": "This blog talks about how we forecast customer growth at Monzo, and how we use the tool Prophet, which accounts for seasonality, marketing spend, and one-off campaigns to produce accurate, interpretable forecasts, to support our various functions.",
+      "date_published": "2025-10-22T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/expectations-for-an-engineering-manager-at-monzo",
       "title": "Expectations for an Engineering Manager at Monzo",
       "summary": "A comprehensive guide for Engineering Managers. It outlines expectations on impact, technical strategy, and team building and how we enable our EMs to drive their areas with strong support from their manager at Monzo.",
@@ -360,13 +367,6 @@
       "title": "How our design team shapes products for our customers",
       "summary": "This blog explains why design and research is so impactful at Monzo. We explain how we give designers and researchers an abundance of autonomy to help make decisions, and why it makes our team an outlier for those who care about making a difference.",
       "date_published": "2024-11-21T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/inclusive-hiring-in-engineering-at-monzo",
-      "title": "Inclusive Hiring in Engineering at Monzo",
-      "summary": "Monzo cares about inclusive hiring in engineering by doing things like advertising our salaries on our job ads, sharing our process transparently, and providing different options for doing different technical interview stages",
-      "date_published": "2024-11-07T00:00:00Z"
     },
     {
       "id": "",
@@ -1336,31 +1336,10 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/business-banking/a-guide-to-purchase-orders",
-      "title": "A guide to purchase orders",
-      "summary": "What is a purchase order, what information do you need to include, and what's the difference between a purchase order \u0026 an invoice? Our guide covers it.",
-      "date_published": "2022-12-06T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/12/05how-to-balance-spending-and-saving",
       "title": "How to balance spending and saving",
       "summary": "Curb unnecessary spending and build a savings habit you can actually sustain.",
       "date_published": "2022-12-05T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/business-banking/how-to-get-unpaid-invoices-paid",
-      "title": "How to get unpaid invoices paid",
-      "summary": "Unpaid invoices can be stressful, but unfortunately not uncommon. Waiting on an overdue invoice? Here's the steps you can take to get it paid.",
-      "date_published": "2022-12-04T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/business-banking/what-is-an-invoice",
-      "title": "What is an Invoice? How to write an invoice and what information is required",
-      "summary": "What is an invoice, how do you create one, and what information needs to be included? Our guide will help you make sense of it all.",
-      "date_published": "2022-12-03T00:00:00Z"
     },
     {
       "id": "",
@@ -1644,6 +1623,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2022/05/04/view-cvc-in-app",
+      "title": "No card, no problem - view your 3-digit security number in-app",
+      "summary": "Usually called the CVC, and found on the back of your card.",
+      "date_published": "2022-05-04T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/monzo-parents",
       "title": "\"At Monzo, it's as easy as it can be for a parent!\"",
       "summary": "We spoke to parents across Monzo to learn about their experiences of balancing building a bank with taking care of their little ones.",
@@ -1718,13 +1704,6 @@
       "title": "Scaling our on-call process",
       "summary": "As Monzo has grown, we've continued to change our on-call process so we can keep our systems running smoothly without sacrificing the wellbeing of our engineers. Luke Briscoe explains what we've changed and how.",
       "date_published": "2022-02-24T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2022/02/23/mutual-mentoring-at-monzo",
-      "title": "Mutual Mentoring at Monzo ",
-      "summary": "Our teammates talk us through how taking part in mutual mentoring has helped develop their professional and personal journeys.",
-      "date_published": "2022-02-23T00:00:00Z"
     },
     {
       "id": "",
@@ -2558,13 +2537,6 @@
       "title": "Which savings account is best for a lump sum of money?",
       "summary": "It's important to consider all the options of savings accounts when it comes to what you should do with a lump sum of money.",
       "date_published": "2020-09-22T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/savings-account-guides/how-to-save-money-for-a-house/",
-      "title": "How to save money for a house",
-      "summary": "When you're looking to buy a house, the first thing you need to think about is saving up for a house deposit. 🏠",
-      "date_published": "2020-09-18T00:00:00Z"
     },
     {
       "id": "",
@@ -3426,6 +3398,13 @@
       "title": "To protect yourself from fraud, never tell anyone your PIN",
       "summary": "Fraudsters can trick you into sharing your PIN, get access to your bank account and steal your money. Learn how to protect yourself from phishing scams.",
       "date_published": "2019-11-13T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/10-magical-monzo-features",
+      "title": "10 magical Monzo features 🔮",
+      "summary": "All the Monzo features that'll turn you into a money management mage ✨",
+      "date_published": "2019-11-11T00:00:00Z"
     },
     {
       "id": "",
@@ -6306,6 +6285,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank",
+      "title": "We Are Now a Bank",
+      "summary": "Today, we're excited to announce that we have hit another milestone on our journey…",
+      "date_published": "2016-08-11T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2016/08/08/updated-design",
       "title": "New Mondo Update: Updated Design and More",
       "summary": "New day, new Mondo update! We've just pushed a new update to the iOS app with two big changes and a bunch of bug fixes…",
@@ -6401,13 +6387,6 @@
       "title": "We're Ready",
       "summary": "We are incredibly excited to announce the start of the Mondo Alpha Preview. We'll shortly be...",
       "date_published": "2015-10-30T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2015/10/01/the-first-mondo-hackathon",
-      "title": "The First Mondo Hackathon",
-      "summary": "A few weeks ago we released the Mondo API, allowing people to...",
-      "date_published": "2015-10-01T00:00:00Z"
     },
     {
       "id": "",

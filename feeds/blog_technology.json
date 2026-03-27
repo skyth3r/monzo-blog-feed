@@ -55,6 +55,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/our-growth-forecasting-journey-from-launch-to-impact",
+      "title": "Our Growth forecasting journey: from launch to impact",
+      "summary": "This blog talks about how we forecast customer growth at Monzo, and how we use the tool Prophet, which accounts for seasonality, marketing spend, and one-off campaigns to produce accurate, interpretable forecasts, to support our various functions.",
+      "date_published": "2025-10-22T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/expectations-for-an-engineering-manager-at-monzo",
       "title": "Expectations for an Engineering Manager at Monzo",
       "summary": "A comprehensive guide for Engineering Managers. It outlines expectations on impact, technical strategy, and team building and how we enable our EMs to drive their areas with strong support from their manager at Monzo.",
@@ -171,13 +178,6 @@
       "title": "How our design team shapes products for our customers",
       "summary": "This blog explains why design and research is so impactful at Monzo. We explain how we give designers and researchers an abundance of autonomy to help make decisions, and why it makes our team an outlier for those who care about making a difference.",
       "date_published": "2024-11-21T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/inclusive-hiring-in-engineering-at-monzo",
-      "title": "Inclusive Hiring in Engineering at Monzo",
-      "summary": "Monzo cares about inclusive hiring in engineering by doing things like advertising our salaries on our job ads, sharing our process transparently, and providing different options for doing different technical interview stages",
-      "date_published": "2024-11-07T00:00:00Z"
     },
     {
       "id": "",
