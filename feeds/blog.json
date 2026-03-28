@@ -1336,10 +1336,31 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/business-banking/a-guide-to-purchase-orders",
+      "title": "A guide to purchase orders",
+      "summary": "What is a purchase order, what information do you need to include, and what's the difference between a purchase order \u0026 an invoice? Our guide covers it.",
+      "date_published": "2022-12-06T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/12/05how-to-balance-spending-and-saving",
       "title": "How to balance spending and saving",
       "summary": "Curb unnecessary spending and build a savings habit you can actually sustain.",
       "date_published": "2022-12-05T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/business-banking/how-to-get-unpaid-invoices-paid",
+      "title": "How to get unpaid invoices paid",
+      "summary": "Unpaid invoices can be stressful, but unfortunately not uncommon. Waiting on an overdue invoice? Here's the steps you can take to get it paid.",
+      "date_published": "2022-12-04T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/business-banking/what-is-an-invoice",
+      "title": "What is an Invoice? How to write an invoice and what information is required",
+      "summary": "What is an invoice, how do you create one, and what information needs to be included? Our guide will help you make sense of it all.",
+      "date_published": "2022-12-03T00:00:00Z"
     },
     {
       "id": "",
@@ -6219,13 +6240,6 @@
       "title": "Celebrating Living Wage Week: Monzo is now a Living Wage Employer",
       "summary": "To underscore our commitment to fair pay, we've become a Living Wage accredited employer",
       "date_published": "2016-11-04T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2016/10/26/card-replacement-android",
-      "title": "New Monzo Update: Card Replacement on Android",
-      "summary": "Now you can order a new card instantly from within the Android app…",
-      "date_published": "2016-10-26T00:00:00Z"
     },
     {
       "id": "",

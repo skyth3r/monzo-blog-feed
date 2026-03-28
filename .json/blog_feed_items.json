@@ -1730,6 +1730,16 @@
     "Link": "https://monzo.com/blog/2022/12/13/monzo-magic-hackathon"
   },
   {
+    "PubDate": "2022-12-06T00:00:00Z",
+    "Description": "What is a purchase order, what information do you need to include, and what's the difference between a purchase order \u0026 an invoice? Our guide covers it.",
+    "Tags": [
+      "Business Basics",
+      "Business Banking"
+    ],
+    "Title": "A guide to purchase orders",
+    "Link": "https://monzo.com/blog/business-banking/a-guide-to-purchase-orders"
+  },
+  {
     "PubDate": "2022-12-05T00:00:00Z",
     "Description": "Curb unnecessary spending and build a savings habit you can actually sustain.",
     "Tags": [
@@ -1737,6 +1747,26 @@
     ],
     "Title": "How to balance spending and saving",
     "Link": "https://monzo.com/blog/2022/12/05how-to-balance-spending-and-saving"
+  },
+  {
+    "PubDate": "2022-12-04T00:00:00Z",
+    "Description": "Unpaid invoices can be stressful, but unfortunately not uncommon. Waiting on an overdue invoice? Here's the steps you can take to get it paid.",
+    "Tags": [
+      "Business Basics",
+      "Business Banking"
+    ],
+    "Title": "How to get unpaid invoices paid",
+    "Link": "https://monzo.com/blog/business-banking/how-to-get-unpaid-invoices-paid"
+  },
+  {
+    "PubDate": "2022-12-03T00:00:00Z",
+    "Description": "What is an invoice, how do you create one, and what information needs to be included? Our guide will help you make sense of it all.",
+    "Tags": [
+      "Business Basics",
+      "Business Banking"
+    ],
+    "Title": "What is an Invoice? How to write an invoice and what information is required",
+    "Link": "https://monzo.com/blog/business-banking/what-is-an-invoice"
   },
   {
     "PubDate": "2022-12-02T00:00:00Z",
@@ -8161,15 +8191,6 @@
     ],
     "Title": "Celebrating Living Wage Week: Monzo is now a Living Wage Employer",
     "Link": "https://monzo.com/blog/2016/11/04/living-wage"
-  },
-  {
-    "PubDate": "2016-10-26T00:00:00Z",
-    "Description": "Now you can order a new card instantly from within the Android app…",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "New Monzo Update: Card Replacement on Android",
-    "Link": "https://monzo.com/blog/2016/10/26/card-replacement-android"
   },
   {
     "PubDate": "2016-10-19T00:00:00Z",
