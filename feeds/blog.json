@@ -3275,7 +3275,7 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/loans-help/car-finance-option/",
+      "url": "https://monzo.com/blog/loans-help/car-finance-option",
       "title": "Hire Purchase, PCP Finance, Or Loan: Which car finance option is best for you?",
       "summary": "We've put together a short guide on the different car finance options and deals you might consider when buying a new car. 🚗",
       "date_published": "2019-12-05T00:00:00Z"
@@ -6240,6 +6240,13 @@
       "title": "Celebrating Living Wage Week: Monzo is now a Living Wage Employer",
       "summary": "To underscore our commitment to fair pay, we've become a Living Wage accredited employer",
       "date_published": "2016-11-04T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2016/10/26/card-replacement-android",
+      "title": "New Monzo Update: Card Replacement on Android",
+      "summary": "Now you can order a new card instantly from within the Android app…",
+      "date_published": "2016-10-26T00:00:00Z"
     },
     {
       "id": "",
