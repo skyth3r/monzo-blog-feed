@@ -125,6 +125,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/hidden-costs-of-shared-pet-ownership",
+      "title": "Pet-nup before you break-up: the hidden costs of sharing a pet with a partner",
+      "summary": "Do you really need a pet-nup? Discover the hidden costs of sharing a pet with a partner, including the price of a break-up and the pitfalls of splitting expenses.",
+      "date_published": "2025-10-28T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/our-growth-forecasting-journey-from-launch-to-impact",
       "title": "Our Growth forecasting journey: from launch to impact",
       "summary": "This blog talks about how we forecast customer growth at Monzo, and how we use the tool Prophet, which accounts for seasonality, marketing spend, and one-off campaigns to produce accurate, interpretable forecasts, to support our various functions.",
@@ -234,13 +241,6 @@
       "title": "Launching the Women's Network at Monzo",
       "summary": "March 2025 saw the launch of Monzo's Women's Network - a new committee which will play an active role in helping women achieve their professional goals.",
       "date_published": "2025-04-02T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/we-have-updated-our-engineering-principles",
-      "title": "We've updated our engineering principles",
-      "summary": "At Monzo, we have a set of engineering principles which encapsulate what we value as an engineering organisation. We first wrote our engineering principles in 2018, and recently invested in updating them to better reflect where we are now",
-      "date_published": "2025-03-28T00:00:00Z"
     },
     {
       "id": "",
@@ -370,6 +370,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/how-our-design-team-shapes-products-for-our-customers",
+      "title": "How our design team shapes products for our customers",
+      "summary": "This blog explains why design and research is so impactful at Monzo. We explain how we give designers and researchers an abundance of autonomy to help make decisions, and why it makes our team an outlier for those who care about making a difference.",
+      "date_published": "2024-11-21T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/inclusive-hiring-in-engineering-at-monzo",
       "title": "Inclusive Hiring in Engineering at Monzo",
       "summary": "Monzo cares about inclusive hiring in engineering by doing things like advertising our salaries on our job ads, sharing our process transparently, and providing different options for doing different technical interview stages",
@@ -458,13 +465,6 @@
       "title": "Elevate your design work with storytelling",
       "summary": "We invited Ben Sauer, author of Death By Screens, to the Monzo London office for a workshop on the art of storytelling in relation to design. We've shared our favourite bits with you in our latest blog.",
       "date_published": "2024-07-24T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/guide-to-self-invested-personal-pensions",
-      "title": "Your guide to self-invested personal pensions (SIPPs)",
-      "summary": "This guide breaks down the things you need to know about SIPPs - what they are, who they're for, rules around SIPPs, plus so much more.",
-      "date_published": "2024-07-23T00:00:00Z"
     },
     {
       "id": "",
@@ -668,6 +668,13 @@
       "title": "Thank you, from our co-founder Jonas",
       "summary": "After nine years, our co-founder Jonas is leaving Monzo ❤️",
       "date_published": "2023-12-01T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2019/07/19/should-i-pay-in-local-currency-or-pounds-gbp-when-i-use-monzo-abroad",
+      "title": "Should I pay in local currency or pounds (GBP) when I use Monzo abroad?",
+      "summary": "Euros, Dollars, Pesos or Rupees - always pay in the local currency when you're using Monzo abroad, so you can get the Mastercard exchange rate, without any extra charges.",
+      "date_published": "2023-11-26T00:00:00Z"
     },
     {
       "id": "",
@@ -1224,6 +1231,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2023/02/02/catherines-story",
+      "title": "“Identifying my emotional spending has given me more power and control over my money”",
+      "summary": "Catherine, 31, is a student studying for a psychology master's while working as a part-time staff nurse. Based in Falkirk, Scotland, she rents with her partner and a parent who lives with them part-time.",
+      "date_published": "2023-02-02T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2023/01/31/an-update-on-our-gender-pay-gap-jan-2023",
       "title": "An update on our gender pay gap, April 2022",
       "summary": "In October 2021, we reported our gender pay gap as a snapshot for April 2020 and April 2021. This update looks at the gender pay gap changes since we last reported.",
@@ -1427,13 +1441,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale",
-      "title": "Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo",
-      "summary": "We introduced automated rollbacks to our platform using Argo Rollouts and made it the default deployment strategy for all our services. This helps us roll out changes safely and catch a wide class of problems related to deploying new code",
-      "date_published": "2022-11-07T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/11/04/how-we-design-magic-moments-at-monzo",
       "title": "How we design magic moments at Monzo",
       "summary": "Vuokko Aro, VP of Design talks about how Monzo designs experiences that are surprisingly magical.",
@@ -1529,6 +1536,13 @@
       "title": "A week in the life of a Product Manager at Monzo ",
       "summary": "Product managers have such a varied role it can be tricky to know what day to day work looks like. Shnay Chohan explains what being a PM means at Monzo and walks through his typical week - complete with his favourite tunes for each day of the week!",
       "date_published": "2022-07-21T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/07/06/researching-operations-at-monzo-building-a-product-our-customers-never-see",
+      "title": "Researching operations at Monzo: Building a product our customers never see",
+      "summary": "Take a look behind the scenes and find out how we're building an internal tool that's every bit as good as the app that wins customer awards.",
+      "date_published": "2022-07-05T00:00:00Z"
     },
     {
       "id": "",
@@ -1854,13 +1868,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/dont-get-monzo",
-      "title": "4 reasons you shouldn't get Monzo, according to people who have",
-      "summary": "We'll play devil's advocate to help you decide.",
-      "date_published": "2021-11-16T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2021/11/02/net-zero-carbon-emissions",
       "title": "How we're working towards net zero carbon emissions",
       "summary": "We are in a climate crisis. Everyone has a responsibility to act, and to take decisions that will support a sustainable, low carbon future. Here's how we're doing our part.",
@@ -2047,6 +2054,13 @@
       "title": "Improved international transfers, powered by Wise",
       "summary": "It's typically lower cost and easier to make an international transfer with Monzo than with high street banks.",
       "date_published": "2021-07-06T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/12-essential-interview-questions-to-help-find-your-next-hire",
+      "title": "12 essential interview questions, chosen by the Monzo hiring team!",
+      "summary": "Asking good questions is an essential skill when you're interviewing candidates. So we asked our Hiring team for their favourites.",
+      "date_published": "2021-06-30T00:00:00Z"
     },
     {
       "id": "",
@@ -2271,13 +2285,6 @@
       "title": "How to prepare your business for the new tax year",
       "summary": "We're approaching the start of another tax year. And while that's unlikely to get your heart racing (unless you're an accountant), the run up to April 5th is still a great time to get your business affairs in order.",
       "date_published": "2021-03-11T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/engineering-management-at-monzo-technical-leadership-people-support",
-      "title": "We're evolving engineering management at Monzo",
-      "summary": "We've evolved our approach from supporting and developing individual engineers, to providing both excellent people support and technical leadership for teams and business areas.",
-      "date_published": "2021-03-05T00:00:00Z"
     },
     {
       "id": "",
@@ -4045,13 +4052,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2019/06/27/trending-spending-west-london",
-      "title": "Trending Spending: West London",
-      "summary": "What's trending in West London last month. Your favourite bars, best coffee shops, and brand new restaurants you're obsessed with - these are the places the Monzo community love.",
-      "date_published": "2019-06-26T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2019/06/24/business-banking-update",
       "title": "The future of Monzo Business Accounts",
       "summary": "We're slowly starting to offer more accounts. And we're launching a transparent product roadmap so you can keep track of what we're building!",
@@ -4213,6 +4213,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2019/05/23/protect-yourself-agains-app-fraud",
+      "title": "How to protect yourself against APP fraud",
+      "summary": "Authorised push payment (APP) fraud is where someone tricks you into sending them money from your bank account. Here are some tips how to avoid being a victim.",
+      "date_published": "2019-05-23T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2019/05/23/save-money-to-afford-a-holiday",
       "title": "Could rounding-up your spending help you afford your next holiday?",
       "summary": "Rounding up your purchases to the nearest pound and saving the spare change is helping more than 380,000 people save money!",
@@ -4294,13 +4301,6 @@
       "title": "​​Do you donate? You explain how you give to charity",
       "summary": "You share which charities you support and why. And tell us the creative ways you've come up with to find room in your budget to donate.",
       "date_published": "2019-05-09T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2019/05/08/money-in-love-rosie-alex",
-      "title": "Money in Love: Rosie \u0026 Alex",
-      "summary": "Twenty-something couple Rosie and Alex are working to pay off debts that amount to £15,000 between them.",
-      "date_published": "2019-05-08T00:00:00Z"
     },
     {
       "id": "",
@@ -5109,6 +5109,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2018/10/04/guarantors-how-and-why",
+      "title": "What is a guarantor?",
+      "summary": "Guarantors can help you get accepted for rented accommodation and credit. Find out who can be your guarantor, what it means to be one, and what to do if you can't get one.",
+      "date_published": "2018-10-04T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2018/10/01/october-update",
       "title": "Monzo Monthly Update: October",
       "summary": "From making our iOS app faster, to adding the option to pay cash into your Monzo account, we take a look at the progress we've made in September, and explain what's in store for October.",
@@ -5190,13 +5197,6 @@
       "title": "Is Monzo free?",
       "summary": "Yes! Opening a Monzo account is free, and you don't have to pay for your hot coral Monzo card. We won't charge you for spending with your card or withdrawing cash in the UK, and it's free to spend with your card abroad.",
       "date_published": "2018-09-03T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2018/08/30/manage-your-bills",
-      "title": "How to manage your bills",
-      "summary": "Here's some handy guidance to help you stay on top of payments and get the best deal.",
-      "date_published": "2018-08-30T00:00:00Z"
     },
     {
       "id": "",
@@ -6306,6 +6306,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2016/08/15/launching-the-bank",
+      "title": "Launching The Bank",
+      "summary": "Last week we received news from the Bank of England that we'd been granted authorisation to conduct banking activities…",
+      "date_published": "2016-08-15T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank",
       "title": "We Are Now a Bank",
       "summary": "Today, we're excited to announce that we have hit another milestone on our journey…",
@@ -6401,13 +6408,6 @@
       "title": "Diversity Debt",
       "summary": "Leah has been with Mondo since day one and currently runs the prepaid operations...",
       "date_published": "2015-11-16T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2015/10/30/we-are-ready",
-      "title": "We're Ready",
-      "summary": "We are incredibly excited to announce the start of the Mondo Alpha Preview. We'll shortly be...",
-      "date_published": "2015-10-30T00:00:00Z"
     },
     {
       "id": "",

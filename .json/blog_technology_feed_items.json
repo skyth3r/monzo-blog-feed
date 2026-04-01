@@ -153,15 +153,6 @@
     "Link": "https://monzo.com/blog/processing-payments-in-monzo-stand-in"
   },
   {
-    "PubDate": "2025-03-28T00:00:00Z",
-    "Description": "At Monzo, we have a set of engineering principles which encapsulate what we value as an engineering organisation. We first wrote our engineering principles in 2018, and recently invested in updating them to better reflect where we are now",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "We've updated our engineering principles",
-    "Link": "https://monzo.com/blog/we-have-updated-our-engineering-principles"
-  },
-  {
     "PubDate": "2025-03-01T00:00:00Z",
     "Description": "We want to explain exactly what our Backend Engineering interview process entails to make it fair and transparent for all our applicants. This post explains what you should expect from each of our interviewing stages and how to prepare.",
     "Tags": [
@@ -214,6 +205,15 @@
     ],
     "Title": "Don't let go of your creative spark",
     "Link": "https://monzo.com/blog/dont-let-go-of-your-creative-spark"
+  },
+  {
+    "PubDate": "2024-11-21T00:00:00Z",
+    "Description": "This blog explains why design and research is so impactful at Monzo. We explain how we give designers and researchers an abundance of autonomy to help make decisions, and why it makes our team an outlier for those who care about making a difference.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How our design team shapes products for our customers",
+    "Link": "https://monzo.com/blog/how-our-design-team-shapes-products-for-our-customers"
   },
   {
     "PubDate": "2024-11-21T00:00:00Z",
@@ -657,15 +657,6 @@
     "Link": "https://monzo.com/blog/2022/11/10/design-system-approach-to-research-guidelines"
   },
   {
-    "PubDate": "2022-11-07T00:00:00Z",
-    "Description": "We introduced automated rollbacks to our platform using Argo Rollouts and made it the default deployment strategy for all our services. This helps us roll out changes safely and catch a wide class of problems related to deploying new code",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo",
-    "Link": "https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale"
-  },
-  {
     "PubDate": "2022-09-28T00:00:00Z",
     "Description": "Since 2018, we've used Dep to manage our monorepo dependencies, but when it was deprecated switching to Go Modules was a high risk change. This post explains how we reduced that risk by iteratively updating our dependencies for a seamless migration.",
     "Tags": [
@@ -908,15 +899,6 @@
     ],
     "Title": "Lessons from implementing engineering progression frameworks at scale",
     "Link": "https://monzo.com/blog/lessons-from-implementing-progression-frameworks-at-scale"
-  },
-  {
-    "PubDate": "2021-03-05T00:00:00Z",
-    "Description": "We've evolved our approach from supporting and developing individual engineers, to providing both excellent people support and technical leadership for teams and business areas.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "We're evolving engineering management at Monzo",
-    "Link": "https://monzo.com/blog/engineering-management-at-monzo-technical-leadership-people-support"
   },
   {
     "PubDate": "2020-10-19T00:00:00Z",
