@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-04-22T00:00:00Z",
+    "Description": "At Monzo, over 100 independent, empowered teams contribute to our data warehouse of 12,000+ dbt models. The health of data is owned across all these teams. How do we make sure the outputs are still performant, consistent, and high quality?",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "A “meshy” approach to Data: Enabling 100+ teams to build Data Models",
+    "Link": "https://monzo.com/blog/a-meshy-approach-to-data"
+  },
+  {
     "PubDate": "2026-03-20T00:00:00Z",
     "Description": "This blog covers how we're closing the gap between design intent and what gets shipped. Focusing on details like copy, UI consistency, and edge cases shape which can impact how reliable and trustworthy a product feels.",
     "Tags": [
