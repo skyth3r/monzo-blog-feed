@@ -363,6 +363,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/what-is-remortgaging-and-how-does-it-work",
+      "title": "What is remortgaging and how does it work?",
+      "summary": "The Monzo guide to remortgaging. We've also partnered with the regulated online mortgage broker, Better.co.uk to help you plan for and navigate every stage of the remortgaging process.",
+      "date_published": "2024-12-09T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/what-kind-of-mortgage-do-i-need",
       "title": "What kind of mortgage do I need?",
       "summary": "Whether you're an aspiring or current homeowner, there are many types of mortgage available. This blog is the Monzo guide to mortgages.",
@@ -458,13 +465,6 @@
       "title": "A trio of industry-first security tools to help stop fraudsters in their tracks ",
       "summary": "We're focused on giving customers protection and peace of mind to make Monzo a safe place to manage your money. Find out how we're achieving this with our latest release: a trio of industry-first security tools",
       "date_published": "2024-07-28T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/elevate-your-design-work-with-storytelling",
-      "title": "Elevate your design work with storytelling",
-      "summary": "We invited Ben Sauer, author of Death By Screens, to the Monzo London office for a workshop on the art of storytelling in relation to design. We've shared our favourite bits with you in our latest blog.",
-      "date_published": "2024-07-24T00:00:00Z"
     },
     {
       "id": "",
@@ -4598,6 +4598,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2019/02/19/do-you-need-insurance",
+      "title": "Home insurance - do you really need it?",
+      "summary": "Is home insurance worth the cost? We look at how buildings and contents insurance work, what you'll have to pay and whether you really need them.",
+      "date_published": "2019-02-19T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2019/02/14/money-in-love-frank-charlotte/",
       "title": "Money in Love: Charlotte \u0026 Frank",
       "summary": "Through stories from real-life relationships, we're tackling the taboo around couples and their cash.",
@@ -4686,13 +4693,6 @@
       "title": "Pay anyone, with just a link",
       "summary": "Paying people just got easier. You can now pay anyone with just a link!",
       "date_published": "2019-02-04T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2019/02/01/bill-splitting",
-      "title": "How to use Monzo to split bills",
-      "summary": "Going Dutch on dinner or doing the shared shop for your flat? Use Monzo to get people to pay you back easily.",
-      "date_published": "2019-02-01T00:00:00Z"
     },
     {
       "id": "",
@@ -6408,6 +6408,13 @@
       "title": "3 Second Sandwich",
       "summary": "Mondo recently rolled out our Alpha program to 500 lucky testers. If you weren't...",
       "date_published": "2015-12-02T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2015/11/16/diversity-debt",
+      "title": "Diversity Debt",
+      "summary": "Leah has been with Mondo since day one and currently runs the prepaid operations...",
+      "date_published": "2015-11-16T00:00:00Z"
     },
     {
       "id": "",
