@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-04-27T00:00:00Z",
+    "Description": "Dive deep into the process we use when we hire Data Scientists at Monzo",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Interviewing for Data Science at Monzo",
+    "Link": "https://monzo.com/blog/interviewing-for-data-science-at-monzo"
+  },
+  {
     "PubDate": "2026-04-22T00:00:00Z",
     "Description": "At Monzo, over 100 independent, empowered teams contribute to our data warehouse of 12,000+ dbt models. The health of data is owned across all these teams. How do we make sure the outputs are still performant, consistent, and high quality?",
     "Tags": [
@@ -471,15 +480,6 @@
     "Link": "https://monzo.com/blog/what-is-remortgaging-and-how-does-it-work"
   },
   {
-    "PubDate": "2024-12-09T00:00:00Z",
-    "Description": "Whether you're an aspiring or current homeowner, there are many types of mortgage available. This blog is the Monzo guide to mortgages.",
-    "Tags": [
-      "Mortgages"
-    ],
-    "Title": "What kind of mortgage do I need?",
-    "Link": "https://monzo.com/blog/what-kind-of-mortgage-do-i-need"
-  },
-  {
     "PubDate": "2024-11-21T00:00:00Z",
     "Description": "This blog explains why design and research is so impactful at Monzo. We explain how we give designers and researchers an abundance of autonomy to help make decisions, and why it makes our team an outlier for those who care about making a difference.",
     "Tags": [
@@ -746,16 +746,6 @@
     "Link": "https://monzo.com/blog/starting-from-scratch-as-a-new-engineer-at-monzo"
   },
   {
-    "PubDate": "2024-03-04T00:00:00Z",
-    "Description": "Credit checks can be confusing (sometimes they're even called credit searches - which only adds to the confusion). We've outlined what a credit check actually is, the different types you'll find and when you might need one. ",
-    "Tags": [
-      "How Money Works",
-      "Credit scores"
-    ],
-    "Title": "What are credit checks or credit searches?",
-    "Link": "https://monzo.com/blog/credit-scores/credit-checks"
-  },
-  {
     "PubDate": "2024-03-01T00:00:00Z",
     "Description": "In 2022, we embarked on a long journey to move our main website. The whole process took us from June of 2022 to November of 2023, with plenty of fun curveballs along the way. Let's dig into what it takes to migrate monzo.com.",
     "Tags": [
@@ -892,6 +882,15 @@
     ],
     "Title": "Should I pay in local currency or pounds (GBP) when I use Monzo abroad?",
     "Link": "https://monzo.com/blog/2019/07/19/should-i-pay-in-local-currency-or-pounds-gbp-when-i-use-monzo-abroad"
+  },
+  {
+    "PubDate": "2023-11-24T00:00:00Z",
+    "Description": "The Technical Programme Manager (TPM for short) role is hugely varied. I want to take you on a journey through a typical day in my life as a Technical Programme Manager here at Monzo.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "A Day in the Life of a Technical Programme Manager at Monzo",
+    "Link": "https://monzo.com/blog/2023/11/24/a-day-in-the-life-of-a-technical-programme-manager-at-monzo"
   },
   {
     "PubDate": "2023-11-24T00:00:00Z",
@@ -1172,15 +1171,6 @@
     ],
     "Title": "How we do product management in the financial difficulties space",
     "Link": "https://monzo.com/blog/2023/07/10/how-we-do-product-management-in-the-financial-difficulties-space"
-  },
-  {
-    "PubDate": "2023-07-12T00:00:00Z",
-    "Description": "Leo, 29, uses Pots to give himself financial flexibility at festivals. Here's how.",
-    "Tags": [
-      "Monzo Me"
-    ],
-    "Title": "“How I built a £600 Festival Fund for a summer of fun”",
-    "Link": "https://monzo.com/blog/save-money-festivals-pots"
   },
   {
     "PubDate": "2023-07-06T00:00:00Z",
@@ -1582,6 +1572,15 @@
     ],
     "Title": "Using topic modelling to understand customer saving goals",
     "Link": "https://monzo.com/blog/2023/02/15/using-topic-modelling-to-understand-customer-saving-goals"
+  },
+  {
+    "PubDate": "2023-02-14T00:00:00Z",
+    "Description": "Michael Wright, 32, recently came out of a relationship and it's changed the way he manages his money. Here, he shares what's more difficult and what's easier now he's single.",
+    "Tags": [
+      "Monzo Me"
+    ],
+    "Title": "“When my ex and I broke up, I didn't expect it to affect my money like this”",
+    "Link": "https://monzo.com/blog/2023/02/15/managing-money-while-single"
   },
   {
     "PubDate": "2023-02-14T00:00:00Z",
@@ -2127,15 +2126,6 @@
     "Link": "https://monzo.com/blog/2022/05/18/joining-monzo-as-a-data-scientist"
   },
   {
-    "PubDate": "2022-05-15T00:00:00Z",
-    "Description": "Our success relies on us rapidly shipping new features. To achieve this rapid release cadence, we've optimised our engineering culture, tooling, and architecture to go from idea to production as frictionless as possible, without sacrificing safety.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How we deploy to production over 100 times a day",
-    "Link": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day"
-  },
-  {
     "PubDate": "2022-05-12T00:00:00Z",
     "Description": "Rob joined Monzo as a Data Scientist, and recently moved into Machine Learning. Here's his journey!",
     "Tags": [
@@ -2385,6 +2375,15 @@
     "Link": "https://monzo.com/blog/extending-our-open-banking-gambling-block"
   },
   {
+    "PubDate": "2022-01-12T00:00:00Z",
+    "Description": "Following a pilot with Truelayer last year, we're extending our Open Banking gambling block to all UK firms.",
+    "Tags": [
+      "Banking and Regulation"
+    ],
+    "Title": "We're extending our Open Banking gambling block",
+    "Link": "https://monzo.com/blog/extending-our-open-banking-gambling-block"
+  },
+  {
     "PubDate": "2021-12-22T00:00:00Z",
     "Description": "Next time someone asks about data ROI, show them this formula.",
     "Tags": [
@@ -2543,15 +2542,6 @@
     ],
     "Title": "10 great Black writers who teach us about Black culture ",
     "Link": "https://monzo.com/blog/2021/10/13/10-great-black-writers-who-teach-us-about-black-culture"
-  },
-  {
-    "PubDate": "2021-10-08T00:00:00Z",
-    "Description": "Open Banking is changing the way people manage their money. It puts you in control by letting you share your transaction data with third parties. But how does it work?",
-    "Tags": [
-      "Banking 101"
-    ],
-    "Title": "How Open Banking can make your life easier",
-    "Link": "https://monzo.com/blog/2021/10/08/what-is-open-banking"
   },
   {
     "PubDate": "2021-10-05T00:00:00Z",
@@ -3887,6 +3877,16 @@
     ],
     "Title": "How to 'Save at Home' during coronavirus",
     "Link": "https://monzo.com/blog/save-at-home"
+  },
+  {
+    "PubDate": "2020-03-30T00:00:00Z",
+    "Description": "Universal Credit is a single monthly payment from the government. It's meant to cover your living costs and rent if you're out of work or on a low income.",
+    "Tags": [
+      "Coronavirus",
+      "Financial Inclusion"
+    ],
+    "Title": "How to access Universal Credit ",
+    "Link": "https://monzo.com/blog/access-universal-credit"
   },
   {
     "PubDate": "2020-03-30T00:00:00Z",
@@ -7695,6 +7695,15 @@
     "Link": "https://monzo.com/blog/2018/02/15/android-crowdsourcing-merchant-data"
   },
   {
+    "PubDate": "2018-02-15T00:00:00Z",
+    "Description": "Android users can now help us tidy up the way transactions appear in everyone's apps, by sharing or correcting information we have about retailers.",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Better Transaction Information on Android",
+    "Link": "https://monzo.com/blog/2018/02/15/android-crowdsourcing-merchant-data"
+  },
+  {
     "PubDate": "2018-02-14T00:00:00Z",
     "Description": "We've added the Pulse graph to Android, so you can see your spending at a glance.",
     "Tags": [
@@ -7839,15 +7848,6 @@
     "Link": "https://monzo.com/blog/2017/09/25/android-progress-update"
   },
   {
-    "PubDate": "2017-09-04T00:00:00Z",
-    "Description": "My goal is to help achieve Monzo's vision of becoming the financial control centre for people's lives.",
-    "Tags": [
-      "Team"
-    ],
-    "Title": "Meet Phil - Head of Partnerships",
-    "Link": "https://monzo.com/blog/2017/09/04/meet-phil-hewinson-head-of-partnerships"
-  },
-  {
     "PubDate": "2017-09-01T00:00:00Z",
     "Description": "What we learnt at this month's design-focused Open Office event.",
     "Tags": [
@@ -7974,6 +7974,15 @@
     ],
     "Title": "Practical Machine Learning With Event Streaming",
     "Link": "https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups"
+  },
+  {
+    "PubDate": "2017-04-27T00:00:00Z",
+    "Description": "A launchpad for awesome community led events at Monzo HQ.",
+    "Tags": [
+      "Community"
+    ],
+    "Title": "Welcome to The Drawing Board!",
+    "Link": "https://monzo.com/blog/2017/04/27/welcome-to-the-drawing-board"
   },
   {
     "PubDate": "2017-04-27T00:00:00Z",
@@ -8263,15 +8272,6 @@
     ],
     "Title": "New Monzo Update: Limits on iOS",
     "Link": "https://monzo.com/blog/2016/09/12/1-6-3"
-  },
-  {
-    "PubDate": "2016-09-07T00:00:00Z",
-    "Description": "Our Deputy CEO, Paul Rippon, discusses how we plan to roll out overdrafts...",
-    "Tags": [
-      "Banking and Regulation"
-    ],
-    "Title": "Our Approach to Overdrafts",
-    "Link": "https://monzo.com/blog/2016/09/07/our-approach-to-overdrafts"
   },
   {
     "PubDate": "2016-08-26T00:00:00Z",

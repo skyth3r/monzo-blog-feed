@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-04-27T00:00:00Z",
+    "Description": "Dive deep into the process we use when we hire Data Scientists at Monzo",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Interviewing for Data Science at Monzo",
+    "Link": "https://monzo.com/blog/interviewing-for-data-science-at-monzo"
+  },
+  {
     "PubDate": "2026-04-22T00:00:00Z",
     "Description": "At Monzo, over 100 independent, empowered teams contribute to our data warehouse of 12,000+ dbt models. The health of data is owned across all these teams. How do we make sure the outputs are still performant, consistent, and high quality?",
     "Tags": [
@@ -463,6 +472,15 @@
     "Link": "https://monzo.com/blog/2023/11/24/a-day-in-the-life-of-a-technical-programme-manager-at-monzo"
   },
   {
+    "PubDate": "2023-11-24T00:00:00Z",
+    "Description": "The Technical Programme Manager (TPM for short) role is hugely varied. I want to take you on a journey through a typical day in my life as a Technical Programme Manager here at Monzo.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "A Day in the Life of a Technical Programme Manager at Monzo",
+    "Link": "https://monzo.com/blog/2023/11/24/a-day-in-the-life-of-a-technical-programme-manager-at-monzo"
+  },
+  {
     "PubDate": "2023-10-12T00:00:00Z",
     "Description": "This blog explores how we've made our platform more resilient to spikes in app opens. We can now reduce load on our platform before we get overwhelmed so you can still access and use critical parts of the app, and your card continues to work.",
     "Tags": [
@@ -739,15 +757,6 @@
     ],
     "Title": "Joining Monzo as a Data Scientist",
     "Link": "https://monzo.com/blog/2022/05/18/joining-monzo-as-a-data-scientist"
-  },
-  {
-    "PubDate": "2022-05-15T00:00:00Z",
-    "Description": "Our success relies on us rapidly shipping new features. To achieve this rapid release cadence, we've optimised our engineering culture, tooling, and architecture to go from idea to production as frictionless as possible, without sacrificing safety.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How we deploy to production over 100 times a day",
-    "Link": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day"
   },
   {
     "PubDate": "2022-05-05T00:00:00Z",
