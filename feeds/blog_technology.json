@@ -370,13 +370,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2023/11/24/a-day-in-the-life-of-a-technical-programme-manager-at-monzo",
-      "title": "A Day in the Life of a Technical Programme Manager at Monzo",
-      "summary": "The Technical Programme Manager (TPM for short) role is hugely varied. I want to take you on a journey through a typical day in my life as a Technical Programme Manager here at Monzo.",
-      "date_published": "2023-11-24T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2023/10/12/protecting-our-platform-from-spikes-in-usage-by-reducing-load-from-the-monzo",
       "title": "Protecting our platform from spikes in usage by reducing load from the Monzo app",
       "summary": "This blog explores how we've made our platform more resilient to spikes in app opens. We can now reduce load on our platform before we get overwhelmed so you can still access and use critical parts of the app, and your card continues to work.",
@@ -584,6 +577,13 @@
       "title": "Joining Monzo as a Data Scientist",
       "summary": "Izak joined Monzo as a data scientist in February. In this post, he shares his journey to Monzo and his early experience in the data discipline, with our data stack, and in the team looking after our Customer Operations.",
       "date_published": "2022-05-17T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day",
+      "title": "How we deploy to production over 100 times a day",
+      "summary": "Our success relies on us rapidly shipping new features. To achieve this rapid release cadence, we've optimised our engineering culture, tooling, and architecture to go from idea to production as frictionless as possible, without sacrificing safety.",
+      "date_published": "2022-05-15T00:00:00Z"
     },
     {
       "id": "",
