@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-05-03T00:00:00Z",
+    "Description": "Customer service often involves helping people with banking queries. We built an AI system to automatically identify customers going through challenging moments and get them dedicated safeguarding",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Accelerating Safeguarding Support for our Most Vulnerable Customers with Machine Learning",
+    "Link": "https://monzo.com/blog/accelerating-safeguarding-support-for-our-most-vulnerable-customers-with-machine-learning"
+  },
+  {
     "PubDate": "2026-04-27T00:00:00Z",
     "Description": "Dive deep into the process we use when we hire Data Scientists at Monzo",
     "Tags": [
@@ -52,15 +61,6 @@
     ],
     "Title": "My first 3 months at Monzo as a Product Designer",
     "Link": "https://monzo.com/blog/my-first-3-months-at-monzo-as-a-product-designer/"
-  },
-  {
-    "PubDate": "2025-11-21T00:00:00Z",
-    "Description": "Our Machine Learning foundations have matured into a core capability. ML is used at Monzo for defending against financial crime, scaling operations, and powering intelligent, personalised experiences in our products",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Machine Learning at Monzo in 2025",
-    "Link": "https://monzo.com/blog/machine-learning-at-monzo-in-2025"
   },
   {
     "PubDate": "2025-11-19T00:00:00Z",
@@ -151,6 +151,15 @@
     ],
     "Title": "Demystifying the Senior Staff+ Engineering interview process",
     "Link": "https://monzo.com/blog/demystifying-the-senior-staff-engineering-interview-process"
+  },
+  {
+    "PubDate": "2025-05-01T00:00:00Z",
+    "Description": "This blogs explains the process of building and iterating on credit insights. We give you insight into how we use research to build products that meet customer needs, both at the start of the product design process and on an ongoing basis.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How we built a product to demystify credit scores",
+    "Link": "https://monzo.com/blog/how-we-built-a-product-to-demystify-credit-scores"
   },
   {
     "PubDate": "2025-05-01T00:00:00Z",
@@ -304,6 +313,15 @@
     ],
     "Title": "Building a processing system for International Payments",
     "Link": "https://monzo.com/blog/building-a-processing-system-for-international-payments"
+  },
+  {
+    "PubDate": "2024-07-30T00:00:00Z",
+    "Description": "We think there are lots of benefits associated with AI, but we have a human approach to hiring. At every stage there is a person reviewing and making decisions to ensure we're able to bring the best people to Monzo.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "The ultimate guide on using AI to ace an interview at Monzo",
+    "Link": "https://monzo.com/blog/the-ultimate-guide-on-using-ai-to-ace-an-interview-at-monzo"
   },
   {
     "PubDate": "2024-07-30T00:00:00Z",
