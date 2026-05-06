@@ -135,6 +135,15 @@
     "Link": "https://monzo.com/blog/my-first-3-months-at-monzo-as-a-product-designer/"
   },
   {
+    "PubDate": "2025-11-21T00:00:00Z",
+    "Description": "Our Machine Learning foundations have matured into a core capability. ML is used at Monzo for defending against financial crime, scaling operations, and powering intelligent, personalised experiences in our products",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Machine Learning at Monzo in 2025",
+    "Link": "https://monzo.com/blog/machine-learning-at-monzo-in-2025"
+  },
+  {
     "PubDate": "2025-11-19T00:00:00Z",
     "Description": "Aiste Luksyte, one of our Data Science Manager at Monzo shares their journey from a missed LinkedIn message to joining the Operations Data team. She tells us about Monzo's strong data culture, flexible work setup, and collaborative environment.",
     "Tags": [
@@ -307,15 +316,6 @@
     "Link": "https://monzo.com/blog/how-we-built-a-product-to-demystify-credit-scores"
   },
   {
-    "PubDate": "2025-05-01T00:00:00Z",
-    "Description": "This blogs explains the process of building and iterating on credit insights. We give you insight into how we use research to build products that meet customer needs, both at the start of the product design process and on an ongoing basis.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How we built a product to demystify credit scores",
-    "Link": "https://monzo.com/blog/how-we-built-a-product-to-demystify-credit-scores"
-  },
-  {
     "PubDate": "2025-04-03T00:00:00Z",
     "Description": "Monzo Stand-in is able to process payments in the event of a major outage of the Primary Platform. Customers can continue to use their card and send or receive bank transfers as normal",
     "Tags": [
@@ -472,6 +472,15 @@
   },
   {
     "PubDate": "2024-12-09T00:00:00Z",
+    "Description": "Learn about equity and loan-to-value (or LTV) with Monzo, whether you're buying your first house or currently looking to remortgage.",
+    "Tags": [
+      "Mortgages"
+    ],
+    "Title": "Equity and loan to value explained",
+    "Link": "https://monzo.com/blog/equity-and-loan-to-value-explained"
+  },
+  {
+    "PubDate": "2024-12-09T00:00:00Z",
     "Description": "The Monzo guide to remortgaging. We've also partnered with the regulated online mortgage broker, Better.co.uk to help you plan for and navigate every stage of the remortgaging process.",
     "Tags": [
       "Mortgages"
@@ -586,15 +595,6 @@
     ],
     "Title": "Building a processing system for International Payments",
     "Link": "https://monzo.com/blog/building-a-processing-system-for-international-payments"
-  },
-  {
-    "PubDate": "2024-07-30T00:00:00Z",
-    "Description": "We think there are lots of benefits associated with AI, but we have a human approach to hiring. At every stage there is a person reviewing and making decisions to ensure we're able to bring the best people to Monzo.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "The ultimate guide on using AI to ace an interview at Monzo",
-    "Link": "https://monzo.com/blog/the-ultimate-guide-on-using-ai-to-ace-an-interview-at-monzo"
   },
   {
     "PubDate": "2024-07-30T00:00:00Z",
