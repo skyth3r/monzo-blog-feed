@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-05-08T00:00:00Z",
+    "Description": "This blog talks through a transition from a traditional SAS-based banking background to Monzo, detailing how new skills were developed, and the type of projects worked on during the first 12 months in the Credit Strategy team.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Transitioning into Credit Strategy the Monzo Way",
+    "Link": "https://monzo.com/blog/transitioning-into-credit-strategy-the-monzo-way"
+  },
+  {
     "PubDate": "2026-05-03T00:00:00Z",
     "Description": "Customer service often involves helping people with banking queries. We built an AI system to automatically identify customers going through challenging moments and get them dedicated safeguarding",
     "Tags": [
@@ -545,15 +554,6 @@
     "Link": "https://monzo.com/blog/2023/07/10/how-we-do-product-management-in-the-financial-difficulties-space"
   },
   {
-    "PubDate": "2023-06-01T00:00:00Z",
-    "Description": "This is my experience of how I searched for and found my fit as a Product Designer in my first few months at Monzo, but I believe this applies to any role joining a new product team.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Finding your fit in a new product team ",
-    "Link": "https://monzo.com/blog/2023/06/01/finding-your-fit-in-a-new-product-team/"
-  },
-  {
     "PubDate": "2023-05-18T00:00:00Z",
     "Description": "This blog explains sensitivity analysis, which is a useful data science technique for assessing the impact of different variables on an outcome metric.",
     "Tags": [
@@ -700,6 +700,16 @@
     ],
     "Title": "Migrating our monorepo seamlessly from Dep to Go Modules",
     "Link": "https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules"
+  },
+  {
+    "PubDate": "2022-08-04T00:00:00Z",
+    "Description": "Detective controls help us monitor our systems for unwanted behaviour, but since writing our first detection rules, our company and team has grown. This post explains how we scaled those detection rules using Sigma and have open sourced our tooling.",
+    "Tags": [
+      "Technology",
+      "Security"
+    ],
+    "Title": "Scaling our security detection pipeline with Sigma",
+    "Link": "https://monzo.com/blog/2022/08/05/scaling-our-security-detection-pipeline-with-sigma"
   },
   {
     "PubDate": "2022-08-04T00:00:00Z",
@@ -897,16 +907,6 @@
     ],
     "Title": "How we protect our most sensitive secrets from the most determined attackers",
     "Link": "https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets"
-  },
-  {
-    "PubDate": "2021-10-13T00:00:00Z",
-    "Description": "An overview of the data stack we use at Monzo, some of the challenges we face, and what we want to change.",
-    "Tags": [
-      "Data",
-      "Technology"
-    ],
-    "Title": "An introduction to Monzo's data stack",
-    "Link": "https://monzo.com/blog/2021/10/14/an-introduction-to-monzos-data-stack"
   },
   {
     "PubDate": "2021-09-30T00:00:00Z",
@@ -1207,6 +1207,15 @@
     "Link": "https://monzo.com/blog/2017/05/05/why-payments-are-declined"
   },
   {
+    "PubDate": "2017-05-05T00:00:00Z",
+    "Description": "We break down the common causes of declined card payments.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Terminal decline: Why some payments fail",
+    "Link": "https://monzo.com/blog/2017/05/05/why-payments-are-declined"
+  },
+  {
     "PubDate": "2017-05-03T00:00:00Z",
     "Description": "Monzo's Head of Data and Analytics walks through our recent advances in using machine learning to make predictions based on existing data.",
     "Tags": [
@@ -1261,6 +1270,15 @@
     ],
     "Title": "Laying the foundation for a data team",
     "Link": "https://monzo.com/blog/2016/11/30/laying-the-foundation-for-a-data-team"
+  },
+  {
+    "PubDate": "2016-09-19T00:00:00Z",
+    "Description": "This first post in a series about our platform explains how we're building systems to meet these demands using modern, open-source technology...",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Building a Modern Bank Backend",
+    "Link": "https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend"
   },
   {
     "PubDate": "2016-09-19T00:00:00Z",

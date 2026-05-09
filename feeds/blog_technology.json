@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/transitioning-into-credit-strategy-the-monzo-way",
+      "title": "Transitioning into Credit Strategy the Monzo Way",
+      "summary": "This blog talks through a transition from a traditional SAS-based banking background to Monzo, detailing how new skills were developed, and the type of projects worked on during the first 12 months in the Credit Strategy team.",
+      "date_published": "2026-05-08T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/accelerating-safeguarding-support-for-our-most-vulnerable-customers-with-machine-learning",
       "title": "Accelerating Safeguarding Support for our Most Vulnerable Customers with Machine Learning",
       "summary": "Customer service often involves helping people with banking queries. We built an AI system to automatically identify customers going through challenging moments and get them dedicated safeguarding",
@@ -426,13 +433,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2023/06/01/finding-your-fit-in-a-new-product-team/",
-      "title": "Finding your fit in a new product team ",
-      "summary": "This is my experience of how I searched for and found my fit as a Product Designer in my first few months at Monzo, but I believe this applies to any role joining a new product team.",
-      "date_published": "2023-06-01T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2023/05/18/sensitivity-analysis",
       "title": "Sensitivity analysis",
       "summary": "This blog explains sensitivity analysis, which is a useful data science technique for assessing the impact of different variables on an outcome metric.",
@@ -542,6 +542,13 @@
       "title": "Migrating our monorepo seamlessly from Dep to Go Modules",
       "summary": "Since 2018, we've used Dep to manage our monorepo dependencies, but when it was deprecated switching to Go Modules was a high risk change. This post explains how we reduced that risk by iteratively updating our dependencies for a seamless migration.",
       "date_published": "2022-09-28T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/08/05/scaling-our-security-detection-pipeline-with-sigma",
+      "title": "Scaling our security detection pipeline with Sigma",
+      "summary": "Detective controls help us monitor our systems for unwanted behaviour, but since writing our first detection rules, our company and team has grown. This post explains how we scaled those detection rules using Sigma and have open sourced our tooling.",
+      "date_published": "2022-08-04T00:00:00Z"
     },
     {
       "id": "",
@@ -689,13 +696,6 @@
       "title": "How we protect our most sensitive secrets from the most determined attackers",
       "summary": "As a bank, we have private keys and other 'secrets' we need to protect, to keep our customers and ourselves safe. Our security controls work together to stop even the most determined and capable attackers.",
       "date_published": "2021-11-18T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2021/10/14/an-introduction-to-monzos-data-stack",
-      "title": "An introduction to Monzo's data stack",
-      "summary": "An overview of the data stack we use at Monzo, some of the challenges we face, and what we want to change.",
-      "date_published": "2021-10-13T00:00:00Z"
     },
     {
       "id": "",
@@ -930,6 +930,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2017/05/05/why-payments-are-declined",
+      "title": "Terminal decline: Why some payments fail",
+      "summary": "We break down the common causes of declined card payments.",
+      "date_published": "2017-05-05T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups",
       "title": "Practical Machine Learning With Event Streaming",
       "summary": "Monzo's Head of Data and Analytics walks through our recent advances in using machine learning to make predictions based on existing data.",
@@ -969,6 +976,13 @@
       "title": "Laying the foundation for a data team",
       "summary": "At Monzo, we want to build the best bank account in the world. Today, more than ever before, data is central to creating wonderful customer experiences and efficient internal operations.",
       "date_published": "2016-11-29T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend",
+      "title": "Building a Modern Bank Backend",
+      "summary": "This first post in a series about our platform explains how we're building systems to meet these demands using modern, open-source technology...",
+      "date_published": "2016-09-19T00:00:00Z"
     },
     {
       "id": "",
