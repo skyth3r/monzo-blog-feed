@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-05-12T00:00:00Z",
+    "Description": "This guide is designed to give you a high-level overview of what to expect when interviewing for leadership roles across data disciplines at Monzo",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Interviewing for Data Leadership Roles at Monzo",
+    "Link": "https://monzo.com/blog/interviewing-for-data-leadership-roles-at-monzo"
+  },
+  {
     "PubDate": "2026-05-08T00:00:00Z",
     "Description": "This blog talks through a transition from a traditional SAS-based banking background to Monzo, detailing how new skills were developed, and the type of projects worked on during the first 12 months in the Credit Strategy team.",
     "Tags": [
@@ -1178,15 +1187,6 @@
     ],
     "Title": "A technical look at how Monzo-to-Monzo payments work",
     "Link": "https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work"
-  },
-  {
-    "PubDate": "2018-03-02T00:00:00Z",
-    "Description": "Product Manager Jami explains how we turn a sneak peek on the forum into something you can hold in your hands.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How We Build the Monzo App",
-    "Link": "https://monzo.com/blog/2018/03/02/app-development"
   },
   {
     "PubDate": "2017-11-29T00:00:00Z",

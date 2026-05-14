@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-05-12T00:00:00Z",
+    "Description": "This guide is designed to give you a high-level overview of what to expect when interviewing for leadership roles across data disciplines at Monzo",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Interviewing for Data Leadership Roles at Monzo",
+    "Link": "https://monzo.com/blog/interviewing-for-data-leadership-roles-at-monzo"
+  },
+  {
     "PubDate": "2026-05-08T00:00:00Z",
     "Description": "This blog talks through a transition from a traditional SAS-based banking background to Monzo, detailing how new skills were developed, and the type of projects worked on during the first 12 months in the Credit Strategy team.",
     "Tags": [
@@ -885,15 +894,6 @@
     "Link": "https://monzo.com/blog/how-we-built-year-in-monzo-unlocking-the-data-magic"
   },
   {
-    "PubDate": "2023-12-19T00:00:00Z",
-    "Description": "Running a campaign at this scale is a group effort. The words are especially important because there's lots of them, and each one counts towards building a delightful experience. Here's the BTS story of how we wrote Year in Monzo this time around.",
-    "Tags": [
-      "Marketing team "
-    ],
-    "Title": "How we wrote 5 million Years in Monzo",
-    "Link": "https://monzo.com/blog/how-we-wrote-5-million-years-in-monzo"
-  },
-  {
     "PubDate": "2023-12-15T00:00:00Z",
     "Description": "Monzo runs on a shared platform of infrastructure that hosts our microservices. In this post, we'll discuss how we broker access to our infrastructure credentials with a system that is resistant to attacks even from the team that maintains it.",
     "Tags": [
@@ -1027,6 +1027,15 @@
     ],
     "Title": "How do I know if investing is for me?",
     "Link": "https://monzo.com/blog/2023/09/12/how-do-i-know-if-investing-is-for-me"
+  },
+  {
+    "PubDate": "2023-09-12T00:00:00Z",
+    "Description": "Seeing the value of your Investment Pot shoot up is exciting. But just as investment values can rise, they can fall too. It's a natural part of investing.",
+    "Tags": [
+      "Investments"
+    ],
+    "Title": "Staying calm when your investment value dips",
+    "Link": "https://monzo.com/blog/2023/09/12/staying-calm-when-your-investment-value-dips"
   },
   {
     "PubDate": "2023-09-12T00:00:00Z",
@@ -2385,15 +2394,6 @@
     "Link": "https://monzo.com/blog/how-to-save-the-spare-change-with-round-ups"
   },
   {
-    "PubDate": "2022-01-19T00:00:00Z",
-    "Description": "If you had £1 for every time you tweet, how long would it take you to be a millionaire?",
-    "Tags": [
-      "How to Save Money"
-    ],
-    "Title": "How to save money every time you tweet",
-    "Link": "https://monzo.com/blog/save-money-when-you-tweet"
-  },
-  {
     "PubDate": "2022-01-17T00:00:00Z",
     "Description": "Bee Skerritt joined the Infrastructure squad as a backend engineer. In this post, he explains his journey to Monzo and his experience so far.",
     "Tags": [
@@ -2532,6 +2532,15 @@
     ],
     "Title": "How one 26-year-old is balancing her lockdown candle business with full-time work",
     "Link": "https://monzo.com/blog/2021/10/18/how-one-26-year-old-is-balancing-her-lockdown-candle-business-with-full-time"
+  },
+  {
+    "PubDate": "2021-10-14T00:00:00Z",
+    "Description": "From today, you'll be able to make single payments of up to £100 using your contactless Monzo card. And you'll be able to spend a total of £200 using contactless, before we ask you to put your PIN in.",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "You can now make contactless payments up to £100, to make paying more convenient",
+    "Link": "https://monzo.com/blog/youll-be-able-to-make-contactless-payments-up-to-gbp100-to-make-paying-more"
   },
   {
     "PubDate": "2021-10-14T00:00:00Z",
@@ -7695,15 +7704,6 @@
     "Link": "https://monzo.com/blog/2018/03/07/coin-jar"
   },
   {
-    "PubDate": "2018-03-02T00:00:00Z",
-    "Description": "Product Manager Jami explains how we turn a sneak peek on the forum into something you can hold in your hands.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How We Build the Monzo App",
-    "Link": "https://monzo.com/blog/2018/03/02/app-development"
-  },
-  {
     "PubDate": "2018-02-28T00:00:00Z",
     "Description": "From adding the Pulse to Android, to more work on major updates to the Spending tab, we take a look at the progress we've made in February, and explain what's in store for March.",
     "Tags": [
@@ -7848,6 +7848,15 @@
     "Link": "https://monzo.com/blog/2017/10/30/monzo-to-monzo-payments"
   },
   {
+    "PubDate": "2017-10-30T00:00:00Z",
+    "Description": "If you've already upgraded to the current account, you can now pay your contacts in just a few taps - emoji included!",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Monzo-to-Monzo Payments Come to the Current Account",
+    "Link": "https://monzo.com/blog/2017/10/30/monzo-to-monzo-payments"
+  },
+  {
     "PubDate": "2017-09-27T00:00:00Z",
     "Description": "Powered by machine learning, the Android Help screen now allows you to search for answers quickly.",
     "Tags": [
@@ -7973,15 +7982,6 @@
     ],
     "Title": "Meet Tapas from Customer Operations",
     "Link": "https://monzo.com/blog/2017/05/17/meet-tapas"
-  },
-  {
-    "PubDate": "2017-05-08T00:00:00Z",
-    "Description": "From today, if you visit a Monzo.me page on a phone or tablet that has Android Pay, you'll be able to pay your friends and family even faster",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Pay in 15 seconds with Android Pay on Monzo.me!",
-    "Link": "https://monzo.com/blog/2017/05/08/android-pay-on-monzome"
   },
   {
     "PubDate": "2017-05-05T00:00:00Z",
@@ -8263,6 +8263,15 @@
     ],
     "Title": "Android is Here!",
     "Link": "https://monzo.com/blog/2016/09/29/android"
+  },
+  {
+    "PubDate": "2016-09-20T00:00:00Z",
+    "Description": "The first of a new series on our blog, following the adventures of the well-travelled Monzo community...",
+    "Tags": [
+      "Community"
+    ],
+    "Title": "#MonzoJournals - Philippines",
+    "Link": "https://monzo.com/blog/2016/09/20/monzo-journals-philippines"
   },
   {
     "PubDate": "2016-09-20T00:00:00Z",
