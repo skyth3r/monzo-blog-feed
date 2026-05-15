@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-05-13T00:00:00Z",
+    "Description": "At Monzo, Platform Engineering looks a little different. We design APIs and write services that provide functionality in the platform for others to leverage. We think about reliability, ownership and testing in the same way that product teams do",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "The Engineering Behind the Platform",
+    "Link": "https://monzo.com/blog/the-engineering-behind-the-platform"
+  },
+  {
     "PubDate": "2026-05-12T00:00:00Z",
     "Description": "This guide is designed to give you a high-level overview of what to expect when interviewing for leadership roles across data disciplines at Monzo",
     "Tags": [
@@ -1187,6 +1196,15 @@
     ],
     "Title": "A technical look at how Monzo-to-Monzo payments work",
     "Link": "https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work"
+  },
+  {
+    "PubDate": "2018-03-02T00:00:00Z",
+    "Description": "Product Manager Jami explains how we turn a sneak peek on the forum into something you can hold in your hands.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How We Build the Monzo App",
+    "Link": "https://monzo.com/blog/2018/03/02/app-development"
   },
   {
     "PubDate": "2017-11-29T00:00:00Z",
