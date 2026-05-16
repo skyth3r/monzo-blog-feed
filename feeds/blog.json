@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/our-2026-diversity-and-inclusion-report",
+      "title": "Our 2026 Diversity and Inclusion Report ",
+      "summary": "Read our 2026 Diversity and Inclusion report to find out what we're doing to create an environment where everyone can belong.",
+      "date_published": "2026-05-14T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/the-engineering-behind-the-platform",
       "title": "The Engineering Behind the Platform",
       "summary": "At Monzo, Platform Engineering looks a little different. We design APIs and write services that provide functionality in the platform for others to leverage. We think about reliability, ownership and testing in the same way that product teams do",
@@ -108,6 +115,13 @@
       "title": "Monzo's side hustle forecast 2026: 8 insights from people with side gigs",
       "summary": "Do you have a side hustle or plan to start one? Discover how side hustlers are growing their businesses, and what opportunities 2026 holds.",
       "date_published": "2026-01-23T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/how-banks-make-money",
+      "title": "What to know before joining a bank: how they make money",
+      "summary": "This blog post covers how banks make money, and some Monzo specifics on how we do so in a way that helps our customers win, too.",
+      "date_published": "2026-01-02T00:00:00Z"
     },
     {
       "id": "",
@@ -234,13 +248,6 @@
       "title": "Designing bulk payments for how businesses really work",
       "summary": "This blog discusses how we designed and built bulk payments: letting users send multiple payments in one go. It's a story of cross-team collaboration, complex challenges, and how we stayed laser-focused on what our users actually need to get done.",
       "date_published": "2025-05-28T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/undo-payments",
-      "title": "You can now undo payments",
-      "summary": "With a Monzo account, it's now possible to reverse a payment if you made a mistake with the amount you sent, who you sent it to, or the fact that you sent it at all.",
-      "date_published": "2025-05-13T00:00:00Z"
     },
     {
       "id": "",
@@ -1840,6 +1847,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/how-to-save-the-spare-change-with-round-ups",
+      "title": "How to save the spare change ",
+      "summary": "Round up your spending to the nearest pound and put the spare change in a Pot.",
+      "date_published": "2022-01-19T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/save-money-when-you-tweet",
       "title": "How to save money every time you tweet",
       "summary": "If you had £1 for every time you tweet, how long would it take you to be a millionaire?",
@@ -1952,13 +1966,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2021/10/18/how-one-26-year-old-is-balancing-her-lockdown-candle-business-with-full-time",
-      "title": "How one 26-year-old is balancing her lockdown candle business with full-time work",
-      "summary": "Aliyah, 26, has always loved candles and spotted a gap in the market. During lockdown she started her business, Allen At Home, alongside her full-time job.",
-      "date_published": "2021-10-17T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/youll-be-able-to-make-contactless-payments-up-to-gbp100-to-make-paying-more",
       "title": "You can now make contactless payments up to £100, to make paying more convenient",
       "summary": "From today, you'll be able to make single payments of up to £100 using your contactless Monzo card. And you'll be able to spend a total of £200 using contactless, before we ask you to put your PIN in.",
@@ -1998,6 +2005,13 @@
       "title": "Now trending: your money",
       "summary": "Discover your spending and saving patterns",
       "date_published": "2021-10-05T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/gender-pay-gap-update-april-2020-and-april-2021",
+      "title": "An update on our gender pay gap, April 2020 and April 2021",
+      "summary": "We've reduced our median gender pay gap to 4%, down from 20% between 2019 and 2021.",
+      "date_published": "2021-10-03T00:00:00Z"
     },
     {
       "id": "",
@@ -2323,6 +2337,20 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2021/03/05/march-2021-budget-small-businesses",
+      "title": "How will the March 2021 UK Budget affect your business?",
+      "summary": "How will the 2021 Budget affect your business and its prospects for the year ahead? With a few new policies outlined, we thought we'd walk you through some of the key measures the Government is introducing for small businesses.",
+      "date_published": "2021-03-04T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/weve-teamed-up-with-truelayer-team-up-to-protect-vulnerable-customers",
+      "title": "We're running a pilot with TrueLayer to create an open banking powered gambling block",
+      "summary": "We've teamed up with TrueLayer to offer the same protections for customers using new payment methods to gamble.",
+      "date_published": "2021-02-18T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/support-gambling-self-exclusion",
       "title": "Sign the open letter: Ask the government to make sure everyone can access a gambling block",
       "summary": "Everyone should be able to access a gambling block - no matter who you bank with.",
@@ -2467,6 +2495,13 @@
       "title": "The history of money management in the Black community",
       "summary": "In our final post this Black History Month, we're taking a look at ways Black communities have managed money in the US and the UK.",
       "date_published": "2020-10-30T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2020/10/27/maggie-lena-walker",
+      "title": "Maggie Lena Walker: US Banking Pioneer",
+      "summary": "This Black History Month we're focussing on the lesser-told stories of prominent Black figures in the history of finance. This post focuses on Maggie Lena Walker.",
+      "date_published": "2020-10-27T00:00:00Z"
     },
     {
       "id": "",
@@ -2634,13 +2669,6 @@
       "url": "https://monzo.com/blog/everything-you-need-to-know-about-monzos-holographic-debit-card",
       "title": "Everything you need to know about our holographic debit card",
       "summary": "Our blue holographic card is exclusive to Monzo Plus, and it's our boldest card yet. Here's everything you need to know about it.",
-      "date_published": "2020-07-16T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/how-to-check-if-a-websites-safe-before-you-shop-online",
-      "title": "How to check if a website's safe before you shop online",
-      "summary": "Some things to look out for when you're shopping online.",
       "date_published": "2020-07-16T00:00:00Z"
     },
     {
@@ -3370,6 +3398,13 @@
       "title": "Why you should make Monzo your main bank, according to people who have",
       "summary": "98% of people who use Monzo as their main account would recommend it.",
       "date_published": "2019-11-20T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/06/05/monzo-exchange-rate",
+      "title": "Mastercard exchange rate - What's the rate on Monzo?",
+      "summary": "When you make payments abroad using Monzo, we pass on the Mastercard exchange rate directly to you, without any markups.",
+      "date_published": "2019-11-19T00:00:00Z"
     },
     {
       "id": "",
@@ -5837,13 +5872,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2018/03/19/500k-customers",
-      "title": "Half a Million Current Accounts!",
-      "summary": "Half a million people are now using Monzo through upgraded accounts here in the UK",
-      "date_published": "2018-03-19T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2018/03/07/coin-jar",
       "title": "Save Spare Change with Coin Jar",
       "summary": "We've launched an early experiment, that lets you round purchases up to the nearest pound, and put the money aside in a pot.",
@@ -6061,6 +6089,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2017/05/17/meet-tapas",
+      "title": "Meet Tapas from Customer Operations",
+      "summary": "I once trialled at Charton Athletic Football Club. Then I fell in love with cheese; Cathedral City was her name and the dream vanished",
+      "date_published": "2017-05-17T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2017/05/08/android-pay-on-monzome",
       "title": "Pay in 15 seconds with Android Pay on Monzo.me!",
       "summary": "From today, if you visit a Monzo.me page on a phone or tablet that has Android Pay, you'll be able to pay your friends and family even faster",
@@ -6163,13 +6198,6 @@
       "title": "4 useful services your bank should not be charging you for",
       "summary": "Click to read more",
       "date_published": "2017-02-17T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2017/02/16/the-richest-man-in-babylon",
-      "title": "Budgeting, Money Management and Planning Ahead",
-      "summary": "We're building a resource on budgeting to help customers improve their money management - and we want your advice",
-      "date_published": "2017-02-16T00:00:00Z"
     },
     {
       "id": "",
