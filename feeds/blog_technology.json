@@ -6,34 +6,6 @@
   "items": [
     {
       "id": "",
-      "url": "https://monzo.com/blog/the-engineering-behind-the-platform",
-      "title": "The Engineering Behind the Platform",
-      "summary": "At Monzo, Platform Engineering looks a little different. We design APIs and write services that provide functionality in the platform for others to leverage. We think about reliability, ownership and testing in the same way that product teams do",
-      "date_published": "2026-05-13T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/interviewing-for-data-leadership-roles-at-monzo",
-      "title": "Interviewing for Data Leadership Roles at Monzo",
-      "summary": "This guide is designed to give you a high-level overview of what to expect when interviewing for leadership roles across data disciplines at Monzo",
-      "date_published": "2026-05-12T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/transitioning-into-credit-strategy-the-monzo-way",
-      "title": "Transitioning into Credit Strategy the Monzo Way",
-      "summary": "This blog talks through a transition from a traditional SAS-based banking background to Monzo, detailing how new skills were developed, and the type of projects worked on during the first 12 months in the Credit Strategy team.",
-      "date_published": "2026-05-08T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/accelerating-safeguarding-support-for-our-most-vulnerable-customers-with-machine-learning",
-      "title": "Accelerating Safeguarding Support for our Most Vulnerable Customers with Machine Learning",
-      "summary": "Customer service often involves helping people with banking queries. We built an AI system to automatically identify customers going through challenging moments and get them dedicated safeguarding",
-      "date_published": "2026-05-03T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/interviewing-for-data-science-at-monzo",
       "title": "Interviewing for Data Science at Monzo",
       "summary": "Dive deep into the process we use when we hire Data Scientists at Monzo",
@@ -377,13 +349,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/how-we-unified-our-customers-activity-on-the-new-home-screen",
-      "title": "How we unified our customers' activity on the new home screen",
-      "summary": "In this blog post, we explore how we built our home screen, a single stream of activity that lets you glance over the latest updates across all your bank accounts! Less searching around, less app-hopping, less confusion. ",
-      "date_published": "2024-01-10T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/building-year-in-monzo-as-told-by-engineering",
       "title": "Building Year in Monzo - as told by engineering",
       "summary": "We've shared the behind the scenes insights into how we wrote 5 million Years in Monzo, and the magic behind the data. Now we're going to dig into how we turned this data into the Year in Monzo experience you know and love.",
@@ -412,6 +377,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2023/09/12/the-skadnetwork-puzzle-using-data-to-solve-for-effective-performance/",
+      "title": "The SKAdNetwork Puzzle: Using Data to Solve for Effective Performance Marketing",
+      "summary": "This blog talks through how Monzo uses Data Science and Analytics Engineering to measure the value of paid marketing as Apple's SKAdNetwork changes the mobile advertising landscape, which helps to inform our wider strategies of sustainable growth",
+      "date_published": "2023-09-12T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2023/08/23/tech-leading-as-a-mobile-engineer-at-monzo",
       "title": "Tech leading as a mobile engineer at Monzo",
       "summary": "Mark has written about his experience and growth as a tech lead at Monzo over the last 18 months - from creeping doubts to using his mobile engineer's perspective to shape the role to his strengths",
@@ -430,20 +402,6 @@
       "title": "How we launch new products at Monzo",
       "summary": "From staff testing to Monzo Labs, learn about the different ways Monzo launches new products and features - and how we don't always get it right!",
       "date_published": "2023-08-03T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2023/07/18/five-lessons-from-my-first-year-at-monzo",
-      "title": "Five lessons from my first year at Monzo",
-      "summary": "Tarah Srethwatanakul is a Lead Researcher at Monzo. In this blog post, she shares lessons from her first year at the company.",
-      "date_published": "2023-07-18T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2023/07/10/how-we-do-product-management-in-the-financial-difficulties-space",
-      "title": "How we do product management in the financial difficulties space",
-      "summary": "In Financial Health, we're responsible for making sure we build the right tools and experiences to help our customers through thick and thin if they experience financial difficulties, while also helping Monzo grow its Borrowing products.",
-      "date_published": "2023-07-12T00:00:00Z"
     },
     {
       "id": "",
@@ -556,13 +514,6 @@
       "title": "Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo",
       "summary": "We introduced automated rollbacks to our platform using Argo Rollouts and made it the default deployment strategy for all our services. This helps us roll out changes safely and catch a wide class of problems related to deploying new code",
       "date_published": "2022-11-07T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2022/09/29/migrating-our-monorepo-seamlessly-from-dep-to-go-modules",
-      "title": "Migrating our monorepo seamlessly from Dep to Go Modules",
-      "summary": "Since 2018, we've used Dep to manage our monorepo dependencies, but when it was deprecated switching to Go Modules was a high risk change. This post explains how we reduced that risk by iteratively updating our dependencies for a seamless migration.",
-      "date_published": "2022-09-28T00:00:00Z"
     },
     {
       "id": "",
@@ -734,6 +685,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2021/09/15/how-we-measure-software-excellence",
+      "title": "How we've started to measure 'software excellence' ",
+      "summary": "We're experimenting with ways to measure, track, and improve the quality of our software.",
+      "date_published": "2021-09-15T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/lessons-from-implementing-progression-frameworks-at-scale",
       "title": "Lessons from implementing engineering progression frameworks at scale",
       "summary": "We introduced the first progression framework for engineers about three years ago. But as the engineering organisation has changed, we found it was hurting, not helping career conversations at Monzo. This is what we did to fix it.",
@@ -766,6 +724,13 @@
       "title": "How we've evolved on-call at Monzo",
       "summary": "We've built a humane on-call rotation, that engineers actually want to join!",
       "date_published": "2020-05-10T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/controlling-outbound-traffic-from-kubernetes",
+      "title": "Controlling outbound traffic from Kubernetes",
+      "summary": "We recently finished a major networking project which let us control internal traffic in our platform. And we've been thinking about how we can add similar security to network traffic leaving our platform.",
+      "date_published": "2020-04-05T00:00:00Z"
     },
     {
       "id": "",
@@ -808,6 +773,13 @@
       "title": "How our security team handle secrets",
       "summary": "We recently designed a new system to manage secret information safely - from the keys that we use to sign your Mastercard transactions, to credentials for external services.",
       "date_published": "2019-10-11T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2019/07/31/how-we-experiment-at-monzo",
+      "title": "How we experiment at Monzo",
+      "summary": "Making big decisions is hard. So at Monzo, we test our ideas out whenever we can. Here's how that works!",
+      "date_published": "2019-07-31T00:00:00Z"
     },
     {
       "id": "",
