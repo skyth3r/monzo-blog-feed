@@ -6,6 +6,48 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/best-value-festivals",
+      "title": "The best value UK summer festivals: where to get the most bangers for your buck",
+      "summary": "We've crunched the numbers on UK festivals, from the line-up and the headliners to the ticket prices. Find out where you'll get the most bangers for your buck.",
+      "date_published": "2026-05-17T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/our-2026-diversity-and-inclusion-report",
+      "title": "Our 2026 Diversity and Inclusion Report ",
+      "summary": "Read our 2026 Diversity and Inclusion report to find out what we're doing to create an environment where everyone can belong.",
+      "date_published": "2026-05-14T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/the-engineering-behind-the-platform",
+      "title": "The Engineering Behind the Platform",
+      "summary": "At Monzo, Platform Engineering looks a little different. We design APIs and write services that provide functionality in the platform for others to leverage. We think about reliability, ownership and testing in the same way that product teams do",
+      "date_published": "2026-05-13T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/interviewing-for-data-leadership-roles-at-monzo",
+      "title": "Interviewing for Data Leadership Roles at Monzo",
+      "summary": "This guide is designed to give you a high-level overview of what to expect when interviewing for leadership roles across data disciplines at Monzo",
+      "date_published": "2026-05-12T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/transitioning-into-credit-strategy-the-monzo-way",
+      "title": "Transitioning into Credit Strategy the Monzo Way",
+      "summary": "This blog talks through a transition from a traditional SAS-based banking background to Monzo, detailing how new skills were developed, and the type of projects worked on during the first 12 months in the Credit Strategy team.",
+      "date_published": "2026-05-08T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/accelerating-safeguarding-support-for-our-most-vulnerable-customers-with-machine-learning",
+      "title": "Accelerating Safeguarding Support for our Most Vulnerable Customers with Machine Learning",
+      "summary": "Customer service often involves helping people with banking queries. We built an AI system to automatically identify customers going through challenging moments and get them dedicated safeguarding",
+      "date_published": "2026-05-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/interviewing-for-data-science-at-monzo",
       "title": "Interviewing for Data Science at Monzo",
       "summary": "Dive deep into the process we use when we hire Data Scientists at Monzo",
@@ -864,6 +906,111 @@
       "title": "How we launch new products at Monzo",
       "summary": "From staff testing to Monzo Labs, learn about the different ways Monzo launches new products and features - and how we don't always get it right!",
       "date_published": "2023-08-03T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2023/08/01/see-into-the-future-of-monzo",
+      "title": "See into the future of Monzo",
+      "summary": "Switch over to the new-look Home screen for a better overview of your money and more insight into your spending habits.",
+      "date_published": "2023-07-31T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/travel-scams-protect-yourself",
+      "title": "3 common travel scams and how to protect yourself",
+      "summary": "Be mindful of these travel scams that could turn your dream holiday into a nightmare.",
+      "date_published": "2023-07-31T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/friendship-money-wealth-gap-tips",
+      "title": "How to stop a money gap from tearing your friendships apart",
+      "summary": "Financial differences can test even the closest friendships. Here are 5 tips to handle them.",
+      "date_published": "2023-07-26T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/friendship-money-wealth-income-gap",
+      "title": "What it's really like being on either side of the friendship money gap",
+      "summary": "Maintaining friendships across different financial circumstances can be tough, whether you earn less or more than your friends.",
+      "date_published": "2023-07-24T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2023/07/18/five-lessons-from-my-first-year-at-monzo",
+      "title": "Five lessons from my first year at Monzo",
+      "summary": "Tarah Srethwatanakul is a Lead Researcher at Monzo. In this blog post, she shares lessons from her first year at the company.",
+      "date_published": "2023-07-18T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/festival-money-saving-tips",
+      "title": "8 dos and don'ts of saving money at festivals",
+      "summary": "Festival season isn't cheap, but there are clever ways to cut down your expenses.",
+      "date_published": "2023-07-16T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2023/07/10/how-we-do-product-management-in-the-financial-difficulties-space",
+      "title": "How we do product management in the financial difficulties space",
+      "summary": "In Financial Health, we're responsible for making sure we build the right tools and experiences to help our customers through thick and thin if they experience financial difficulties, while also helping Monzo grow its Borrowing products.",
+      "date_published": "2023-07-12T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/save-money-festivals-pots",
+      "title": "“How I built a £600 Festival Fund for a summer of fun”",
+      "summary": "Leo, 29, uses Pots to give himself financial flexibility at festivals. Here's how.",
+      "date_published": "2023-07-12T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/saving-money-last-minute-wedding",
+      "title": "“How I'm saving for my £7k wedding in just five months”",
+      "summary": "Julia, 30, got a last-minute package deal on her wedding to save money. Here's how she's saving up for the big day.",
+      "date_published": "2023-07-06T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/manage-money-group-holidays",
+      "title": "“How we managed different money personalities on our group holiday”",
+      "summary": "Ariana, 26, and her friends had a great holiday despite their contrasting approaches to money.",
+      "date_published": "2023-07-05T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/monzo-premium-travel-insurance-provider-update",
+      "title": "Monzo Premium has a new travel insurance provider",
+      "summary": "From 3rd July 2023, Monzo Premium's worldwide family travel insurance will be provided by Zurich, powered by Qover. This blog explains more about the switch, including how Zurich's own Terms and Conditions differ from the previous provider.",
+      "date_published": "2023-07-03T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/debt-budgeting-tips",
+      "title": "“I got into nearly £2k debt trying to escape a bad job”",
+      "summary": "How Kitty, 23, an accountant from Eastbourne, budgeted her way out of debt in three months.",
+      "date_published": "2023-06-28T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/small-budget-wedding-planning-tips",
+      "title": "“Our wedding cost £4k and there's nothing I'd do differently”",
+      "summary": "Lauren, 31, saved money on her big day by rethinking what a wedding ‘should' look like.",
+      "date_published": "2023-06-25T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/group-holidays-bill-splitting-monzo",
+      "title": "“How we avoid falling out about money on our 10-person holiday”",
+      "summary": "Sam, 36, organises his friendship group's holiday. Here's how he keeps the peace when it comes to money.",
+      "date_published": "2023-06-15T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/monzo-pots-save-money-healthy-eating",
+      "title": "“I stopped buying Tesco Meal Deals and put all the money in a Pot”",
+      "summary": "Grace, 27, is getting healthy and saving money at the same time using Pots.",
+      "date_published": "2023-06-14T00:00:00Z"
     },
     {
       "id": "",
@@ -2120,6 +2267,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/debt-borrowing-money-making-repayments-coronavirus-stepchange",
+      "title": "Your questions about debt during coronavirus, answered by StepChange debt charity",
+      "summary": "Debt charity Stepchange explain how to manage your debts and live on less money than usual during coronavirus.",
+      "date_published": "2021-03-23T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/outsourcing-parts-of-your-business",
       "title": "Thinking about outsourcing parts of your business? Here's what you need to know.",
       "summary": "There comes a stage for every business where outsourcing some functions makes sense. Check out our tips on how and what to outsource.",
@@ -2694,10 +2848,87 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/how-to-get-support-if-youre-a-refugee-or-asylum-seeker-during-coronavirus",
+      "title": "How to get support if you're a refugee or asylum seeker during coronavirus",
+      "summary": "The Scottish Refugee Council explain how lockdown might affect your asylum claim, how to protect yourself if you're living in asylum accommodation, and how you can access government updates in your language.",
+      "date_published": "2020-05-01T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/how-to-live-on-20-less-money-furlough",
+      "title": "How to live on 80% of your usual income",
+      "summary": "If you've lost your job, had a pay cut or gone on furlough because of coronavirus, you might need to make your money stretch further. We'll walk you through how to make a simple budget.",
+      "date_published": "2020-05-01T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2020/05/04/confirmation-of-payee-launch",
+      "title": "We're launching confirmation of payee to help keep your money safe from fraudsters!",
+      "summary": "Confirmation of Payee is a service to make bank transfers safer. It checks that the account holder name and details you typed in match those on the account you're trying to pay.",
+      "date_published": "2020-04-30T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/pivot-your-business-online",
+      "title": "How to move your business online during coronavirus",
+      "summary": "Moving your business online during the coronavirus outbreak can be a good way to keep trading during the lockdown.",
+      "date_published": "2020-04-29T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/behind-the-scenes-of-a-phishing-scam",
+      "title": "See how fraudsters run phishing scams, so you can learn to spot their tricks",
+      "summary": "See how fraudsters run phishing scams, so you can learn to spot their tricks.",
+      "date_published": "2020-04-28T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/how-monzos-gambling-block-and-self-exclusion-helped-me-beat-gambling-addiction-and-pay-off-debt",
+      "title": "“How I beat my gambling addiction and started paying off £100,000 in debt” ",
+      "summary": "Chris is a 38 year-old father of two from Essex who's in recovery after beating his gambling addiction.",
+      "date_published": "2020-04-27T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/hmrc-scam",
+      "title": "What an HMRC scam looks like",
+      "summary": "Fraudsters are sending emails and texts pretending to be from the government. These scam messages can look and sound very convincing, so here's how to spot an HMRC tax scam.",
+      "date_published": "2020-04-24T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/how-to-spot-a-bank-scam",
+      "title": "How to spot a bank scam before it's too late",
+      "summary": "We've outlined what these bank scams usually look like, how authorised push payment fraud works and how to protect yourself from fraud.",
+      "date_published": "2020-04-23T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2019/04/02/pyramid-schemes-fractal-mandala",
       "title": "We're seeing more pyramid schemes on social media. Here's how to protect yourself.",
       "summary": "More people are falling victim to pyramid schemes on social media. Here's how you can protect yourself against this increasingly common kind of fraud.",
       "date_published": "2020-04-21T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/government-support-start-ups-coronavirus",
+      "title": "What government support is available for start-ups during coronavirus?",
+      "summary": "We've summarised and explained what's available to early-stage companies, to help you understand the best options for your business.",
+      "date_published": "2020-04-21T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/manage-your-business-finances-during-coronavirus",
+      "title": "Here are four ways to try and secure your business finances during coronavirus",
+      "summary": "We've outlined a few ways you can try keep your business finances secure during this time.",
+      "date_published": "2020-04-15T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/our-2020-diversity-and-inclusion-report",
+      "title": "Our 2020 diversity and inclusion report",
+      "summary": "We've seen the best improvements in our gender diversity, where we've increased our representation of women in Monzo by 13.75%. But we need to do more for ethnicity representation as it's only increased by 4.02%.",
+      "date_published": "2020-04-14T00:00:00Z"
     },
     {
       "id": "",
@@ -2708,10 +2939,31 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/what-to-do-if-youre-worried-about-paying-rent-or-losing-your-home-because-of-coronavirus",
+      "title": "Can't afford your rent because of coronavirus? Experts explain what you can do",
+      "summary": "If you're worried about paying rent or facing homelessness because of coronavirus, we asked homeless charity Centrepoint to explain what you can do.",
+      "date_published": "2020-04-09T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/your-questions-about-universal-credit-and-government-support-answered-by",
+      "title": "Your questions about Universal Credit and the government's coronavirus support, answered by experts",
+      "summary": "Lost your job or income because of coronavirus? We asked poverty charity Turn2Us to answer your questions about Universal Credit and how to get support if you're struggling with money.",
+      "date_published": "2020-04-09T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2019/09/18/tax-free-savings-allowance",
       "title": "Tax free savings allowance - what is yours and where to find it",
       "summary": "Your tax free savings allowance, also known as a Personal Savings Allowance, is a way for most people to earn interest from savings without paying tax!",
       "date_published": "2020-04-08T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/how-to-shop-online-safely-with-monzo",
+      "title": "How to shop online safely with Monzo",
+      "summary": "If you're shopping online more during the lockdown, you could be more at risk of falling victim to fraud.",
+      "date_published": "2020-04-07T00:00:00Z"
     },
     {
       "id": "",
