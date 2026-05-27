@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-05-25T00:00:00Z",
+    "Description": "This guide is here to help you understand what to expect and how to approach the Analytics Engineering (AE) interview process at Monzo—so you can feel prepared, confident, and able to show your best work",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Interviewing for Analytics Engineering at Monzo",
+    "Link": "https://monzo.com/blog/interviewing-for-analytics-engineering-at-monzo"
+  },
+  {
     "PubDate": "2026-05-13T00:00:00Z",
     "Description": "At Monzo, Platform Engineering looks a little different. We design APIs and write services that provide functionality in the platform for others to leverage. We think about reliability, ownership and testing in the same way that product teams do",
     "Tags": [
@@ -637,6 +646,16 @@
     "Link": "https://monzo.com/blog/2022/03/02/designing-a-regional-experiment-to-measure-incrementality"
   },
   {
+    "PubDate": "2023-03-02T00:00:00Z",
+    "Description": "This blog post covers the approach for how we designed a regional experiment to measure the incremental impact of our referral scheme on new customer growth.",
+    "Tags": [
+      "Data",
+      "Technology"
+    ],
+    "Title": "Designing a regional experiment to measure incrementality",
+    "Link": "https://monzo.com/blog/2022/03/02/designing-a-regional-experiment-to-measure-incrementality"
+  },
+  {
     "PubDate": "2023-02-22T00:00:00Z",
     "Description": "In September 2022, Monzo became a Direct Participant of the Bacs scheme. In this post, Tech Lead Ryan explains how we built a new connection to the the Bacs scheme over the SWIFT banking network and managed the risks involved.",
     "Tags": [
@@ -886,6 +905,16 @@
     ],
     "Title": "Processing payments safely at scale",
     "Link": "https://monzo.com/blog/2022/02/08/processing-payments-safely-at-scale"
+  },
+  {
+    "PubDate": "2022-02-04T00:00:00Z",
+    "Description": "We make lots of decisions based on data from customer support. We need to make sure we can trust this data. In this post, Niamh explains how her team validated the data.",
+    "Tags": [
+      "Data",
+      "Technology"
+    ],
+    "Title": "How we validated our handling time data",
+    "Link": "https://monzo.com/blog/2022/02/04/how-we-validated-our-handling-time-data"
   },
   {
     "PubDate": "2022-02-04T00:00:00Z",
