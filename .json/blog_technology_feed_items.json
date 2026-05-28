@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-05-27T00:00:00Z",
+    "Description": "We share our journey of fixing a major workflow bottleneck for our marketing teams by trading one-off static layouts for a library of plug-and-play modular templates.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Reimagining monzo.com: Building a modular high-fidelity web design system that scales",
+    "Link": "https://monzo.com/blog/reimagining-monzo-com-building-a-modular-high-fidelity-web-design-system-that-scales"
+  },
+  {
     "PubDate": "2026-05-25T00:00:00Z",
     "Description": "This guide is here to help you understand what to expect and how to approach the Analytics Engineering (AE) interview process at Monzo—so you can feel prepared, confident, and able to show your best work",
     "Tags": [
@@ -306,15 +315,6 @@
     "Link": "https://monzo.com/blog/vertically-scaling-ordered-consumption-using-kafka"
   },
   {
-    "PubDate": "2024-09-30T00:00:00Z",
-    "Description": "Monzo runs almost 3,000 microservices to power everything. A core part of being able to run all these systems and features safely is rate limiting. In this blog post we describe how that gets us to doing what we call “distributed rate limiting.”",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Enabling horizontal autoscaling with co-operative distributed rate limiting",
-    "Link": "https://monzo.com/blog/enabling-horizontal-autoscaling-with-co-operative-distributed-rate-limiting"
-  },
-  {
     "PubDate": "2024-09-18T00:00:00Z",
     "Description": "We built a system to define scheduled jobs that moves away from cron and adds support for timezones, better monitoring and a more delightful developer experience",
     "Tags": [
@@ -386,6 +386,15 @@
     ],
     "Title": "Delightful Payments",
     "Link": "https://monzo.com/blog/delightful-payments/"
+  },
+  {
+    "PubDate": "2024-06-20T00:00:00Z",
+    "Description": "This blog talks about how we protect our workloads against supply chain attacks, specifically by achieving bit-by-bit reproducible builds, and how we have adopted Nix an alternative to Docker for build environments.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Securing our software supply-chain better with reproducible builds for enclaves",
+    "Link": "https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for"
   },
   {
     "PubDate": "2024-06-20T00:00:00Z",
@@ -517,15 +526,6 @@
     "Link": "https://monzo.com/blog/2023/11/24/a-day-in-the-life-of-a-technical-programme-manager-at-monzo"
   },
   {
-    "PubDate": "2023-10-12T00:00:00Z",
-    "Description": "This blog explores how we've made our platform more resilient to spikes in app opens. We can now reduce load on our platform before we get overwhelmed so you can still access and use critical parts of the app, and your card continues to work.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Protecting our platform from spikes in usage by reducing load from the Monzo app",
-    "Link": "https://monzo.com/blog/2023/10/12/protecting-our-platform-from-spikes-in-usage-by-reducing-load-from-the-monzo"
-  },
-  {
     "PubDate": "2023-09-12T00:00:00Z",
     "Description": "This blog talks through how Monzo uses Data Science and Analytics Engineering to measure the value of paid marketing as Apple's SKAdNetwork changes the mobile advertising landscape, which helps to inform our wider strategies of sustainable growth",
     "Tags": [
@@ -634,16 +634,6 @@
     ],
     "Title": "Sweating the Small Stuff: What do app screens and pedestrian-crossings have in common? ",
     "Link": "https://monzo.com/blog/2023/03/20/what-do-app-screens-and-pedestrian-crossings-have-in-common"
-  },
-  {
-    "PubDate": "2023-03-02T00:00:00Z",
-    "Description": "This blog post covers the approach for how we designed a regional experiment to measure the incremental impact of our referral scheme on new customer growth.",
-    "Tags": [
-      "Data",
-      "Technology"
-    ],
-    "Title": "Designing a regional experiment to measure incrementality",
-    "Link": "https://monzo.com/blog/2022/03/02/designing-a-regional-experiment-to-measure-incrementality"
   },
   {
     "PubDate": "2023-03-02T00:00:00Z",
@@ -905,16 +895,6 @@
     ],
     "Title": "Processing payments safely at scale",
     "Link": "https://monzo.com/blog/2022/02/08/processing-payments-safely-at-scale"
-  },
-  {
-    "PubDate": "2022-02-04T00:00:00Z",
-    "Description": "We make lots of decisions based on data from customer support. We need to make sure we can trust this data. In this post, Niamh explains how her team validated the data.",
-    "Tags": [
-      "Data",
-      "Technology"
-    ],
-    "Title": "How we validated our handling time data",
-    "Link": "https://monzo.com/blog/2022/02/04/how-we-validated-our-handling-time-data"
   },
   {
     "PubDate": "2022-02-04T00:00:00Z",

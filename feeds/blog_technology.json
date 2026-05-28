@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/reimagining-monzo-com-building-a-modular-high-fidelity-web-design-system-that-scales",
+      "title": "Reimagining monzo.com: Building a modular high-fidelity web design system that scales",
+      "summary": "We share our journey of fixing a major workflow bottleneck for our marketing teams by trading one-off static layouts for a library of plug-and-play modular templates.",
+      "date_published": "2026-05-27T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/interviewing-for-analytics-engineering-at-monzo",
       "title": "Interviewing for Analytics Engineering at Monzo",
       "summary": "This guide is here to help you understand what to expect and how to approach the Analytics Engineering (AE) interview process at Monzo—so you can feel prepared, confident, and able to show your best work",
@@ -244,13 +251,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/enabling-horizontal-autoscaling-with-co-operative-distributed-rate-limiting",
-      "title": "Enabling horizontal autoscaling with co-operative distributed rate limiting",
-      "summary": "Monzo runs almost 3,000 microservices to power everything. A core part of being able to run all these systems and features safely is rate limiting. In this blog post we describe how that gets us to doing what we call “distributed rate limiting.”",
-      "date_published": "2024-09-30T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/we-built-a-better-system-for-scheduling-cron-jobs",
       "title": "We built a better system for scheduling cron jobs",
       "summary": "We built a system to define scheduled jobs that moves away from cron and adds support for timezones, better monitoring and a more delightful developer experience",
@@ -304,6 +304,13 @@
       "title": "Delightful Payments",
       "summary": "This post is about how we built the Delightful Payments which directly replaced our P2P (Monzo-to-Monzo) and FPS (bank transfers) payment flows, including how we iterated on product in-parallel with design, and continuous feedback cycles.",
       "date_published": "2024-07-03T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for",
+      "title": "Securing our software supply-chain better with reproducible builds for enclaves",
+      "summary": "This blog talks about how we protect our workloads against supply chain attacks, specifically by achieving bit-by-bit reproducible builds, and how we have adopted Nix an alternative to Docker for build environments.",
+      "date_published": "2024-06-20T00:00:00Z"
     },
     {
       "id": "",
@@ -405,13 +412,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2023/10/12/protecting-our-platform-from-spikes-in-usage-by-reducing-load-from-the-monzo",
-      "title": "Protecting our platform from spikes in usage by reducing load from the Monzo app",
-      "summary": "This blog explores how we've made our platform more resilient to spikes in app opens. We can now reduce load on our platform before we get overwhelmed so you can still access and use critical parts of the app, and your card continues to work.",
-      "date_published": "2023-10-12T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2023/09/12/the-skadnetwork-puzzle-using-data-to-solve-for-effective-performance/",
       "title": "The SKAdNetwork Puzzle: Using Data to Solve for Effective Performance Marketing",
       "summary": "This blog talks through how Monzo uses Data Science and Analytics Engineering to measure the value of paid marketing as Apple's SKAdNetwork changes the mobile advertising landscape, which helps to inform our wider strategies of sustainable growth",
@@ -493,13 +493,6 @@
       "title": "Sweating the Small Stuff: What do app screens and pedestrian-crossings have in common? ",
       "summary": "This blog talks about why app screens are like pedestrian crossings, or more specifically, how some subtle tweaks to a user-interface in Monzo's sign-up process has had a surprisingly large impact!",
       "date_published": "2023-03-20T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2022/03/02/designing-a-regional-experiment-to-measure-incrementality",
-      "title": "Designing a regional experiment to measure incrementality",
-      "summary": "This blog post covers the approach for how we designed a regional experiment to measure the incremental impact of our referral scheme on new customer growth.",
-      "date_published": "2023-03-02T00:00:00Z"
     },
     {
       "id": "",
@@ -696,13 +689,6 @@
       "title": "Processing payments safely at scale",
       "summary": "We ship changes many times a day while making sure that payments are processed as expected. This blog post explores how we do this and focuses on two ideas that could be useful outside of the world of payment processing.",
       "date_published": "2022-02-08T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2022/02/04/how-we-validated-our-handling-time-data",
-      "title": "How we validated our handling time data",
-      "summary": "We make lots of decisions based on data from customer support. We need to make sure we can trust this data. In this post, Niamh explains how her team validated the data.",
-      "date_published": "2022-02-04T00:00:00Z"
     },
     {
       "id": "",
