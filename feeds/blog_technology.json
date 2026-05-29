@@ -251,6 +251,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/enabling-horizontal-autoscaling-with-co-operative-distributed-rate-limiting",
+      "title": "Enabling horizontal autoscaling with co-operative distributed rate limiting",
+      "summary": "Monzo runs almost 3,000 microservices to power everything. A core part of being able to run all these systems and features safely is rate limiting. In this blog post we describe how that gets us to doing what we call “distributed rate limiting.”",
+      "date_published": "2024-09-30T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/we-built-a-better-system-for-scheduling-cron-jobs",
       "title": "We built a better system for scheduling cron jobs",
       "summary": "We built a system to define scheduled jobs that moves away from cron and adds support for timezones, better monitoring and a more delightful developer experience",
@@ -304,13 +311,6 @@
       "title": "Delightful Payments",
       "summary": "This post is about how we built the Delightful Payments which directly replaced our P2P (Monzo-to-Monzo) and FPS (bank transfers) payment flows, including how we iterated on product in-parallel with design, and continuous feedback cycles.",
       "date_published": "2024-07-03T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for",
-      "title": "Securing our software supply-chain better with reproducible builds for enclaves",
-      "summary": "This blog talks about how we protect our workloads against supply chain attacks, specifically by achieving bit-by-bit reproducible builds, and how we have adopted Nix an alternative to Docker for build environments.",
-      "date_published": "2024-06-20T00:00:00Z"
     },
     {
       "id": "",
@@ -409,6 +409,13 @@
       "title": "A Day in the Life of a Technical Programme Manager at Monzo",
       "summary": "The Technical Programme Manager (TPM for short) role is hugely varied. I want to take you on a journey through a typical day in my life as a Technical Programme Manager here at Monzo.",
       "date_published": "2023-11-24T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2023/10/12/protecting-our-platform-from-spikes-in-usage-by-reducing-load-from-the-monzo",
+      "title": "Protecting our platform from spikes in usage by reducing load from the Monzo app",
+      "summary": "This blog explores how we've made our platform more resilient to spikes in app opens. We can now reduce load on our platform before we get overwhelmed so you can still access and use critical parts of the app, and your card continues to work.",
+      "date_published": "2023-10-12T00:00:00Z"
     },
     {
       "id": "",

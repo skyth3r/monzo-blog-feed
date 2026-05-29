@@ -315,6 +315,15 @@
     "Link": "https://monzo.com/blog/vertically-scaling-ordered-consumption-using-kafka"
   },
   {
+    "PubDate": "2024-09-30T00:00:00Z",
+    "Description": "Monzo runs almost 3,000 microservices to power everything. A core part of being able to run all these systems and features safely is rate limiting. In this blog post we describe how that gets us to doing what we call “distributed rate limiting.”",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Enabling horizontal autoscaling with co-operative distributed rate limiting",
+    "Link": "https://monzo.com/blog/enabling-horizontal-autoscaling-with-co-operative-distributed-rate-limiting"
+  },
+  {
     "PubDate": "2024-09-18T00:00:00Z",
     "Description": "We built a system to define scheduled jobs that moves away from cron and adds support for timezones, better monitoring and a more delightful developer experience",
     "Tags": [
@@ -386,15 +395,6 @@
     ],
     "Title": "Delightful Payments",
     "Link": "https://monzo.com/blog/delightful-payments/"
-  },
-  {
-    "PubDate": "2024-06-20T00:00:00Z",
-    "Description": "This blog talks about how we protect our workloads against supply chain attacks, specifically by achieving bit-by-bit reproducible builds, and how we have adopted Nix an alternative to Docker for build environments.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Securing our software supply-chain better with reproducible builds for enclaves",
-    "Link": "https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for"
   },
   {
     "PubDate": "2024-06-20T00:00:00Z",
@@ -524,6 +524,15 @@
     ],
     "Title": "A Day in the Life of a Technical Programme Manager at Monzo",
     "Link": "https://monzo.com/blog/2023/11/24/a-day-in-the-life-of-a-technical-programme-manager-at-monzo"
+  },
+  {
+    "PubDate": "2023-10-12T00:00:00Z",
+    "Description": "This blog explores how we've made our platform more resilient to spikes in app opens. We can now reduce load on our platform before we get overwhelmed so you can still access and use critical parts of the app, and your card continues to work.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Protecting our platform from spikes in usage by reducing load from the Monzo app",
+    "Link": "https://monzo.com/blog/2023/10/12/protecting-our-platform-from-spikes-in-usage-by-reducing-load-from-the-monzo"
   },
   {
     "PubDate": "2023-09-12T00:00:00Z",

@@ -606,6 +606,15 @@
     "Link": "https://monzo.com/blog/introducing-team"
   },
   {
+    "PubDate": "2024-09-30T00:00:00Z",
+    "Description": "Monzo runs almost 3,000 microservices to power everything. A core part of being able to run all these systems and features safely is rate limiting. In this blog post we describe how that gets us to doing what we call “distributed rate limiting.”",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Enabling horizontal autoscaling with co-operative distributed rate limiting",
+    "Link": "https://monzo.com/blog/enabling-horizontal-autoscaling-with-co-operative-distributed-rate-limiting"
+  },
+  {
     "PubDate": "2024-09-18T00:00:00Z",
     "Description": "We built a system to define scheduled jobs that moves away from cron and adds support for timezones, better monitoring and a more delightful developer experience",
     "Tags": [
@@ -722,15 +731,6 @@
     ],
     "Title": "Delightful Payments",
     "Link": "https://monzo.com/blog/delightful-payments/"
-  },
-  {
-    "PubDate": "2024-06-20T00:00:00Z",
-    "Description": "This blog talks about how we protect our workloads against supply chain attacks, specifically by achieving bit-by-bit reproducible builds, and how we have adopted Nix an alternative to Docker for build environments.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Securing our software supply-chain better with reproducible builds for enclaves",
-    "Link": "https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for"
   },
   {
     "PubDate": "2024-06-20T00:00:00Z",
@@ -1038,6 +1038,15 @@
     "Link": "https://monzo.com/blog/spending-money-to-celebrate-friends-single"
   },
   {
+    "PubDate": "2023-10-12T00:00:00Z",
+    "Description": "This blog explores how we've made our platform more resilient to spikes in app opens. We can now reduce load on our platform before we get overwhelmed so you can still access and use critical parts of the app, and your card continues to work.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Protecting our platform from spikes in usage by reducing load from the Monzo app",
+    "Link": "https://monzo.com/blog/2023/10/12/protecting-our-platform-from-spikes-in-usage-by-reducing-load-from-the-monzo"
+  },
+  {
     "PubDate": "2023-09-13T00:00:00Z",
     "Description": "We've been working closely with gambling charity GamCare, our customers, industry experts and people with first hand experience to improve our gambling block. ",
     "Tags": [
@@ -1299,15 +1308,6 @@
     ],
     "Title": "“Our wedding cost £4k and there's nothing I'd do differently”",
     "Link": "https://monzo.com/blog/small-budget-wedding-planning-tips"
-  },
-  {
-    "PubDate": "2023-06-15T00:00:00Z",
-    "Description": "Sam, 36, organises his friendship group's holiday. Here's how he keeps the peace when it comes to money.",
-    "Tags": [
-      "Monzo Me"
-    ],
-    "Title": "“How we avoid falling out about money on our 10-person holiday”",
-    "Link": "https://monzo.com/blog/group-holidays-bill-splitting-monzo"
   },
   {
     "PubDate": "2023-06-15T00:00:00Z",
@@ -7272,6 +7272,15 @@
   },
   {
     "PubDate": "2018-07-05T00:00:00Z",
+    "Description": "From adding international payments to rolling out joint accounts, we take a look at the progress we've made in June, and explain what's in store for July.",
+    "Tags": [
+      "Quarterly Updates"
+    ],
+    "Title": "Monzo Monthly Update: July",
+    "Link": "https://monzo.com/blog/2018/07/05/july-update"
+  },
+  {
+    "PubDate": "2018-07-05T00:00:00Z",
     "Description": "You can choose to set a spending budget that doesn't relate to the balance in your account, and track your progress against it each month.",
     "Tags": [
       "Product Updates",
@@ -7423,15 +7432,6 @@
     ],
     "Title": "How do card payments work?",
     "Link": "https://monzo.com/blog/2018/06/13/how-card-payments-work"
-  },
-  {
-    "PubDate": "2018-06-11T00:00:00Z",
-    "Description": "If your card's been lost or stolen, here's how to cancel your card, order a replacement, and get a refund on any illegal transactions.",
-    "Tags": [
-      "How Money Works"
-    ],
-    "Title": "What to do if your card's been lost or stolen",
-    "Link": "https://monzo.com/blog/2018/06/11/lost-or-stolen-card"
   },
   {
     "PubDate": "2018-06-11T00:00:00Z",
