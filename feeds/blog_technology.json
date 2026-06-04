@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/slowing-down-to-speed-up-how-a-2-month-engineering-pause-rebooted-our-mortgage-strategy",
+      "title": "Slowing down to speed up: how a 2 month engineering pause rebooted our mortgage strategy",
+      "summary": "This blog outlines Monzo's Homeownership strategy. Facing stalled growth, we paused engineering for 2 months for user research. We found users want an integrated in-app mortgage journey, sparking a new product vision.",
+      "date_published": "2026-06-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/reimagining-monzo-com-building-a-modular-high-fidelity-web-design-system-that-scales",
       "title": "Reimagining monzo.com: Building a modular high-fidelity web design system that scales",
       "summary": "We share our journey of fixing a major workflow bottleneck for our marketing teams by trading one-off static layouts for a library of plug-and-play modular templates.",
@@ -594,13 +601,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/06/24/redefining-our-microservice-development-process",
-      "title": "Redefining our microservice development process",
-      "summary": "We've been working on some new techniques to help make the development of services easier as we continue to grow and the entire platform can't be run locally.",
-      "date_published": "2022-06-23T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/06/23/our-mobile-release-process-an-illustrated-story",
       "title": "Our mobile release process: An illustrated story",
       "summary": "We go into our mobile release process and how we're able to sustain a steady stream of releases as the changes that go into each version increase over time",
@@ -633,6 +633,13 @@
       "title": "Becoming an Engineering Manager: 1 year in",
       "summary": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
       "date_published": "2022-05-05T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/04/20/how-our-android-engineers-automated-the-removal-of-kotlin-synthetics",
+      "title": "How our Android engineers automated the removal of Kotlin synthetics",
+      "summary": "Our Mobile Platform team recently faced the challenge of having to remove all synthetic view properties. This post explains how we built a tool to automate the task and the trade-offs we had to consider along the way.",
+      "date_published": "2022-04-20T00:00:00Z"
     },
     {
       "id": "",

@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/slowing-down-to-speed-up-how-a-2-month-engineering-pause-rebooted-our-mortgage-strategy",
+      "title": "Slowing down to speed up: how a 2 month engineering pause rebooted our mortgage strategy",
+      "summary": "This blog outlines Monzo's Homeownership strategy. Facing stalled growth, we paused engineering for 2 months for user research. We found users want an integrated in-app mortgage journey, sparking a new product vision.",
+      "date_published": "2026-06-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/reimagining-monzo-com-building-a-modular-high-fidelity-web-design-system-that-scales",
       "title": "Reimagining monzo.com: Building a modular high-fidelity web design system that scales",
       "summary": "We share our journey of fixing a major workflow bottleneck for our marketing teams by trading one-off static layouts for a library of plug-and-play modular templates.",
@@ -101,13 +108,6 @@
       "title": "Representation Learning for Enhanced Fraud Detection",
       "summary": "We describe the modelling formulation we have used for fraud detection and present an extension based on learning a shared fraud representation using multi-task neural networks",
       "date_published": "2026-03-06T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/university-accommodation-costs",
-      "title": "How much is university accommodation for students in the UK?",
-      "summary": "Discover the costs of halls of residence across the UK, the pros and cons of living in halls, and how students are handling the costs.",
-      "date_published": "2026-02-25T00:00:00Z"
     },
     {
       "id": "",
@@ -339,6 +339,13 @@
       "title": "We've made our writing system available to all",
       "summary": "We're sharing how we write in our app with writers, designers, engineers and everyone else in case they find it helpful.",
       "date_published": "2025-02-19T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/decoding-romance-scams",
+      "title": "Decoding romance scams: how and why they work",
+      "summary": "Romance scams are difficult to spot but devastating to deal with. Find out how and why they work, plus some tips to protect yourself.",
+      "date_published": "2025-02-14T00:00:00Z"
     },
     {
       "id": "",
@@ -1007,13 +1014,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/small-budget-wedding-planning-tips",
-      "title": "“Our wedding cost £4k and there's nothing I'd do differently”",
-      "summary": "Lauren, 31, saved money on her big day by rethinking what a wedding ‘should' look like.",
-      "date_published": "2023-06-25T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/group-holidays-bill-splitting-monzo",
       "title": "“How we avoid falling out about money on our 10-person holiday”",
       "summary": "Sam, 36, organises his friendship group's holiday. Here's how he keeps the peace when it comes to money.",
@@ -1115,6 +1115,13 @@
       "url": "https://monzo.com/blog/2022-diversity-and-inclusion-report",
       "title": "Our 2022 diversity and inclusion report",
       "summary": "We're proud to serve over 7 million customers across the UK. Those customers come from many different backgrounds, and so we need a team who represent the same kind of diversity to best understand and solve their problems.",
+      "date_published": "2023-05-04T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2023/05/04/i-only-got-monzo-for-holidays-now-i-use-it-for-everything-and-have-saved",
+      "title": "“I only got Monzo for holidays - now I use it for everything \u0026 have saved £10k” ",
+      "summary": "How self-employed PT Oscar, 31, went from using Monzo only for travelling to using it day to day and saving up £10k",
       "date_published": "2023-05-04T00:00:00Z"
     },
     {
@@ -1434,13 +1441,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/business-banking/what-is-an-invoice",
-      "title": "What is an Invoice? How to write an invoice and what information is required",
-      "summary": "What is an invoice, how do you create one, and what information needs to be included? Our guide will help you make sense of it all.",
-      "date_published": "2022-12-03T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/business-banking/gross-profit-net-profit-and-profit-margins-what-are-they-how-to-calculate",
       "title": "Gross profit, net profit \u0026 profit margins: what are they, how to calculate them and what's a good one",
       "summary": "What is gross profit? Net profit? Profit Margins? This guide explains what they are, how to calculate them and what they can tell you about your business.",
@@ -1529,6 +1529,13 @@
       "title": "“Impulse spending was a way to self-soothe”",
       "summary": "With our new research finding ADHD has an outsized impact on how women manage their money, we meet a young woman who's learning more about living and managing money with ADHD.",
       "date_published": "2022-10-24T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/weve-had-a-little-makeover",
+      "title": "We've had a little makeover!",
+      "summary": "Our visual branding has a fresh new look. It's more friendly, more human, more Monzo ❤️",
+      "date_published": "2022-10-17T00:00:00Z"
     },
     {
       "id": "",
@@ -1637,13 +1644,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/06/24/redefining-our-microservice-development-process",
-      "title": "Redefining our microservice development process",
-      "summary": "We've been working on some new techniques to help make the development of services easier as we continue to grow and the entire platform can't be run locally.",
-      "date_published": "2022-06-23T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/06/23/our-mobile-release-process-an-illustrated-story",
       "title": "Our mobile release process: An illustrated story",
       "summary": "We go into our mobile release process and how we're able to sustain a steady stream of releases as the changes that go into each version increase over time",
@@ -1739,6 +1739,13 @@
       "title": "Monzo's machine learning stack",
       "summary": "Neal Lathia, Director of Machine Learning at Monzo gives an overview of Monzo's machine learning platform, the principles behind it, and future plans.",
       "date_published": "2022-04-25T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/04/20/how-our-android-engineers-automated-the-removal-of-kotlin-synthetics",
+      "title": "How our Android engineers automated the removal of Kotlin synthetics",
+      "summary": "Our Mobile Platform team recently faced the challenge of having to remove all synthetic view properties. This post explains how we built a tool to automate the task and the trade-offs we had to consider along the way.",
+      "date_published": "2022-04-20T00:00:00Z"
     },
     {
       "id": "",
@@ -2953,13 +2960,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/what-to-do-if-youre-worried-about-paying-rent-or-losing-your-home-because-of-coronavirus",
-      "title": "Can't afford your rent because of coronavirus? Experts explain what you can do",
-      "summary": "If you're worried about paying rent or facing homelessness because of coronavirus, we asked homeless charity Centrepoint to explain what you can do.",
-      "date_published": "2020-04-09T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/your-questions-about-universal-credit-and-government-support-answered-by",
       "title": "Your questions about Universal Credit and the government's coronavirus support, answered by experts",
       "summary": "Lost your job or income because of coronavirus? We asked poverty charity Turn2Us to answer your questions about Universal Credit and how to get support if you're struggling with money.",
@@ -3061,6 +3061,13 @@
       "url": "https://monzo.com/blog/how-to-avoid-scams-about-coronavirus",
       "title": "How to avoid scams about coronavirus",
       "summary": "Fraudsters are taking advantage of the coronavirus outbreak. Here's some tips and guidance to identify and avoid these scams.",
+      "date_published": "2020-03-16T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/plans-cancelled-because-of-coronavirus-find-out-if-you-can-get-your-money",
+      "title": "Plans cancelled because of coronavirus? Find out if you can get your money back",
+      "summary": "If your plans get disrupted or cancelled because of coronavirus, we explain if and how you might be able to get your money back, and what we can do to help.",
       "date_published": "2020-03-16T00:00:00Z"
     },
     {
@@ -5851,13 +5858,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2018/04/05/april-update",
-      "title": "Monzo Monthly Update: April",
-      "summary": "From reaching half a million current accounts, to making more overdrafts available, we take a look at the progress we've made in March, and explain what's in store for April.",
-      "date_published": "2018-04-05T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2018/04/05/how-monzo-to-monzo-payments-work",
       "title": "A technical look at how Monzo-to-Monzo payments work",
       "summary": "Backend Engineer James Routley explains the technical work we do to help you send payments to your contacts on Monzo.",
@@ -5960,6 +5960,13 @@
       "title": "Upgrading Explained: Does upgrading affect my credit score?",
       "summary": "We answer some of your most pressing questions and dispel common myths and misconceptions about upgrading your Monzo account.",
       "date_published": "2018-01-26T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/01/25/bank-statements",
+      "title": "Monzo Does Bank Statements",
+      "summary": "In just a few taps, you'll be able to create a bank statement from within the Monzo app.",
+      "date_published": "2018-01-25T00:00:00Z"
     },
     {
       "id": "",
@@ -6180,13 +6187,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2017/03/22/meet-venkat",
-      "title": "Meet Venkat: Head of Lending",
-      "summary": "Our globetrotting thespian with a passion for economics!",
-      "date_published": "2017-03-22T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2017/03/09/diversity-and-inclusion",
       "title": "Diversity and Inclusion at Monzo",
       "summary": "We believe diverse teams make better decisions. Here's an update on our diversity debt repayments.",
@@ -6299,6 +6299,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2017/01/16/app-shortcuts-android",
+      "title": "Monzo App Shortcuts on Android: New Update",
+      "summary": "To kick off the New Year on Android, we've just released version 1.3.3 to the Play Store with app shortcut support!",
+      "date_published": "2017-01-16T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2016/11/30/laying-the-foundation-for-a-data-team",
       "title": "Laying the foundation for a data team",
       "summary": "At Monzo, we want to build the best bank account in the world. Today, more than ever before, data is central to creating wonderful customer experiences and efficient internal operations.",
@@ -6401,13 +6408,6 @@
       "title": "A Quick Update on the New Name, via Snapchat",
       "summary": "It's been a few weeks since we last gave you an update on our name change project...",
       "date_published": "2016-07-22T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2016/07/18/touchid-profile-update",
-      "title": "New Mondo Update: Touch ID, Profile Editing and More",
-      "summary": "We've been hard at work on a new update to the Mondo iOS app, which we're releasing to the App Store today as version 1.5.3...",
-      "date_published": "2016-07-18T00:00:00Z"
     },
     {
       "id": "",
