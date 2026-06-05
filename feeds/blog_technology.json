@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/engineering-the-future-of-customer-operations-the-monzo-ops-agent",
+      "title": "Engineering the Future of Customer Operations: The Monzo Ops Agent",
+      "summary": "This post explains how we engineered our LLM-based agent, built rigorous evaluation systems for safe improvement, and are shifting from simply answering questions to automating complex, end-to-end operational workflows.",
+      "date_published": "2026-06-04T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/slowing-down-to-speed-up-how-a-2-month-engineering-pause-rebooted-our-mortgage-strategy",
       "title": "Slowing down to speed up: how a 2 month engineering pause rebooted our mortgage strategy",
       "summary": "This blog outlines Monzo's Homeownership strategy. Facing stalled growth, we paused engineering for 2 months for user research. We found users want an integrated in-app mortgage journey, sparking a new product vision.",
@@ -76,13 +83,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/representation-learning-for-enhanced-fraud-detection",
-      "title": "Representation Learning for Enhanced Fraud Detection",
-      "summary": "We describe the modelling formulation we have used for fraud detection and present an extension based on learning a shared fraud representation using multi-task neural networks",
-      "date_published": "2026-03-06T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/shipping-constantly-in-a-fast-paced-product-team",
       "title": "Shipping constantly in a fast-paced product team",
       "summary": "This blog covers how Monzo ships constantly in fast-paced product teams, and gives a look at our day-to-day ways of working. Catia",
@@ -129,6 +129,13 @@
       "title": "Expectations for an Engineering Manager at Monzo",
       "summary": "A comprehensive guide for Engineering Managers. It outlines expectations on impact, technical strategy, and team building and how we enable our EMs to drive their areas with strong support from their manager at Monzo.",
       "date_published": "2025-09-18T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/beyond-the-last-click-how-monzo-measures-crms-true-impact",
+      "title": "Beyond the Last Click: How Monzo Measures CRM's True Impact",
+      "summary": "In this blog we cover how Monzo approaches CRM measurement. We detail our new hybrid model that uses universal holdouts and attribution to precisely measure how our messages impact customer behaviour.",
+      "date_published": "2025-09-03T00:00:00Z"
     },
     {
       "id": "",
@@ -531,6 +538,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2023/01/26/preparing-for-spikes-in-traffic-as-millions-get-paid-early",
+      "title": "How we prepare for huge spikes in traffic as millions of our customers get paid early",
+      "summary": "This blog explains the problems that occur when hundreds of thousands of customers all request to be paid millions of pounds at almost exactly the same time, and what we do to keep things running smoothly while that happens.",
+      "date_published": "2023-01-27T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/12/19/machine-learning-at-monzo-in-2022",
       "title": "Machine Learning at Monzo in 2022",
       "summary": "An end-of-year review of how machine learning continues to evolve and grow at Monzo",
@@ -601,6 +615,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2022/06/24/redefining-our-microservice-development-process",
+      "title": "Redefining our microservice development process",
+      "summary": "We've been working on some new techniques to help make the development of services easier as we continue to grow and the entire platform can't be run locally.",
+      "date_published": "2022-06-23T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/06/23/our-mobile-release-process-an-illustrated-story",
       "title": "Our mobile release process: An illustrated story",
       "summary": "We go into our mobile release process and how we're able to sustain a steady stream of releases as the changes that go into each version increase over time",
@@ -633,13 +654,6 @@
       "title": "Becoming an Engineering Manager: 1 year in",
       "summary": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
       "date_published": "2022-05-05T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2022/04/20/how-our-android-engineers-automated-the-removal-of-kotlin-synthetics",
-      "title": "How our Android engineers automated the removal of Kotlin synthetics",
-      "summary": "Our Mobile Platform team recently faced the challenge of having to remove all synthetic view properties. This post explains how we built a tool to automate the task and the trade-offs we had to consider along the way.",
-      "date_published": "2022-04-20T00:00:00Z"
     },
     {
       "id": "",
