@@ -99,6 +99,15 @@
     "Link": "https://monzo.com/blog/how-Monzo-Designers-are-shipping-safer-faster-product-improvements"
   },
   {
+    "PubDate": "2026-03-06T00:00:00Z",
+    "Description": "We describe the modelling formulation we have used for fraud detection and present an extension based on learning a shared fraud representation using multi-task neural networks",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Representation Learning for Enhanced Fraud Detection",
+    "Link": "https://monzo.com/blog/representation-learning-for-enhanced-fraud-detection"
+  },
+  {
     "PubDate": "2026-02-16T00:00:00Z",
     "Description": "This blog covers how Monzo ships constantly in fast-paced product teams, and gives a look at our day-to-day ways of working. Catia",
     "Tags": [
@@ -160,15 +169,6 @@
     ],
     "Title": "Expectations for an Engineering Manager at Monzo",
     "Link": "https://monzo.com/blog/expectations-for-an-engineering-manager-at-monzo"
-  },
-  {
-    "PubDate": "2025-09-03T00:00:00Z",
-    "Description": "In this blog we cover how Monzo approaches CRM measurement. We detail our new hybrid model that uses universal holdouts and attribution to precisely measure how our messages impact customer behaviour.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Beyond the Last Click: How Monzo Measures CRM's True Impact",
-    "Link": "https://monzo.com/blog/beyond-the-last-click-how-monzo-measures-crms-true-impact"
   },
   {
     "PubDate": "2025-09-03T00:00:00Z",
@@ -680,15 +680,6 @@
     ],
     "Title": "Becoming direct participants of Bacs",
     "Link": "https://monzo.com/blog/2023/02/22/becoming-direct-participants-of-bacs"
-  },
-  {
-    "PubDate": "2023-01-27T00:00:00Z",
-    "Description": "This blog explains the problems that occur when hundreds of thousands of customers all request to be paid millions of pounds at almost exactly the same time, and what we do to keep things running smoothly while that happens.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How we prepare for huge spikes in traffic as millions of our customers get paid early",
-    "Link": "https://monzo.com/blog/2023/01/26/preparing-for-spikes-in-traffic-as-millions-get-paid-early"
   },
   {
     "PubDate": "2023-01-27T00:00:00Z",
