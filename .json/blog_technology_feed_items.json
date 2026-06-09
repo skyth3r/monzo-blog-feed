@@ -915,6 +915,16 @@
     "Link": "https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems"
   },
   {
+    "PubDate": "2022-02-15T00:00:00Z",
+    "Description": "This post explains how our public key infrastructure uses a combination of different secret storage systems to implement a balance between security assurances and usability.",
+    "Tags": [
+      "Technology",
+      "Security"
+    ],
+    "Title": "Securely delegating trust with digital signatures and secret storage systems",
+    "Link": "https://monzo.com/blog/2022/02/15/securely-delegating-trust-with-digital-signatures-and-secret-storage-systems"
+  },
+  {
     "PubDate": "2022-02-08T00:00:00Z",
     "Description": "We ship changes many times a day while making sure that payments are processed as expected. This blog post explores how we do this and focuses on two ideas that could be useful outside of the world of payment processing.",
     "Tags": [
@@ -950,16 +960,6 @@
     ],
     "Title": "My first 6 months at Monzo as a Backend Engineer",
     "Link": "https://monzo.com/blog/2022/02/17/my-first-6-months-at-monzo-as-a-backend-engineer"
-  },
-  {
-    "PubDate": "2021-11-18T00:00:00Z",
-    "Description": "As a bank, we have private keys and other 'secrets' we need to protect, to keep our customers and ourselves safe. Our security controls work together to stop even the most determined and capable attackers.",
-    "Tags": [
-      "Technology",
-      "Security"
-    ],
-    "Title": "How we protect our most sensitive secrets from the most determined attackers",
-    "Link": "https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets"
   },
   {
     "PubDate": "2021-10-13T00:00:00Z",
@@ -1196,15 +1196,6 @@
     ],
     "Title": "How we built a backend for our £20 million crowdfunding round",
     "Link": "https://monzo.com/blog/2019/01/14/crowdfunding-technology-backend-architecture"
-  },
-  {
-    "PubDate": "2018-12-04T00:00:00Z",
-    "Description": "We held an internal hackathon to improve some of the oldest code in the bank! Here's why that's good for our engineers and our customers.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "The Refactathon: Cleaning up old code",
-    "Link": "https://monzo.com/blog/2018/11/29/refactoring-old-code"
   },
   {
     "PubDate": "2018-09-20T00:00:00Z",
