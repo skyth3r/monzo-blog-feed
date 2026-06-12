@@ -1756,13 +1756,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/04/12/how-anyone-at-monzo-can-test",
-      "title": "How everyone at Monzo gets involved with testing",
-      "summary": "Everyone at Monzo gets involved in testing new features and versions of the app before we release them. In this post Sarah, part of our Quality Assurance team, explains the different types of tests we use and how we run them.",
-      "date_published": "2022-04-11T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/04/04/my-first-3-months-at-monzo-as-an-engineering-manager",
       "title": "My first 3 months at Monzo as an engineering manager",
       "summary": "Jarryd joined Monzo as an engineering manager a few months ago. In this post he shares his journey to Monzo and how he found his feet in his new role.",
