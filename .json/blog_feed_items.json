@@ -135,6 +135,15 @@
     "Link": "https://monzo.com/blog/cost-to-run-a-marathon"
   },
   {
+    "PubDate": "2026-03-25T00:00:00Z",
+    "Description": "We've ‘run' the numbers on marathon costs, from entry fees to training gear, revealing how much it really costs to run a marathon from start to finish.",
+    "Tags": [
+      "Research"
+    ],
+    "Title": "Running the numbers: how much does it cost to run a marathon?",
+    "Link": "https://monzo.com/blog/cost-to-run-a-marathon"
+  },
+  {
     "PubDate": "2026-03-20T00:00:00Z",
     "Description": "This blog covers how we're closing the gap between design intent and what gets shipped. Focusing on details like copy, UI consistency, and edge cases shape which can impact how reliable and trustworthy a product feels.",
     "Tags": [
@@ -1436,15 +1445,6 @@
     "Link": "https://monzo.com/blog/2023/05/04/how-we-manage-technology-risk-at-monzo"
   },
   {
-    "PubDate": "2023-05-08T00:00:00Z",
-    "Description": "Make your positive money habits last longer than a holiday romance.",
-    "Tags": [
-      "How Money Works"
-    ],
-    "Title": "Only got Monzo for a holiday? Here are 8 reasons why you should use it at home",
-    "Link": "https://monzo.com/blog/using-monzo-in-the-uk-after-holiday"
-  },
-  {
     "PubDate": "2023-05-04T00:00:00Z",
     "Description": "We're proud to serve over 7 million customers across the UK. Those customers come from many different backgrounds, and so we need a team who represent the same kind of diversity to best understand and solve their problems.",
     "Tags": [
@@ -1857,6 +1857,16 @@
     "Link": "https://monzo.com/blog/business-banking/how-to-get-unpaid-invoices-paid"
   },
   {
+    "PubDate": "2022-12-04T00:00:00Z",
+    "Description": "Unpaid invoices can be stressful, but unfortunately not uncommon. Waiting on an overdue invoice? Here's the steps you can take to get it paid.",
+    "Tags": [
+      "Business Basics",
+      "Business Banking"
+    ],
+    "Title": "How to get unpaid invoices paid",
+    "Link": "https://monzo.com/blog/business-banking/how-to-get-unpaid-invoices-paid"
+  },
+  {
     "PubDate": "2022-12-02T00:00:00Z",
     "Description": "What is gross profit? Net profit? Profit Margins? This guide explains what they are, how to calculate them and what they can tell you about your business.",
     "Tags": [
@@ -2122,15 +2132,6 @@
     "Link": "https://monzo.com/blog/2022/06/24/redefining-our-microservice-development-process"
   },
   {
-    "PubDate": "2022-06-22T00:00:00Z",
-    "Description": "We go into our mobile release process and how we're able to sustain a steady stream of releases as the changes that go into each version increase over time",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Our mobile release process: An illustrated story",
-    "Link": "https://monzo.com/blog/2022/06/23/our-mobile-release-process-an-illustrated-story"
-  },
-  {
     "PubDate": "2022-06-21T00:00:00Z",
     "Description": "Impact gets used a lot in relation to career progression here at Monzo. What does impact really mean and how do you put it in to practice",
     "Tags": [
@@ -2260,6 +2261,15 @@
     ],
     "Title": "How our Android engineers automated the removal of Kotlin synthetics",
     "Link": "https://monzo.com/blog/2022/04/20/how-our-android-engineers-automated-the-removal-of-kotlin-synthetics"
+  },
+  {
+    "PubDate": "2022-04-11T00:00:00Z",
+    "Description": "Everyone at Monzo gets involved in testing new features and versions of the app before we release them. In this post Sarah, part of our Quality Assurance team, explains the different types of tests we use and how we run them.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How everyone at Monzo gets involved with testing",
+    "Link": "https://monzo.com/blog/2022/04/12/how-anyone-at-monzo-can-test"
   },
   {
     "PubDate": "2022-04-11T00:00:00Z",
@@ -2815,15 +2825,6 @@
     "Link": "https://monzo.com/blog/seven-steps-to-validate-your-business-idea"
   },
   {
-    "PubDate": "2021-05-28T00:00:00Z",
-    "Description": "Many small businesses have improved their financial discipline over the last 12 months. Even as the pandemic recedes and growth returns, these habits are well worth holding onto.",
-    "Tags": [
-      "Let's Talk Business"
-    ],
-    "Title": "Holding onto improved financial habits",
-    "Link": "https://monzo.com/blog/holding-onto-improved-financial-habits"
-  },
-  {
     "PubDate": "2021-05-26T00:00:00Z",
     "Description": "As a business owner, there are hundreds of little tasks demanding your attention. But here are four things you can do every month that can make a big difference.",
     "Tags": [
@@ -3264,6 +3265,15 @@
     ],
     "Title": "How we design the tools that power our award-winning customer support experience",
     "Link": "https://monzo.com/blog/2020/11/11/customer-support-design"
+  },
+  {
+    "PubDate": "2020-11-11T00:00:00Z",
+    "Description": "Everything you need to know about PayPal text scams - what they are, how they work, and how you can avoid them.",
+    "Tags": [
+      "Fraud"
+    ],
+    "Title": "PayPal text scams: What you need to know",
+    "Link": "https://monzo.com/blog/2020/11/11/paypal-text-scams"
   },
   {
     "PubDate": "2020-11-11T00:00:00Z",
@@ -3750,15 +3760,6 @@
     "Link": "https://monzo.com/blog/you-can-now-hide-your-pots-and-change-the-order-theyre-in"
   },
   {
-    "PubDate": "2020-05-04T00:00:00Z",
-    "Description": "Financial abuse is when someone else controls your access to money by coercing, exploiting or sabotaging you.",
-    "Tags": [
-      "Financial Inclusion"
-    ],
-    "Title": "How to recognise financial abuse, and where to get support",
-    "Link": "https://monzo.com/blog/how-to-recognise-financial-abuse-and-get-support"
-  },
-  {
     "PubDate": "2020-05-01T00:00:00Z",
     "Description": "The Scottish Refugee Council explain how lockdown might affect your asylum claim, how to protect yourself if you're living in asylum accommodation, and how you can access government updates in your language.",
     "Tags": [
@@ -3904,6 +3905,15 @@
     "Link": "https://monzo.com/blog/your-questions-about-universal-credit-and-government-support-answered-by"
   },
   {
+    "PubDate": "2020-04-09T00:00:00Z",
+    "Description": "Lost your job or income because of coronavirus? We asked poverty charity Turn2Us to answer your questions about Universal Credit and how to get support if you're struggling with money.",
+    "Tags": [
+      "How Money Works"
+    ],
+    "Title": "Your questions about Universal Credit and the government's coronavirus support, answered by experts",
+    "Link": "https://monzo.com/blog/your-questions-about-universal-credit-and-government-support-answered-by"
+  },
+  {
     "PubDate": "2020-04-08T00:00:00Z",
     "Description": "Your tax free savings allowance, also known as a Personal Savings Allowance, is a way for most people to earn interest from savings without paying tax!",
     "Tags": [
@@ -4029,17 +4039,6 @@
   },
   {
     "PubDate": "2020-03-16T00:00:00Z",
-    "Description": "Fraudsters are taking advantage of the coronavirus outbreak. Here's some tips and guidance to identify and avoid these scams.",
-    "Tags": [
-      "Monzo HQ",
-      "Coronavirus",
-      "Fraud"
-    ],
-    "Title": "How to avoid scams about coronavirus",
-    "Link": "https://monzo.com/blog/how-to-avoid-scams-about-coronavirus"
-  },
-  {
-    "PubDate": "2020-03-16T00:00:00Z",
     "Description": "If your plans get disrupted or cancelled because of coronavirus, we explain if and how you might be able to get your money back, and what we can do to help.",
     "Tags": [
       "Monzo HQ",
@@ -4141,6 +4140,15 @@
     ],
     "Title": "\"Monzo helped me beat my gambling addiction and pay off £26,000 in debt\"",
     "Link": "https://monzo.com/blog/how-monzos-gambling-block-helped-me-beat-my-gambling-addiction-and-pay-off-my-debt"
+  },
+  {
+    "PubDate": "2020-01-29T00:00:00Z",
+    "Description": "We've upgraded to the new version of 3D Secure. Backend engineer Arthur explains how we did it.",
+    "Tags": [
+      "How We Protect You"
+    ],
+    "Title": "How we upgraded 3D Secure",
+    "Link": "https://monzo.com/blog/how-we-upgraded-3d-secure"
   },
   {
     "PubDate": "2020-01-29T00:00:00Z",
@@ -4533,15 +4541,6 @@
   },
   {
     "PubDate": "2019-11-15T00:00:00Z",
-    "Description": "Finding yourself in overdraft is completely normal and managing money isn't easy. We've put together a few tips on how to get out of your overdraft...",
-    "Tags": [
-      "How Money Works"
-    ],
-    "Title": "How do I get out of my overdraft?",
-    "Link": "https://monzo.com/blog/2019/11/15/how-do-i-get-out-of-my-overdraft"
-  },
-  {
-    "PubDate": "2019-11-15T00:00:00Z",
     "Description": "There are a few ways you start saving money for your grandchildren, from opening a savings account to premium bonds. We've listed some tips here 💰",
     "Tags": [
       "How Money Works",
@@ -4608,17 +4607,6 @@
     ],
     "Title": "10 magical Monzo features 🔮",
     "Link": "https://monzo.com/blog/10-magical-monzo-features"
-  },
-  {
-    "PubDate": "2019-11-11T00:00:00Z",
-    "Description": "Stay in control of your spending with our budgeting guide for students. We've explained how to calculate a budget, set spending allowances and stick to them. Plus, we have some handy tips for saving and earning money at uni.",
-    "Tags": [
-      "How Money Works",
-      "Savings Account Guides",
-      "How to Save Money"
-    ],
-    "Title": "How to save money as a student",
-    "Link": "https://monzo.com/blog/2018/09/11/student-budgeting-tips"
   },
   {
     "PubDate": "2019-11-11T00:00:00Z",
@@ -4702,6 +4690,16 @@
     ],
     "Title": "We've added your statement of fees to your account ",
     "Link": "https://monzo.com/blog/2019/10/31/statement-of-fees-to-your-account"
+  },
+  {
+    "PubDate": "2019-10-31T00:00:00Z",
+    "Description": "With the cost of household bills continuing to rise there's never been a better time to make sure you're paying the right amount. We've put together a few ways you could be saving money on bills.",
+    "Tags": [
+      "How I Use Monzo",
+      "How to Save Money"
+    ],
+    "Title": "29 ways to save money on household bills",
+    "Link": "https://monzo.com/blog/29-ways-save-money-household-bills/"
   },
   {
     "PubDate": "2019-10-31T00:00:00Z",
@@ -4910,15 +4908,6 @@
     "Link": "https://monzo.com/blog/2019/10/01/bills-pots-images"
   },
   {
-    "PubDate": "2019-10-01T00:00:00Z",
-    "Description": "Sorry not sorry.",
-    "Tags": [
-      "Monzo 101"
-    ],
-    "Title": "38 times you absolutely hated Monzo",
-    "Link": "https://monzo.com/blog/2019/10/14/39-times-you-absolutely-hated-monzo"
-  },
-  {
     "PubDate": "2019-09-30T00:00:00Z",
     "Description": "'LockYourPot-tober' is a challenge where you keep your money locked in a Pot until the end of the month.",
     "Tags": [
@@ -4962,6 +4951,15 @@
     ],
     "Title": "All the reasons you shouldn't get Monzo by people who have",
     "Link": "https://monzo.com/blog/2019/09/10/reasons-not-to-get-monzo"
+  },
+  {
+    "PubDate": "2019-09-10T00:00:00Z",
+    "Description": "New rules for all banks, including Monzo, mean you'll need to use Chip and PIN more often when paying with your card.",
+    "Tags": [
+      "Banking and Regulation"
+    ],
+    "Title": "Strong Customer Authentication: Using Chip and PIN more often when making contactless payments",
+    "Link": "https://monzo.com/blog/2019/09/11/strong-customer-authentication-using-chip-and-pin"
   },
   {
     "PubDate": "2019-09-10T00:00:00Z",
@@ -5918,15 +5916,6 @@
   },
   {
     "PubDate": "2019-04-04T00:00:00Z",
-    "Description": "Nellie and Nial have just bought a flat in London, but have mixed feelings about doing it with their parents' money.",
-    "Tags": [
-      "Money in Love"
-    ],
-    "Title": "Money in Love: Nellie \u0026 Nial",
-    "Link": "https://monzo.com/blog/2019/04/04/money-in-love-nellie-nial"
-  },
-  {
-    "PubDate": "2019-04-04T00:00:00Z",
     "Description": "Blocking or closing accounts is something all banks have to do sometimes, to meet their legal and regulatory obligations, in line with their terms and conditions, and to help fight against financial crime. We explain why this (very rarely) happens.",
     "Tags": [
       "How We Protect You"
@@ -6050,6 +6039,16 @@
     ],
     "Title": "How to ask for a pay rise (and how to spend it when you get one!)",
     "Link": "https://monzo.com/blog/2019/03/08/getting-a-pay-rise"
+  },
+  {
+    "PubDate": "2019-03-06T00:00:00Z",
+    "Description": "If you're a freelancer, self-employed or on a zero-hours contract, it can be even harder to budget when your income keeps changing.",
+    "Tags": [
+      "How Money Works",
+      "Budgeting Tips"
+    ],
+    "Title": "How to budget if you don't get paid regularly",
+    "Link": "https://monzo.com/blog/2019/03/06/budget-irregular-income"
   },
   {
     "PubDate": "2019-03-06T00:00:00Z",
@@ -6984,6 +6983,15 @@
     "Link": "https://monzo.com/blog/2018/08/15/split-the-bill"
   },
   {
+    "PubDate": "2018-08-15T00:00:00Z",
+    "Description": "We've built a better version of bill splitting, that lets you split the bill with other Monzo users instantly, with a few clicks in the app.",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Try splitting the bill in Monzo Labs on iOS!",
+    "Link": "https://monzo.com/blog/2018/08/15/split-the-bill"
+  },
+  {
     "PubDate": "2018-08-14T00:00:00Z",
     "Description": "Introducing Monzo joint accounts! Pool your resources with someone to make life easier to manage.",
     "Tags": [
@@ -7117,15 +7125,6 @@
     ],
     "Title": "Set goals for your Pots!",
     "Link": "https://monzo.com/blog/2018/08/02/pots-goals"
-  },
-  {
-    "PubDate": "2018-08-02T00:00:00Z",
-    "Description": "When you reach out to us with a question, you can tell us whether it's urgent or not. Operations analyst Sam explains how putting our customers in control helps us prioritise your queries and deal with growing demand.",
-    "Tags": [
-      "Customer Support"
-    ],
-    "Title": "Tell us when your question's urgent",
-    "Link": "https://monzo.com/blog/2018/08/02/urgent-questions"
   },
   {
     "PubDate": "2018-08-01T00:00:00Z",
@@ -7408,6 +7407,15 @@
     ],
     "Title": "How do I add money to my Monzo account?",
     "Link": "https://monzo.com/blog/2018/06/08/adding-money-to-monzo"
+  },
+  {
+    "PubDate": "2018-06-07T00:00:00Z",
+    "Description": "Yes! Monzo is a fully-licenced UK bank. That means we're regulated by the FCA and the PRA and the money in your Monzo account's protected up to £120,000.",
+    "Tags": [
+      "Monzo 101"
+    ],
+    "Title": "Is Monzo a bank?",
+    "Link": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank"
   },
   {
     "PubDate": "2018-06-07T00:00:00Z",
@@ -8257,15 +8265,6 @@
     ],
     "Title": "New Monzo Update: Card Replacement on Android",
     "Link": "https://monzo.com/blog/2016/10/26/card-replacement-android"
-  },
-  {
-    "PubDate": "2016-10-19T00:00:00Z",
-    "Description": "Getting to grips with one of our most commonly requested features",
-    "Tags": [
-      "Community"
-    ],
-    "Title": "Target Practice: #MyMonzoMonth",
-    "Link": "https://monzo.com/blog/2016/10/19/target-practice"
   },
   {
     "PubDate": "2016-09-29T00:00:00Z",

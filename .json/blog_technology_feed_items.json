@@ -793,15 +793,6 @@
     "Link": "https://monzo.com/blog/2022/06/24/redefining-our-microservice-development-process"
   },
   {
-    "PubDate": "2022-06-22T00:00:00Z",
-    "Description": "We go into our mobile release process and how we're able to sustain a steady stream of releases as the changes that go into each version increase over time",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Our mobile release process: An illustrated story",
-    "Link": "https://monzo.com/blog/2022/06/23/our-mobile-release-process-an-illustrated-story"
-  },
-  {
     "PubDate": "2022-05-25T00:00:00Z",
     "Description": "With over 2000 microservices and lots of Remote Procedure Calls (RPCs) that are constantly changing, we needed a new way to manage staff access. The Security Platform team explain how we now define RPC permissions directly in proto files.",
     "Tags": [
@@ -847,6 +838,15 @@
     ],
     "Title": "How our Android engineers automated the removal of Kotlin synthetics",
     "Link": "https://monzo.com/blog/2022/04/20/how-our-android-engineers-automated-the-removal-of-kotlin-synthetics"
+  },
+  {
+    "PubDate": "2022-04-11T00:00:00Z",
+    "Description": "Everyone at Monzo gets involved in testing new features and versions of the app before we release them. In this post Sarah, part of our Quality Assurance team, explains the different types of tests we use and how we run them.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How everyone at Monzo gets involved with testing",
+    "Link": "https://monzo.com/blog/2022/04/12/how-anyone-at-monzo-can-test"
   },
   {
     "PubDate": "2022-04-11T00:00:00Z",
