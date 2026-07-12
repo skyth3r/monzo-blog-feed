@@ -17,8 +17,6 @@ func main() {
 
 	wg.Add(1)
 	go processFeed(config.Root, "blog", []string{"Technology"}, &wg, errChan)
-	wg.Add(1)
-	go processFeed(config.UsRoot, "us_blog", nil, &wg, errChan)
 
 	go func() {
 		wg.Wait()
