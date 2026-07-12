@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/interviewing-for-machine-learning-at-monzo",
+      "title": "Interviewing for Machine Learning at Monzo",
+      "summary": "We want to be transparent about how we hire for Machine Learning roles at Monzo, so you know what's coming and why we've designed things the way we have.",
+      "date_published": "2026-06-30T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/engineering-the-future-of-customer-operations-the-monzo-ops-agent",
       "title": "Engineering the Future of Customer Operations: The Monzo Ops Agent",
       "summary": "This post explains how we engineered our LLM-based agent, built rigorous evaluation systems for safe improvement, and are shifting from simply answering questions to automating complex, end-to-end operational workflows.",
@@ -615,6 +622,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2022/06/23/our-mobile-release-process-an-illustrated-story",
+      "title": "Our mobile release process: An illustrated story",
+      "summary": "We go into our mobile release process and how we're able to sustain a steady stream of releases as the changes that go into each version increase over time",
+      "date_published": "2022-06-22T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/05/26/humans-who-can-rpc-securing-staff-access-to-microservices",
       "title": "Humans who can RPC: securing staff access to 2000 microservices",
       "summary": "With over 2000 microservices and lots of Remote Procedure Calls (RPCs) that are constantly changing, we needed a new way to manage staff access. The Security Platform team explain how we now define RPC permissions directly in proto files.",
@@ -647,13 +661,6 @@
       "title": "How our Android engineers automated the removal of Kotlin synthetics",
       "summary": "Our Mobile Platform team recently faced the challenge of having to remove all synthetic view properties. This post explains how we built a tool to automate the task and the trade-offs we had to consider along the way.",
       "date_published": "2022-04-20T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2022/04/12/how-anyone-at-monzo-can-test",
-      "title": "How everyone at Monzo gets involved with testing",
-      "summary": "Everyone at Monzo gets involved in testing new features and versions of the app before we release them. In this post Sarah, part of our Quality Assurance team, explains the different types of tests we use and how we run them.",
-      "date_published": "2022-04-11T00:00:00Z"
     },
     {
       "id": "",

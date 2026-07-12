@@ -1,5 +1,15 @@
 [
   {
+    "PubDate": "2026-06-30T00:00:00Z",
+    "Description": "We want to be transparent about how we hire for Machine Learning roles at Monzo, so you know what's coming and why we've designed things the way we have.",
+    "Tags": [
+      "Technology",
+      "Data"
+    ],
+    "Title": "Interviewing for Machine Learning at Monzo",
+    "Link": "https://monzo.com/blog/interviewing-for-machine-learning-at-monzo"
+  },
+  {
     "PubDate": "2026-06-04T00:00:00Z",
     "Description": "This post explains how we engineered our LLM-based agent, built rigorous evaluation systems for safe improvement, and are shifting from simply answering questions to automating complex, end-to-end operational workflows.",
     "Tags": [
@@ -30,7 +40,8 @@
     "PubDate": "2026-05-25T00:00:00Z",
     "Description": "This guide is here to help you understand what to expect and how to approach the Analytics Engineering (AE) interview process at Monzo—so you can feel prepared, confident, and able to show your best work",
     "Tags": [
-      "Technology"
+      "Technology",
+      "Data"
     ],
     "Title": "Interviewing for Analytics Engineering at Monzo",
     "Link": "https://monzo.com/blog/interviewing-for-analytics-engineering-at-monzo"
@@ -48,7 +59,8 @@
     "PubDate": "2026-05-12T00:00:00Z",
     "Description": "This guide is designed to give you a high-level overview of what to expect when interviewing for leadership roles across data disciplines at Monzo",
     "Tags": [
-      "Technology"
+      "Technology",
+      "Data"
     ],
     "Title": "Interviewing for Data Leadership Roles at Monzo",
     "Link": "https://monzo.com/blog/interviewing-for-data-leadership-roles-at-monzo"
@@ -57,6 +69,7 @@
     "PubDate": "2026-05-08T00:00:00Z",
     "Description": "This blog talks through a transition from a traditional SAS-based banking background to Monzo, detailing how new skills were developed, and the type of projects worked on during the first 12 months in the Credit Strategy team.",
     "Tags": [
+      "Data",
       "Technology"
     ],
     "Title": "Transitioning into Credit Strategy the Monzo Way",
@@ -75,7 +88,8 @@
     "PubDate": "2026-04-27T00:00:00Z",
     "Description": "Dive deep into the process we use when we hire Data Scientists at Monzo",
     "Tags": [
-      "Technology"
+      "Technology",
+      "Data"
     ],
     "Title": "Interviewing for Data Science at Monzo",
     "Link": "https://monzo.com/blog/interviewing-for-data-science-at-monzo"
@@ -84,6 +98,7 @@
     "PubDate": "2026-04-22T00:00:00Z",
     "Description": "At Monzo, over 100 independent, empowered teams contribute to our data warehouse of 12,000+ dbt models. The health of data is owned across all these teams. How do we make sure the outputs are still performant, consistent, and high quality?",
     "Tags": [
+      "Data",
       "Technology"
     ],
     "Title": "A “meshy” approach to Data: Enabling 100+ teams to build Data Models",
@@ -291,6 +306,7 @@
     "PubDate": "2025-01-16T00:00:00Z",
     "Description": "Monzo has a huge variety of data roles in our Borrowing team that contribute to developing our credit products. In this blog we tell you what Borrowing at Monzo is, how it fits into Monzo, what the types of roles we hire for, and how to apply.",
     "Tags": [
+      "Data",
       "Technology"
     ],
     "Title": "How each role in Borrowing Data allows us to think big and innovate",
@@ -793,6 +809,15 @@
     "Link": "https://monzo.com/blog/2022/06/24/redefining-our-microservice-development-process"
   },
   {
+    "PubDate": "2022-06-22T00:00:00Z",
+    "Description": "We go into our mobile release process and how we're able to sustain a steady stream of releases as the changes that go into each version increase over time",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Our mobile release process: An illustrated story",
+    "Link": "https://monzo.com/blog/2022/06/23/our-mobile-release-process-an-illustrated-story"
+  },
+  {
     "PubDate": "2022-05-25T00:00:00Z",
     "Description": "With over 2000 microservices and lots of Remote Procedure Calls (RPCs) that are constantly changing, we needed a new way to manage staff access. The Security Platform team explain how we now define RPC permissions directly in proto files.",
     "Tags": [
@@ -838,15 +863,6 @@
     ],
     "Title": "How our Android engineers automated the removal of Kotlin synthetics",
     "Link": "https://monzo.com/blog/2022/04/20/how-our-android-engineers-automated-the-removal-of-kotlin-synthetics"
-  },
-  {
-    "PubDate": "2022-04-11T00:00:00Z",
-    "Description": "Everyone at Monzo gets involved in testing new features and versions of the app before we release them. In this post Sarah, part of our Quality Assurance team, explains the different types of tests we use and how we run them.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How everyone at Monzo gets involved with testing",
-    "Link": "https://monzo.com/blog/2022/04/12/how-anyone-at-monzo-can-test"
   },
   {
     "PubDate": "2022-04-11T00:00:00Z",
