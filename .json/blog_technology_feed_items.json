@@ -1,5 +1,15 @@
 [
   {
+    "PubDate": "2026-07-27T00:00:00Z",
+    "Description": "Typical detection architectures rely on a combination of expert investigations to resolve complex cases. We discuss how LLMs create new operational efficiencies alongside human analysts",
+    "Tags": [
+      "Technology",
+      "Data"
+    ],
+    "Title": "Combining generative AI and predictive modelling to fight financial crime",
+    "Link": "https://monzo.com/blog/combining-generative-ai-and-predictive-modelling-to-fight-financial-crime"
+  },
+  {
     "PubDate": "2026-06-30T00:00:00Z",
     "Description": "We want to be transparent about how we hire for Machine Learning roles at Monzo, so you know what's coming and why we've designed things the way we have.",
     "Tags": [

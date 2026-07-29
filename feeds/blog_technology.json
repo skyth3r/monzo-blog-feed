@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/combining-generative-ai-and-predictive-modelling-to-fight-financial-crime",
+      "title": "Combining generative AI and predictive modelling to fight financial crime",
+      "summary": "Typical detection architectures rely on a combination of expert investigations to resolve complex cases. We discuss how LLMs create new operational efficiencies alongside human analysts",
+      "date_published": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/interviewing-for-machine-learning-at-monzo",
       "title": "Interviewing for Machine Learning at Monzo",
       "summary": "We want to be transparent about how we hire for Machine Learning roles at Monzo, so you know what's coming and why we've designed things the way we have.",

@@ -1,5 +1,15 @@
 [
   {
+    "PubDate": "2026-07-27T00:00:00Z",
+    "Description": "Typical detection architectures rely on a combination of expert investigations to resolve complex cases. We discuss how LLMs create new operational efficiencies alongside human analysts",
+    "Tags": [
+      "Technology",
+      "Data"
+    ],
+    "Title": "Combining generative AI and predictive modelling to fight financial crime",
+    "Link": "https://monzo.com/blog/combining-generative-ai-and-predictive-modelling-to-fight-financial-crime"
+  },
+  {
     "PubDate": "2026-06-30T00:00:00Z",
     "Description": "We want to be transparent about how we hire for Machine Learning roles at Monzo, so you know what's coming and why we've designed things the way we have.",
     "Tags": [
@@ -2489,15 +2499,6 @@
     "Link": "https://monzo.com/blog/2021/12/22/how-to-think-about-the-roi-of-data-work"
   },
   {
-    "PubDate": "2021-12-16T00:00:00Z",
-    "Description": "Set limits to levels that help you feel in control. Up to £100 in a single payment or £200 over multiple ones (before we ask for your PIN).",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Set contactless spending limits you're comfortable with",
-    "Link": "https://monzo.com/blog/2021/12/16/customise-contactless-limits"
-  },
-  {
     "PubDate": "2021-11-29T00:00:00Z",
     "Description": "We've made it even easier to get paid into your Monzo Business account! From now on, you can give customers more simple ways to pay with Apple Pay \u0026 Google Pay.",
     "Tags": [
@@ -2600,15 +2601,6 @@
     ],
     "Title": "How one 26-year-old is balancing her lockdown candle business with full-time work",
     "Link": "https://monzo.com/blog/2021/10/18/how-one-26-year-old-is-balancing-her-lockdown-candle-business-with-full-time"
-  },
-  {
-    "PubDate": "2021-10-14T00:00:00Z",
-    "Description": "From today, you'll be able to make single payments of up to £100 using your contactless Monzo card. And you'll be able to spend a total of £200 using contactless, before we ask you to put your PIN in.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "You can now make contactless payments up to £100, to make paying more convenient",
-    "Link": "https://monzo.com/blog/youll-be-able-to-make-contactless-payments-up-to-gbp100-to-make-paying-more"
   },
   {
     "PubDate": "2021-10-13T00:00:00Z",
