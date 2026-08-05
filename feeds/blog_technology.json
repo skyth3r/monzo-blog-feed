@@ -755,6 +755,20 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2021/10/14/an-introduction-to-monzos-data-stack",
+      "title": "An introduction to Monzo's data stack",
+      "summary": "An overview of the data stack we use at Monzo, some of the challenges we face, and what we want to change.",
+      "date_published": "2021-10-13T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2021/09/30/documenting-pull-requests-is-as-important-as-writing-good-code",
+      "title": "Documenting pull requests is as important as writing good code",
+      "summary": "How our engineering teams document pull requests to help other teams and their future colleagues review changes.",
+      "date_published": "2021-09-30T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2021/09/15/how-we-measure-software-excellence",
       "title": "How we've started to measure 'software excellence' ",
       "summary": "We're experimenting with ways to measure, track, and improve the quality of our software.",
@@ -927,6 +941,13 @@
       "title": "The Refactathon: Cleaning up old code",
       "summary": "We held an internal hackathon to improve some of the oldest code in the bank! Here's why that's good for our engineers and our customers.",
       "date_published": "2018-12-04T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/09/20/on-call",
+      "title": "How we do on-call at Monzo",
+      "summary": "A team of engineers are available 24/7/365 to respond when things go wrong. For other companies thinking about how to approach incidents, here's how we do on-call at Monzo.",
+      "date_published": "2018-09-20T00:00:00Z"
     },
     {
       "id": "",
