@@ -1,5 +1,14 @@
 [
   {
+    "PubDate": "2026-08-11T00:00:00Z",
+    "Description": "We've done a deep dive into summer jobs in 2026 to find out who's hiring,",
+    "Tags": [
+      "Research"
+    ],
+    "Title": "The teen summer jobs report 2026",
+    "Link": "https://monzo.com/blog/the-teen-summer-jobs-report-2026"
+  },
+  {
     "PubDate": "2026-07-27T00:00:00Z",
     "Description": "Typical detection architectures rely on a combination of expert investigations to resolve complex cases. We discuss how LLMs create new operational efficiencies alongside human analysts",
     "Tags": [
@@ -141,16 +150,6 @@
     "Link": "https://monzo.com/blog/interviewing-for-data-science-at-monzo"
   },
   {
-    "PubDate": "2026-04-27T00:00:00Z",
-    "Description": "Dive deep into the process we use when we hire Data Scientists at Monzo",
-    "Tags": [
-      "Technology",
-      "Data"
-    ],
-    "Title": "Interviewing for Data Science at Monzo",
-    "Link": "https://monzo.com/blog/interviewing-for-data-science-at-monzo"
-  },
-  {
     "PubDate": "2026-04-22T00:00:00Z",
     "Description": "At Monzo, over 100 independent, empowered teams contribute to our data warehouse of 12,000+ dbt models. The health of data is owned across all these teams. How do we make sure the outputs are still performant, consistent, and high quality?",
     "Tags": [
@@ -276,6 +275,15 @@
     ],
     "Title": "Machine Learning at Monzo in 2025",
     "Link": "https://monzo.com/blog/machine-learning-at-monzo-in-2025"
+  },
+  {
+    "PubDate": "2025-11-19T00:00:00Z",
+    "Description": "Aiste Luksyte, one of our Data Science Manager at Monzo shares their journey from a missed LinkedIn message to joining the Operations Data team. She tells us about Monzo's strong data culture, flexible work setup, and collaborative environment.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Beyond the Bank App: My First Eight Months in Monzo Data",
+    "Link": "https://monzo.com/blog/beyond-the-bank-app-my-first-eight-months-in-monzo-data/"
   },
   {
     "PubDate": "2025-11-13T00:00:00Z",
@@ -450,15 +458,6 @@
     "Link": "https://monzo.com/blog/processing-payments-in-monzo-stand-in"
   },
   {
-    "PubDate": "2025-04-03T00:00:00Z",
-    "Description": "Monzo Stand-in is able to process payments in the event of a major outage of the Primary Platform. Customers can continue to use their card and send or receive bank transfers as normal",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Processing payments in Monzo Stand-in",
-    "Link": "https://monzo.com/blog/processing-payments-in-monzo-stand-in"
-  },
-  {
     "PubDate": "2025-04-02T00:00:00Z",
     "Description": "March 2025 saw the launch of Monzo's Women's Network - a new committee which will play an active role in helping women achieve their professional goals.",
     "Tags": [
@@ -613,6 +612,15 @@
     ],
     "Title": "Equity and loan to value explained",
     "Link": "https://monzo.com/blog/equity-and-loan-to-value-explained"
+  },
+  {
+    "PubDate": "2024-11-21T00:00:00Z",
+    "Description": "This blog explains why design and research is so impactful at Monzo. We explain how we give designers and researchers an abundance of autonomy to help make decisions, and why it makes our team an outlier for those who care about making a difference.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How our design team shapes products for our customers",
+    "Link": "https://monzo.com/blog/how-our-design-team-shapes-products-for-our-customers"
   },
   {
     "PubDate": "2024-11-07T00:00:00Z",
@@ -2581,8 +2589,8 @@
     "Tags": [
       "How I Use Monzo"
     ],
-    "Title": "Making Monzo: Follow along as we build a bank",
-    "Link": "https://monzo.com/blog/2018/11/07/making-monzo-roadmap"
+    "Title": "‘My income halved': How an accountant-turned-yoga teacher adapted to her new income",
+    "Link": "https://monzo.com/blog/my-income-halved-accountant-turned-freelance-yoga-teacher"
   },
   {
     "PubDate": "2021-10-21T00:00:00Z",
@@ -2833,16 +2841,6 @@
     "Link": "https://monzo.com/blog/seven-steps-to-validate-your-business-idea"
   },
   {
-    "PubDate": "2021-06-02T00:00:00Z",
-    "Description": "So you've got a business idea. But does it actually hold water? Here's some ways to put it to the test!",
-    "Tags": [
-      "Business Basics",
-      "Business Banking"
-    ],
-    "Title": "Seven steps to validate your business idea",
-    "Link": "https://monzo.com/blog/seven-steps-to-validate-your-business-idea"
-  },
-  {
     "PubDate": "2021-05-28T00:00:00Z",
     "Description": "Many small businesses have improved their financial discipline over the last 12 months. Even as the pandemic recedes and growth returns, these habits are well worth holding onto.",
     "Tags": [
@@ -3078,6 +3076,15 @@
     ],
     "Title": "We're celebrating one year of Monzo Business!",
     "Link": "https://monzo.com/blog/celebrating-one-year-of-monzo-business"
+  },
+  {
+    "PubDate": "2021-03-15T00:00:00Z",
+    "Description": "We chatted to Deborah Igunma, founder of Peek, about how Monzo Business is helping her succeed!",
+    "Tags": [
+      "Let's Talk Business"
+    ],
+    "Title": "\"Monzo's integrated accounting has been a godsend!\"",
+    "Link": "https://monzo.com/blog/monzo-business-deborah"
   },
   {
     "PubDate": "2021-03-11T00:00:00Z",
@@ -4571,17 +4578,6 @@
     "Link": "https://monzo.com/blog/2019/11/15/saving-for-your-grandchildren"
   },
   {
-    "PubDate": "2019-11-15T00:00:00Z",
-    "Description": "There are a few ways you start saving money for your grandchildren, from opening a savings account to premium bonds. We've listed some tips here 💰",
-    "Tags": [
-      "How Money Works",
-      "How to Save Money",
-      "Savings Account Guides"
-    ],
-    "Title": "How do you start saving for your grandchildren?",
-    "Link": "https://monzo.com/blog/2019/11/15/saving-for-your-grandchildren"
-  },
-  {
     "PubDate": "2019-11-14T00:00:00Z",
     "Description": "In an ideal world you'd try to save as much as you can afford each month. But we know that starting to save money can be tough, especially if you're saving for the first time. ",
     "Tags": [
@@ -4834,6 +4830,17 @@
     ],
     "Title": "10 reasons why you'll hate having Monzo",
     "Link": "https://monzo.com/blog/10-times-you-hated-monzo"
+  },
+  {
+    "PubDate": "2019-10-15T00:00:00Z",
+    "Description": "We've outlined a few different kinds of savings plans so you can find one that might suit you and your savings goals! 💰",
+    "Tags": [
+      "How Money Works",
+      "How to Save Money",
+      "Pots"
+    ],
+    "Title": "How to start a savings plan",
+    "Link": "https://monzo.com/blog/2019/10/15/savings-plan"
   },
   {
     "PubDate": "2019-10-11T00:00:00Z",
@@ -6678,6 +6685,15 @@
     "Link": "https://monzo.com/blog/2018/11/09/national-living-minimum-wage"
   },
   {
+    "PubDate": "2018-11-07T00:00:00Z",
+    "Description": "Introducing some new ways to see what's coming next from Monzo.",
+    "Tags": [
+      "Community"
+    ],
+    "Title": "Making Monzo: Follow along as we build a bank",
+    "Link": "https://monzo.com/blog/2018/11/07/making-monzo-roadmap"
+  },
+  {
     "PubDate": "2018-11-05T00:00:00Z",
     "Description": "By helping us understand real world problems, sharing frank feedback and holding us to account, our community helps us build a better bank.",
     "Tags": [
@@ -6976,15 +6992,6 @@
     "Link": "https://monzo.com/blog/2018/08/16/automate-your-finances"
   },
   {
-    "PubDate": "2018-08-16T00:00:00Z",
-    "Description": "Wouldn't it be good if your money managed itself? Here are four ways you can use Monzo to automate your finances.",
-    "Tags": [
-      "Monzo 101"
-    ],
-    "Title": "How to automate your financial life with Monzo",
-    "Link": "https://monzo.com/blog/2018/08/16/automate-your-finances"
-  },
-  {
     "PubDate": "2018-08-15T00:00:00Z",
     "Description": "Using Monzo to manage your bills is easy. Here are five ways we can help you keep track of your bills and other regular payments.",
     "Tags": [
@@ -7100,6 +7107,15 @@
     ],
     "Title": "Introducing Monzo for 16-17 year olds!",
     "Link": "https://monzo.com/blog/2018/08/06/monzo-for-16-18-year-olds"
+  },
+  {
+    "PubDate": "2018-08-03T00:00:00Z",
+    "Description": "From adding money to your pots automatically, to better bill-splitting, we take a look at the progress we've made in July, and explain what's in store for August.",
+    "Tags": [
+      "Quarterly Updates"
+    ],
+    "Title": "Monzo Monthly Update: August",
+    "Link": "https://monzo.com/blog/2018/08/03/august-update"
   },
   {
     "PubDate": "2018-08-03T00:00:00Z",
@@ -8269,15 +8285,6 @@
     "Link": "https://monzo.com/blog/2016/10/19/target-practice"
   },
   {
-    "PubDate": "2016-10-19T00:00:00Z",
-    "Description": "Getting to grips with one of our most commonly requested features",
-    "Tags": [
-      "Community"
-    ],
-    "Title": "Target Practice: #MyMonzoMonth",
-    "Link": "https://monzo.com/blog/2016/10/19/target-practice"
-  },
-  {
     "PubDate": "2016-09-29T00:00:00Z",
     "Description": "Today, we're incredibly excited to announce the release of version 1 of the Monzo Android app!",
     "Tags": [
@@ -8402,6 +8409,15 @@
     ],
     "Title": "Ask Us Anything - Join the Conversation on Our Forum",
     "Link": "https://monzo.com/blog/2016/06/03/ask-us-anything-join-the-forum"
+  },
+  {
+    "PubDate": "2016-03-17T00:00:00Z",
+    "Description": "136 days after we launched our Alpha preview, we're excited to announce the...",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "The Next Step",
+    "Link": "https://monzo.com/blog/2016/03/17/beta"
   },
   {
     "PubDate": "2016-03-10T00:00:00Z",
