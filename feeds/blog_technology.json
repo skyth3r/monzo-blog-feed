@@ -76,6 +76,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/accelerating-safeguarding-support-for-our-most-vulnerable-customers-with-machine-learning",
+      "title": "Accelerating Safeguarding Support for our Most Vulnerable Customers with Machine Learning",
+      "summary": "Customer service often involves helping people with banking queries. We built an AI system to automatically identify customers going through challenging moments and get them dedicated safeguarding",
+      "date_published": "2026-05-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/interviewing-for-data-science-at-monzo",
       "title": "Interviewing for Data Science at Monzo",
       "summary": "Dive deep into the process we use when we hire Data Scientists at Monzo",
@@ -115,13 +122,6 @@
       "title": "My first 3 months at Monzo as a Product Designer",
       "summary": "Kelly shares her first three months at Monzo as a Lead Product Designer - onboarding, early projects, shaping the business sign-up vision, experimenting, and key lessons she's picked up while settling into fintech and the Business Banking Collective",
       "date_published": "2025-12-03T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/machine-learning-at-monzo-in-2025",
-      "title": "Machine Learning at Monzo in 2025",
-      "summary": "Our Machine Learning foundations have matured into a core capability. ML is used at Monzo for defending against financial crime, scaling operations, and powering intelligent, personalised experiences in our products",
-      "date_published": "2025-11-21T00:00:00Z"
     },
     {
       "id": "",
@@ -258,6 +258,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/dont-let-go-of-your-creative-spark",
+      "title": "Don't let go of your creative spark",
+      "summary": "Our Product Designer, Victoria, talks about her learnings from the course '100 Design Projects' she attended this year, including sprinkling your own personality in every project and making sure you reflect on your own creative process.",
+      "date_published": "2024-12-13T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/how-our-design-team-shapes-products-for-our-customers",
       "title": "How our design team shapes products for our customers",
       "summary": "This blog explains why design and research is so impactful at Monzo. We explain how we give designers and researchers an abundance of autonomy to help make decisions, and why it makes our team an outlier for those who care about making a difference.",
@@ -370,6 +377,20 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/user-research-insight-to-impact-the-art-of-scaling-impact-and-crafting-goal",
+      "title": "User Research Insight to Impact: The Art of Scaling Impact and Crafting Goal-Driven Metrics ",
+      "summary": "Drawing upon the wisdom and practices of our user research team at Monzo, this blog post captures ways to scale user research impact, craft effective goals, and define clear metrics.",
+      "date_published": "2024-03-15T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/starting-from-scratch-as-a-new-engineer-at-monzo",
+      "title": "Starting from scratch as a new engineer at Monzo",
+      "summary": "I'm Grace, and I joined Monzo in October '23 as a Backend Engineer in Fincrime Business Banking. I'm here to convince you to apply for that role you really want, and about how exciting, challenging and rewarding changing roles has been for me.",
+      "date_published": "2024-03-08T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/starting-from-scratch-as-a-new-engineer-at-monzo",
       "title": "Starting from scratch as a new engineer at Monzo",
       "summary": "I'm Grace, and I joined Monzo in October '23 as a Backend Engineer in Fincrime Business Banking. I'm here to convince you to apply for that role you really want, and about how exciting, challenging and rewarding changing roles has been for me.",
@@ -454,13 +475,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2023/08/23/tech-leading-as-a-mobile-engineer-at-monzo",
-      "title": "Tech leading as a mobile engineer at Monzo",
-      "summary": "Mark has written about his experience and growth as a tech lead at Monzo over the last 18 months - from creeping doubts to using his mobile engineer's perspective to shape the role to his strengths",
-      "date_published": "2023-08-31T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2023/08/10/my-path-from-intern-to-staff-engineer-at-monzo",
       "title": "My path from Intern to Staff Engineer at Monzo",
       "summary": "This blog discusses our Staff Engineer, Jacob, and his experience starting at Monzo as an intern in Engineering, and how he has developed into a Staff Engineer role.",
@@ -489,17 +503,17 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2023/07/10/how-we-do-product-management-in-the-financial-difficulties-space",
+      "title": "How we do product management in the financial difficulties space",
+      "summary": "In Financial Health, we're responsible for making sure we build the right tools and experiences to help our customers through thick and thin if they experience financial difficulties, while also helping Monzo grow its Borrowing products.",
+      "date_published": "2023-07-12T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2023/06/01/finding-your-fit-in-a-new-product-team/",
       "title": "Finding your fit in a new product team ",
       "summary": "This is my experience of how I searched for and found my fit as a Product Designer in my first few months at Monzo, but I believe this applies to any role joining a new product team.",
       "date_published": "2023-06-01T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2023/05/18/sensitivity-analysis",
-      "title": "Sensitivity analysis",
-      "summary": "This blog explains sensitivity analysis, which is a useful data science technique for assessing the impact of different variables on an outcome metric.",
-      "date_published": "2023-05-18T00:00:00Z"
     },
     {
       "id": "",
@@ -559,6 +573,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2022/12/19/machine-learning-at-monzo-in-2022",
+      "title": "Machine Learning at Monzo in 2022",
+      "summary": "An end-of-year review of how machine learning continues to evolve and grow at Monzo",
+      "date_published": "2022-12-19T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/12/15/building-an-extension-framework-for-dbt",
       "title": "Building an extension framework for dbt ",
       "summary": "dbt is a fundamental piece of Monzo's data platform. We made the big decision to build a whole new extension framework that would give us more flexibility.",
@@ -591,13 +612,6 @@
       "title": "Taking a design system approach to research guidelines",
       "summary": "If you're starting out in a new role in research ops, design ops or any other kind of team operations, this blog will take you through the ins and outs of creating a flexible how-to guide database for scale.",
       "date_published": "2022-11-10T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2022/11/02/argo-rollouts-at-scale",
-      "title": "Argo Rollouts at scale: Bringing Automated Rollbacks to 2,100+ services at Monzo",
-      "summary": "We introduced automated rollbacks to our platform using Argo Rollouts and made it the default deployment strategy for all our services. This helps us roll out changes safely and catch a wide class of problems related to deploying new code",
-      "date_published": "2022-11-07T00:00:00Z"
     },
     {
       "id": "",
@@ -843,6 +857,13 @@
       "title": "Coordinators on Android: how to build flows quickly with reusable screens",
       "summary": "When we first built Monzo on Android, we couldn't 'reuse' screens. We'd build them from scratch every time! To help us work faster, we've used a new architectural pattern called 'the Coordinator Pattern' in our codebase.",
       "date_published": "2019-12-12T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/we-built-network-isolation-for-1-500-services",
+      "title": "We built network isolation for 1,500 services to make Monzo more secure",
+      "summary": "We've been working on isolating the 1,500 services that power Monzo. The sheer size and complexity of our platform made this difficult. But by protecting us against compromised services, it makes Monzo more secure.",
+      "date_published": "2019-11-06T00:00:00Z"
     },
     {
       "id": "",
