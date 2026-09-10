@@ -69,6 +69,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/interviewing-for-data-leadership-roles-at-monzo",
+      "title": "Interviewing for Data Leadership Roles at Monzo",
+      "summary": "This guide is designed to give you a high-level overview of what to expect when interviewing for leadership roles across data disciplines at Monzo",
+      "date_published": "2026-05-12T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/transitioning-into-credit-strategy-the-monzo-way",
       "title": "Transitioning into Credit Strategy the Monzo Way",
       "summary": "This blog talks through a transition from a traditional SAS-based banking background to Monzo, detailing how new skills were developed, and the type of projects worked on during the first 12 months in the Credit Strategy team.",
@@ -318,13 +325,6 @@
       "title": "Building a processing system for International Payments",
       "summary": "Gain an understanding of how International Payments are sent and received and how we process them at Monzo. We are making this seamless to customers whilst also having a strong focus on development experience",
       "date_published": "2024-07-31T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/the-ultimate-guide-on-using-ai-to-ace-an-interview-at-monzo",
-      "title": "The ultimate guide on using AI to ace an interview at Monzo",
-      "summary": "We think there are lots of benefits associated with AI, but we have a human approach to hiring. At every stage there is a person reviewing and making decisions to ensure we're able to bring the best people to Monzo.",
-      "date_published": "2024-07-30T00:00:00Z"
     },
     {
       "id": "",

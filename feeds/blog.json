@@ -118,6 +118,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/interviewing-for-data-leadership-roles-at-monzo",
+      "title": "Interviewing for Data Leadership Roles at Monzo",
+      "summary": "This guide is designed to give you a high-level overview of what to expect when interviewing for leadership roles across data disciplines at Monzo",
+      "date_published": "2026-05-12T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/transitioning-into-credit-strategy-the-monzo-way",
       "title": "Transitioning into Credit Strategy the Monzo Way",
       "summary": "This blog talks through a transition from a traditional SAS-based banking background to Monzo, detailing how new skills were developed, and the type of projects worked on during the first 12 months in the Credit Strategy team.",
@@ -566,13 +573,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/the-ultimate-guide-on-using-ai-to-ace-an-interview-at-monzo",
-      "title": "The ultimate guide on using AI to ace an interview at Monzo",
-      "summary": "We think there are lots of benefits associated with AI, but we have a human approach to hiring. At every stage there is a person reviewing and making decisions to ensure we're able to bring the best people to Monzo.",
-      "date_published": "2024-07-30T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/introducing-our-industry-first-security-tools",
       "title": "A trio of industry-first security tools to help stop fraudsters in their tracks ",
       "summary": "We're focused on giving customers protection and peace of mind to make Monzo a safe place to manage your money. Find out how we're achieving this with our latest release: a trio of industry-first security tools",
@@ -668,6 +668,13 @@
       "title": "How the new ISA rules affect you",
       "summary": "ISAs have gotten a refresh this year. And the changes mean you have more freedom on how you choose to grow your money.",
       "date_published": "2024-04-09T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/corporate-owned-businesses",
+      "title": "We can now accept corporate-owned businesses 🎉",
+      "summary": "If your Limited Company has investment from other companies, you are now welcome to apply for a Monzo Business account!",
+      "date_published": "2024-03-27T00:00:00Z"
     },
     {
       "id": "",
@@ -899,13 +906,6 @@
       "title": "The SKAdNetwork Puzzle: Using Data to Solve for Effective Performance Marketing",
       "summary": "This blog talks through how Monzo uses Data Science and Analytics Engineering to measure the value of paid marketing as Apple's SKAdNetwork changes the mobile advertising landscape, which helps to inform our wider strategies of sustainable growth",
       "date_published": "2023-09-12T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2023/09/06/making-it-clear-when-were-on-a-call-with-you",
-      "title": "Making it clear when we're on a call with you to protect you from fraud",
-      "summary": "If someone calls you claiming to be from Monzo, you can now check to see if they're telling the truth or not in the Monzo app.",
-      "date_published": "2023-09-06T00:00:00Z"
     },
     {
       "id": "",
@@ -1224,6 +1224,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2023/03/29/were-helping-you-build-a-safety-net",
+      "title": "We're helping you build a safety net",
+      "summary": "Build a cash safety net to cover essential bills and costs, just in case you ever need it.",
+      "date_published": "2023-03-29T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2023/03/28/what-we-learned-from-43-experiments-in-12-months",
       "title": "What we learned from 43 experiments in 12 months",
       "summary": "This blog shares some of the learnings we've had from our experiments in customer help and support over the last year",
@@ -1319,13 +1326,6 @@
       "title": "6 ways to build confidence managing money",
       "summary": "If you're not naturally confident with money, don't worry. Here are six ways to feel more in control of your finances.",
       "date_published": "2023-02-21T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/instant-access-savings-are-here",
-      "title": "Instant Access Savings are here",
-      "summary": "Introducing: our all-new Instant Access Savings Pot.",
-      "date_published": "2023-02-16T00:00:00Z"
     },
     {
       "id": "",
@@ -1966,6 +1966,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/dont-get-monzo",
+      "title": "4 reasons you shouldn't get Monzo, according to people who have",
+      "summary": "We'll play devil's advocate to help you decide.",
+      "date_published": "2021-11-16T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2021/11/02/net-zero-carbon-emissions",
       "title": "How we're working towards net zero carbon emissions",
       "summary": "We are in a climate crisis. Everyone has a responsibility to act, and to take decisions that will support a sustainable, low carbon future. Here's how we're doing our part.",
@@ -2159,13 +2166,6 @@
       "title": "Is Monzo safe?",
       "summary": "Your money's safe with Monzo, and more than 7 million people across the UK trust Monzo and use us to manage their money.",
       "date_published": "2021-06-29T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/what-to-look-for-in-your-first-employee",
-      "title": "What to look for in your first employee, according to Monzo Business customers",
-      "summary": "We asked Monzo Business customers what qualities they look for in the first hire for their business. Here's what they had to say!",
-      "date_published": "2021-06-16T00:00:00Z"
     },
     {
       "id": "",
@@ -2848,6 +2848,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/11-reasons-to-get-monzo-business",
+      "title": "11 reasons to get Monzo Business",
+      "summary": "If you're considering Monzo for your business, this might just convince you.",
+      "date_published": "2020-05-12T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/how-weve-evolved-on-call-at-monzo",
       "title": "How we've evolved on-call at Monzo",
       "summary": "We've built a humane on-call rotation, that engineers actually want to join!",
@@ -2942,13 +2949,6 @@
       "url": "https://monzo.com/blog/2019/04/02/pyramid-schemes-fractal-mandala",
       "title": "We're seeing more pyramid schemes on social media. Here's how to protect yourself.",
       "summary": "More people are falling victim to pyramid schemes on social media. Here's how you can protect yourself against this increasingly common kind of fraud.",
-      "date_published": "2020-04-21T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/government-support-start-ups-coronavirus",
-      "title": "What government support is available for start-ups during coronavirus?",
-      "summary": "We've summarised and explained what's available to early-stage companies, to help you understand the best options for your business.",
       "date_published": "2020-04-21T00:00:00Z"
     },
     {
@@ -3548,6 +3548,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2019/11/07-save-money-for-your-kids",
+      "title": "The 5 ways you can save money for your kids",
+      "summary": "There are different options that vary from opening a children's savings account to setting up a pension. So it's important to find something that's right for you and your children.",
+      "date_published": "2019-11-07T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/we-built-network-isolation-for-1-500-services",
       "title": "We built network isolation for 1,500 services to make Monzo more secure",
       "summary": "We've been working on isolating the 1,500 services that power Monzo. The sheer size and complexity of our platform made this difficult. But by protecting us against compromised services, it makes Monzo more secure.",
@@ -3755,13 +3762,6 @@
       "title": "Introducing Salary Sorter and Bills Pots",
       "summary": "As well as a space for spending and saving, Monzo now offers a bills pot to completely sort all your money. We've also launched the salary sorter, so you can sort your salary into each space as soon as it arrives in your account.",
       "date_published": "2019-09-26T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2019/09/23/thomas-cook-collapse",
-      "title": "What to do if you're affected by the Thomas Cook collapse",
-      "summary": "We know this is a worrying situation for a lot of people using Monzo, especially anyone currently abroad, so here's what you can do to get home safely, and get your money back.",
-      "date_published": "2019-09-23T00:00:00Z"
     },
     {
       "id": "",
@@ -4255,6 +4255,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2019/06/03/vegan-on-a-budget",
+      "title": "How to be vegan and stay within budget",
+      "summary": "We spoke to two vegans to find out how you can go vegan, without it costing the earth.",
+      "date_published": "2019-06-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2019/05/30/everyone-does-user-research-at-monzo",
       "title": "Why everyone at Monzo does research",
       "summary": "It might seem like blasphemy to other researchers, but we encourage everyone who works on the Monzo app to do their own user research.",
@@ -4360,13 +4367,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2019/05/13/supporting-vulnerable-customers",
-      "title": "Revisiting the Vulnerable Customers Team in 2019",
-      "summary": "They work to understand the needs of all our customers, especially those who are more likely to have problems with their money.",
-      "date_published": "2019-05-13T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2019/05/10/should-i-get-monzo",
       "title": "11 reasons you should definitely get Monzo",
       "summary": "Seen an ad on TV and thinking of signing up? Here's why you should probably, definitely get Monzo.",
@@ -4413,6 +4413,13 @@
       "title": "3 ways to save 'little and often' with Monzo",
       "summary": "Setting aside small amounts of money regularly can be one of the most effective ways to save.",
       "date_published": "2019-05-01T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2019/04/26/savings-marketplace",
+      "title": "Our vision to help people earn more from their savings",
+      "summary": "Over the next few weeks, we'll be announcing a series of new partnerships that will lay the foundation for a true savings marketplace. We wanted to lay out our future vision for that marketplace.",
+      "date_published": "2019-04-26T00:00:00Z"
     },
     {
       "id": "",
@@ -4489,13 +4496,6 @@
       "url": "https://monzo.com/blog/2019/04/09/dear-monzo-frustrated-in-debt",
       "title": "Dear Monzo, I'm £7,000 in debt and I'm struggling to clear it",
       "summary": "As Laura tells one reader, putting money in savings while you're paying off debt might make you feel better. But it can cost you more in the long run.",
-      "date_published": "2019-04-09T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2019/04/09/how-can-i-start-saving",
-      "title": "Have you left it too late to start saving?",
-      "summary": "You're always putting it off. But the longer you wait, the harder it feels to start saving from scratch.",
       "date_published": "2019-04-09T00:00:00Z"
     },
     {
@@ -6082,6 +6082,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2017/06/22/meet-gary",
+      "title": "Meet Gary - Chief Financial Officer",
+      "summary": "I'm very thankful that I still have some hair to let down!",
+      "date_published": "2017-06-22T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2017/06/13/identity-verification-upgrade",
       "title": "Asking Some Customers To Do Additional Identity Verification",
       "summary": "Due to new European money laundering regulations, we need to carry out additional identity verification on some customers",
@@ -6177,13 +6184,6 @@
       "title": "Meet Venkat: Head of Lending",
       "summary": "Our globetrotting thespian with a passion for economics!",
       "date_published": "2017-03-22T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2017/03/09/diversity-and-inclusion",
-      "title": "Diversity and Inclusion at Monzo",
-      "summary": "We believe diverse teams make better decisions. Here's an update on our diversity debt repayments.",
-      "date_published": "2017-03-09T00:00:00Z"
     },
     {
       "id": "",
@@ -6306,6 +6306,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2016/11/14/spending-android",
+      "title": "Spending on Android! New Update Out Now",
+      "summary": "We've just pushed version 1.2.0 to the Play Store bringing Spending, as well as a variety of other improvements and bug fixes",
+      "date_published": "2016-11-14T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2016/11/04/living-wage",
       "title": "Celebrating Living Wage Week: Monzo is now a Living Wage Employer",
       "summary": "To underscore our commitment to fair pay, we've become a Living Wage accredited employer",
@@ -6401,13 +6408,6 @@
       "title": "New Mondo Update: Touch ID, Profile Editing and More",
       "summary": "We've been hard at work on a new update to the Mondo iOS app, which we're releasing to the App Store today as version 1.5.3...",
       "date_published": "2016-07-18T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2016/06/13/1-5",
-      "title": "Mondo Version 1.5: Improved Search and New Export Features",
-      "summary": "We're very excited to release version 1.5 of the Mondo app on iOS which you can download now in the App Store...",
-      "date_published": "2016-06-13T00:00:00Z"
     },
     {
       "id": "",
