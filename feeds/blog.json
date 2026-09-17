@@ -6061,6 +6061,20 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2017/08/07/current-account-android",
+      "title": "The Monzo Current Account Preview comes to Android!",
+      "summary": "Today, we're extremely excited to announce that Android users can register their interest in the Preview and get involved!",
+      "date_published": "2017-08-07T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2017/07/25/meet-will",
+      "title": "Meet Will - Business Operations",
+      "summary": "I can remember the meal where I got fat.",
+      "date_published": "2017-07-25T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2017/07/07/working-with-backend-services-on-ios",
       "title": "Working with backend services on iOS",
       "summary": "How we refactored our iOS app to work better with backend services.",
