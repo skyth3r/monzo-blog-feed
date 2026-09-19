@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/engineering-and-data-internships-at-monzo",
+      "title": "Engineering and Data Internships at Monzo ",
+      "summary": "Hear directly from our engineering and data interns on why they applied to Monzo, how reality compared to their expectations, and what it's actually like to do high-impact work here.",
+      "date_published": "2026-09-18T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/building-agent-chip",
       "title": "Building Agent Chip: Monzo's in-house agentic tool",
       "summary": "We've built Agent Chip, an AI‑powered coding assistant that integrates with their tools to automate engineering tasks, improve incident response, and enable non‑engineers to contribute, with ongoing development to expand its capabilities.",
@@ -314,13 +321,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/building-a-processing-system-for-international-payments",
-      "title": "Building a processing system for International Payments",
-      "summary": "Gain an understanding of how International Payments are sent and received and how we process them at Monzo. We are making this seamless to customers whilst also having a strong focus on development experience",
-      "date_published": "2024-07-31T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/the-ultimate-guide-on-using-ai-to-ace-an-interview-at-monzo",
       "title": "The ultimate guide on using AI to ace an interview at Monzo",
       "summary": "We think there are lots of benefits associated with AI, but we have a human approach to hiring. At every stage there is a person reviewing and making decisions to ensure we're able to bring the best people to Monzo.",
@@ -482,17 +482,17 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2023/07/18/five-lessons-from-my-first-year-at-monzo",
-      "title": "Five lessons from my first year at Monzo",
-      "summary": "Tarah Srethwatanakul is a Lead Researcher at Monzo. In this blog post, she shares lessons from her first year at the company.",
-      "date_published": "2023-07-18T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2023/07/10/how-we-do-product-management-in-the-financial-difficulties-space",
       "title": "How we do product management in the financial difficulties space",
       "summary": "In Financial Health, we're responsible for making sure we build the right tools and experiences to help our customers through thick and thin if they experience financial difficulties, while also helping Monzo grow its Borrowing products.",
       "date_published": "2023-07-12T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2023/06/01/finding-your-fit-in-a-new-product-team/",
+      "title": "Finding your fit in a new product team ",
+      "summary": "This is my experience of how I searched for and found my fit as a Product Designer in my first few months at Monzo, but I believe this applies to any role joining a new product team.",
+      "date_published": "2023-06-01T00:00:00Z"
     },
     {
       "id": "",
@@ -657,13 +657,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day",
-      "title": "How we deploy to production over 100 times a day",
-      "summary": "Our success relies on us rapidly shipping new features. To achieve this rapid release cadence, we've optimised our engineering culture, tooling, and architecture to go from idea to production as frictionless as possible, without sacrificing safety.",
-      "date_published": "2022-05-15T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/05/06/becoming-an-engineering-manager-1-year-in",
       "title": "Becoming an Engineering Manager: 1 year in",
       "summary": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
@@ -804,6 +797,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2020/10/19/autoscaling-monzo",
+      "title": "Autoscaling Monzo: How we optimise our platform to be just the right size",
+      "summary": "How we've automated the process of scaling up our platform for our ever-growing userbase.",
+      "date_published": "2020-10-19T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/how-we-moved-our-faster-payments-connection-in-house",
       "title": "How we moved our Faster Payments connection in-house",
       "summary": "Our in-house Faster Payments gateway has been running since November 2019. This is a comprehensive insight into how we built it.",
@@ -913,6 +913,13 @@
       "title": "How we improved our staff VPN",
       "summary": "OpenVPN is great, but there were some things we wanted to change.",
       "date_published": "2019-03-19T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2019/02/11/building-monzo-chat-on-android/",
+      "title": "How we built Monzo Chat on Android",
+      "summary": "We've built bespoke software from scratch, that helps us manage chats in the app. Here's how we implemented it on Android.",
+      "date_published": "2019-02-11T00:00:00Z"
     },
     {
       "id": "",
