@@ -413,6 +413,15 @@
     "Link": "https://monzo.com/blog/how-we-run-migrations-across-2800-microservices"
   },
   {
+    "PubDate": "2024-07-31T00:00:00Z",
+    "Description": "Gain an understanding of how International Payments are sent and received and how we process them at Monzo. We are making this seamless to customers whilst also having a strong focus on development experience",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Building a processing system for International Payments",
+    "Link": "https://monzo.com/blog/building-a-processing-system-for-international-payments"
+  },
+  {
     "PubDate": "2024-07-30T00:00:00Z",
     "Description": "We think there are lots of benefits associated with AI, but we have a human approach to hiring. At every stage there is a person reviewing and making decisions to ensure we're able to bring the best people to Monzo.",
     "Tags": [
@@ -625,6 +634,15 @@
     "Link": "https://monzo.com/blog/2023/08/03/how-we-launch-new-products-at-monzo"
   },
   {
+    "PubDate": "2023-07-18T00:00:00Z",
+    "Description": "Tarah Srethwatanakul is a Lead Researcher at Monzo. In this blog post, she shares lessons from her first year at the company.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Five lessons from my first year at Monzo",
+    "Link": "https://monzo.com/blog/2023/07/18/five-lessons-from-my-first-year-at-monzo"
+  },
+  {
     "PubDate": "2023-07-12T00:00:00Z",
     "Description": "In Financial Health, we're responsible for making sure we build the right tools and experiences to help our customers through thick and thin if they experience financial difficulties, while also helping Monzo grow its Borrowing products.",
     "Tags": [
@@ -632,15 +650,6 @@
     ],
     "Title": "How we do product management in the financial difficulties space",
     "Link": "https://monzo.com/blog/2023/07/10/how-we-do-product-management-in-the-financial-difficulties-space"
-  },
-  {
-    "PubDate": "2023-06-01T00:00:00Z",
-    "Description": "This is my experience of how I searched for and found my fit as a Product Designer in my first few months at Monzo, but I believe this applies to any role joining a new product team.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Finding your fit in a new product team ",
-    "Link": "https://monzo.com/blog/2023/06/01/finding-your-fit-in-a-new-product-team/"
   },
   {
     "PubDate": "2023-06-01T00:00:00Z",
@@ -857,6 +866,15 @@
     "Link": "https://monzo.com/blog/2022/05/18/joining-monzo-as-a-data-scientist"
   },
   {
+    "PubDate": "2022-05-15T00:00:00Z",
+    "Description": "Our success relies on us rapidly shipping new features. To achieve this rapid release cadence, we've optimised our engineering culture, tooling, and architecture to go from idea to production as frictionless as possible, without sacrificing safety.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How we deploy to production over 100 times a day",
+    "Link": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day"
+  },
+  {
     "PubDate": "2022-05-05T00:00:00Z",
     "Description": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
     "Tags": [
@@ -1044,15 +1062,6 @@
     "Link": "https://monzo.com/blog/2020/10/19/autoscaling-monzo"
   },
   {
-    "PubDate": "2020-10-19T00:00:00Z",
-    "Description": "How we've automated the process of scaling up our platform for our ever-growing userbase.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Autoscaling Monzo: How we optimise our platform to be just the right size",
-    "Link": "https://monzo.com/blog/2020/10/19/autoscaling-monzo"
-  },
-  {
     "PubDate": "2020-05-13T00:00:00Z",
     "Description": "Our in-house Faster Payments gateway has been running since November 2019. This is a comprehensive insight into how we built it.",
     "Tags": [
@@ -1195,15 +1204,6 @@
     ],
     "Title": "How we improved our staff VPN",
     "Link": "https://monzo.com/blog/2019/03/19/improving-our-staff-VPN"
-  },
-  {
-    "PubDate": "2019-02-11T00:00:00Z",
-    "Description": "We've built bespoke software from scratch, that helps us manage chats in the app. Here's how we implemented it on Android.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How we built Monzo Chat on Android",
-    "Link": "https://monzo.com/blog/2019/02/11/building-monzo-chat-on-android/"
   },
   {
     "PubDate": "2019-02-11T00:00:00Z",
