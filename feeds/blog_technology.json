@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/fca-ai-live-testing-insights",
+      "title": "Helping people save with AI: what we learned through the FCA's AI Live Testing programme",
+      "summary": "Monzo joined the first cohort of the Financial Conduct Authority's AI Live Testing programme to test a savings-focused AI assistant in controlled real-world conditions. Steve Martin, VP Engineering, shares what we learned.",
+      "date_published": "2026-09-21T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/engineering-and-data-internships-at-monzo",
       "title": "Engineering and Data Internships at Monzo ",
       "summary": "Hear directly from our engineering and data interns on why they applied to Monzo, how reality compared to their expectations, and what it's actually like to do high-impact work here.",
@@ -629,13 +636,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/07/26/switching-from-customer-service-representative-to-backend-engineer",
-      "title": "Switching from Customer Service Representative to Backend Engineer",
-      "summary": "Kyle joined Monzo as a COp, a customer service representative, but three years on he now works in a product team as one of our backend engineers! Kyle and his mentor Duncan share the story of how Kyle made his career switch",
-      "date_published": "2022-07-25T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/06/24/redefining-our-microservice-development-process",
       "title": "Redefining our microservice development process",
       "summary": "We've been working on some new techniques to help make the development of services easier as we continue to grow and the entire platform can't be run locally.",
@@ -654,6 +654,13 @@
       "title": "Humans who can RPC: securing staff access to 2000 microservices",
       "summary": "With over 2000 microservices and lots of Remote Procedure Calls (RPCs) that are constantly changing, we needed a new way to manage staff access. The Security Platform team explain how we now define RPC permissions directly in proto files.",
       "date_published": "2022-05-25T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/05/18/joining-monzo-as-a-data-scientist",
+      "title": "Joining Monzo as a Data Scientist",
+      "summary": "Izak joined Monzo as a data scientist in February. In this post, he shares his journey to Monzo and his early experience in the data discipline, with our data stack, and in the team looking after our Customer Operations.",
+      "date_published": "2022-05-17T00:00:00Z"
     },
     {
       "id": "",

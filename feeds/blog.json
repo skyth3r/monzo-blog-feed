@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/fca-ai-live-testing-insights",
+      "title": "Helping people save with AI: what we learned through the FCA's AI Live Testing programme",
+      "summary": "Monzo joined the first cohort of the Financial Conduct Authority's AI Live Testing programme to test a savings-focused AI assistant in controlled real-world conditions. Steve Martin, VP Engineering, shares what we learned.",
+      "date_published": "2026-09-21T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/engineering-and-data-internships-at-monzo",
       "title": "Engineering and Data Internships at Monzo ",
       "summary": "Hear directly from our engineering and data interns on why they applied to Monzo, how reality compared to their expectations, and what it's actually like to do high-impact work here.",
@@ -1637,13 +1644,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/07/26/switching-from-customer-service-representative-to-backend-engineer",
-      "title": "Switching from Customer Service Representative to Backend Engineer",
-      "summary": "Kyle joined Monzo as a COp, a customer service representative, but three years on he now works in a product team as one of our backend engineers! Kyle and his mentor Duncan share the story of how Kyle made his career switch",
-      "date_published": "2022-07-25T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/is-monzo-premium-worth-it",
       "title": "Is Monzo Premium worth it?",
       "summary": "Yes! Monzo Premium customers can save on average £64 a year on worldwide travel \u0026 phone insurance. Find out more about Monzo Premium's benefits.",
@@ -1739,6 +1739,13 @@
       "title": "Pellets not cannonballs: How we experiment at Monzo",
       "summary": "In Alex's first 6 months at Monzo, we ran 21 experiments. In this post, Alex explains how we design and run experiments, and how they help us improve the customer experience.",
       "date_published": "2022-05-23T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/05/18/joining-monzo-as-a-data-scientist",
+      "title": "Joining Monzo as a Data Scientist",
+      "summary": "Izak joined Monzo as a data scientist in February. In this post, he shares his journey to Monzo and his early experience in the data discipline, with our data stack, and in the team looking after our Customer Operations.",
+      "date_published": "2022-05-17T00:00:00Z"
     },
     {
       "id": "",
@@ -2834,13 +2841,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/3-practical-tips-to-reduce-daily-anxiety",
-      "title": "3 practical tips to reduce daily anxiety during lockdown",
-      "summary": "How to keep anxiety at bay, while life stays a bit strange.",
-      "date_published": "2020-05-17T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/5-practical-tips-for-feeling-less-lonely-in-lockdown",
       "title": "5 practical tips for feeling less lonely in lockdown",
       "summary": "How to feel less lonely, even though we might be spending a lot more time alone.",
@@ -2936,6 +2936,13 @@
       "title": "“How I beat my gambling addiction and started paying off £100,000 in debt” ",
       "summary": "Chris is a 38 year-old father of two from Essex who's in recovery after beating his gambling addiction.",
       "date_published": "2020-04-27T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/hmrc-scam",
+      "title": "What an HMRC scam looks like",
+      "summary": "Fraudsters are sending emails and texts pretending to be from the government. These scam messages can look and sound very convincing, so here's how to spot an HMRC tax scam.",
+      "date_published": "2020-04-24T00:00:00Z"
     },
     {
       "id": "",
@@ -5291,13 +5298,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2018/08/23/schedule-payments-out-of-pots",
-      "title": "Move money out of Pots automatically!",
-      "summary": "You can now move money out of Pots automatically, so you can spend it when you need it!",
-      "date_published": "2018-08-23T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2018/08/23/seven-day-switch",
       "title": "The 7-Day Switch! What happens when you switch to Monzo?",
       "summary": "Switching bank accounts can seem like a hassle, but the Current Account Switch Service makes it easy! Switching to Monzo only takes seven days - here's what happens on each one.",
@@ -5386,6 +5386,13 @@
       "title": "Student loans explained",
       "summary": "Planning to go to university? Then you may want a student loan to cover your tuition fees and maintenance costs. Here's how student loans work in England and Wales.",
       "date_published": "2018-08-10T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/08/09/things-to-consider-before-you-borrow-money",
+      "title": "Should you borrow money?",
+      "summary": "If you're thinking about borrowing money, here are seven things to consider first, like how much you need, what you can afford, and which lender to use.",
+      "date_published": "2018-08-09T00:00:00Z"
     },
     {
       "id": "",
