@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/what-to-do-if-you-need-help-looking-after-your-account",
+      "title": "What to do if you need help looking after your account",
+      "summary": "What is trusted access and how can it help support you or your loved ones when your living circumstances change? We break it all down for you in this blog.",
+      "date_published": "2026-09-28T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/fca-ai-live-testing-insights",
       "title": "Helping people save with AI: what we learned through the FCA's AI Live Testing programme",
       "summary": "Monzo joined the first cohort of the Financial Conduct Authority's AI Live Testing programme to test a savings-focused AI assistant in controlled real-world conditions. Steve Martin, VP Engineering, shares what we learned.",
@@ -24,13 +31,6 @@
       "title": "Interviewing for Credit at Monzo",
       "summary": "We want to be transparent about how we hire for Credit roles at Monzo, so you know what's coming and why we've designed things the way we have.",
       "date_published": "2026-09-09T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/what-to-do-if-you-need-help-looking-after-your-account",
-      "title": "What to do if you need help looking after your account",
-      "summary": "What is trusted access and how can it help support you or your loved ones when your living circumstances change? We break it all down for you in this blog.",
-      "date_published": "2026-08-27T00:00:00Z"
     },
     {
       "id": "",
