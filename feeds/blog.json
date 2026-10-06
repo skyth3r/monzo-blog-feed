@@ -923,13 +923,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2023/09/06/making-it-clear-when-were-on-a-call-with-you",
-      "title": "Making it clear when we're on a call with you to protect you from fraud",
-      "summary": "If someone calls you claiming to be from Monzo, you can now check to see if they're telling the truth or not in the Monzo app.",
-      "date_published": "2023-09-06T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2023/08/23/tech-leading-as-a-mobile-engineer-at-monzo",
       "title": "Tech leading as a mobile engineer at Monzo",
       "summary": "Mark has written about his experience and growth as a tech lead at Monzo over the last 18 months - from creeping doubts to using his mobile engineer's perspective to shape the role to his strengths",
@@ -1235,13 +1228,6 @@
       "title": "Business Instant Access Savings are here 🎉",
       "summary": "Introducing our all-new business Instant Access Savings Pot, grow your spare funds.",
       "date_published": "2023-04-13T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2023/03/29/were-helping-you-build-a-safety-net",
-      "title": "We're helping you build a safety net",
-      "summary": "Build a cash safety net to cover essential bills and costs, just in case you ever need it.",
-      "date_published": "2023-03-29T00:00:00Z"
     },
     {
       "id": "",
@@ -1767,13 +1753,6 @@
       "title": "Moving from Data Science into Machine Learning",
       "summary": "Rob joined Monzo as a Data Scientist, and recently moved into Machine Learning. Here's his journey!",
       "date_published": "2022-05-12T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2022/05/06/becoming-an-engineering-manager-1-year-in",
-      "title": "Becoming an Engineering Manager: 1 year in",
-      "summary": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
-      "date_published": "2022-05-05T00:00:00Z"
     },
     {
       "id": "",
@@ -4199,7 +4178,7 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2019/06/14/monzo-most-asked-questions",
+      "url": "https://monzo.com/blog/2022/05/06/becoming-an-engineering-manager-1-year-in",
       "title": "Your 31 most-asked questions about Monzo, answered",
       "summary": "We took to Google to find out what Monzo-related questions you've been searching the internet for.",
       "date_published": "2019-06-13T00:00:00Z"
@@ -4370,13 +4349,6 @@
       "url": "https://monzo.com/blog/2019/05/15/national-numeracy-challenge",
       "title": "Take the National Numeracy Challenge!",
       "summary": "This National Numeracy Day, put your skills to the test and get more confident with numbers.",
-      "date_published": "2019-05-15T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2019/05/15/supporting-mental-health",
-      "title": "An update on how we're supporting mental health",
-      "summary": "If your mental health affects the way you manage your money, you might want to tell us. So we can support you in a way that suits your needs.",
       "date_published": "2019-05-15T00:00:00Z"
     },
     {
