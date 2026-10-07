@@ -1199,6 +1199,15 @@
     "Link": "https://monzo.com/blog/2023/09/12/the-skadnetwork-puzzle-using-data-to-solve-for-effective-performance/"
   },
   {
+    "PubDate": "2023-09-06T00:00:00Z",
+    "Description": "If someone calls you claiming to be from Monzo, you can now check to see if they're telling the truth or not in the Monzo app.",
+    "Tags": [
+      "How We Protect You"
+    ],
+    "Title": "Making it clear when we're on a call with you to protect you from fraud",
+    "Link": "https://monzo.com/blog/2023/09/06/making-it-clear-when-were-on-a-call-with-you"
+  },
+  {
     "PubDate": "2023-08-31T00:00:00Z",
     "Description": "Mark has written about his experience and growth as a tech lead at Monzo over the last 18 months - from creeping doubts to using his mobile engineer's perspective to shape the role to his strengths",
     "Tags": [
@@ -1595,6 +1604,16 @@
     ],
     "Title": "Business Instant Access Savings are here 🎉",
     "Link": "https://monzo.com/blog/2023/04/13/business-instant-access-savings-are-here"
+  },
+  {
+    "PubDate": "2023-03-29T00:00:00Z",
+    "Description": "Build a cash safety net to cover essential bills and costs, just in case you ever need it.",
+    "Tags": [
+      "Pots",
+      "Product Updates"
+    ],
+    "Title": "We're helping you build a safety net",
+    "Link": "https://monzo.com/blog/2023/03/29/were-helping-you-build-a-safety-net"
   },
   {
     "PubDate": "2023-03-28T00:00:00Z",
@@ -2283,6 +2302,15 @@
     ],
     "Title": "Moving from Data Science into Machine Learning",
     "Link": "https://monzo.com/blog/2022/05/13/moving-from-data-science-into-machine-learning"
+  },
+  {
+    "PubDate": "2022-05-05T00:00:00Z",
+    "Description": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Becoming an Engineering Manager: 1 year in",
+    "Link": "https://monzo.com/blog/2022/05/06/becoming-an-engineering-manager-1-year-in"
   },
   {
     "PubDate": "2022-05-04T00:00:00Z",
@@ -5528,7 +5556,7 @@
       "How Money Works"
     ],
     "Title": "Your 31 most-asked questions about Monzo, answered",
-    "Link": "https://monzo.com/blog/2022/05/06/becoming-an-engineering-manager-1-year-in"
+    "Link": "https://monzo.com/blog/2019/06/14/monzo-most-asked-questions"
   },
   {
     "PubDate": "2019-06-11T00:00:00Z",
@@ -5749,6 +5777,15 @@
     ],
     "Title": "Take the National Numeracy Challenge!",
     "Link": "https://monzo.com/blog/2019/05/15/national-numeracy-challenge"
+  },
+  {
+    "PubDate": "2019-05-15T00:00:00Z",
+    "Description": "If your mental health affects the way you manage your money, you might want to tell us. So we can support you in a way that suits your needs.",
+    "Tags": [
+      "Mental Health"
+    ],
+    "Title": "An update on how we're supporting mental health",
+    "Link": "https://monzo.com/blog/2019/05/15/supporting-mental-health"
   },
   {
     "PubDate": "2019-05-13T00:00:00Z",

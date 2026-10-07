@@ -884,6 +884,15 @@
     "Link": "https://monzo.com/blog/2022/05/16/how-we-deploy-to-production-over-100-times-a-day"
   },
   {
+    "PubDate": "2022-05-05T00:00:00Z",
+    "Description": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "Becoming an Engineering Manager: 1 year in",
+    "Link": "https://monzo.com/blog/2022/05/06/becoming-an-engineering-manager-1-year-in"
+  },
+  {
     "PubDate": "2022-04-20T00:00:00Z",
     "Description": "Our Mobile Platform team recently faced the challenge of having to remove all synthetic view properties. This post explains how we built a tool to automate the task and the trade-offs we had to consider along the way.",
     "Tags": [

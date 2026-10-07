@@ -678,6 +678,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2022/05/06/becoming-an-engineering-manager-1-year-in",
+      "title": "Becoming an Engineering Manager: 1 year in",
+      "summary": "Last year, I made the switch into engineering management full time. It's been an interesting journey with lots of lessons learned.",
+      "date_published": "2022-05-05T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/04/20/how-our-android-engineers-automated-the-removal-of-kotlin-synthetics",
       "title": "How our Android engineers automated the removal of Kotlin synthetics",
       "summary": "Our Mobile Platform team recently faced the challenge of having to remove all synthetic view properties. This post explains how we built a tool to automate the task and the trade-offs we had to consider along the way.",
