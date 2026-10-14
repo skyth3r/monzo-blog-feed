@@ -118,6 +118,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/best-value-festivals",
+      "title": "The best value UK summer festivals: where to get the most bangers for your buck",
+      "summary": "We've crunched the numbers on UK festivals, from the line-up and the headliners to the ticket prices. Find out where you'll get the most bangers for your buck.",
+      "date_published": "2026-05-17T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/our-2026-diversity-and-inclusion-report",
       "title": "Our 2026 Diversity and Inclusion Report ",
       "summary": "Read our 2026 Diversity and Inclusion report to find out what we're doing to create an environment where everyone can belong.",
@@ -447,13 +454,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/an-update-on-our-gender-pay-gap-2024",
-      "title": "Gender Pay Gap report 2024",
-      "summary": "Between 5 April 2023 and 5 April 2024, our median gender pay gap reduced from 8.1% to 6.3%.",
-      "date_published": "2025-02-04T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/preparing-for-mobile-interviews-at-monzo",
       "title": "Preparing for Mobile Interviews at Monzo",
       "summary": "Our mobile interview process is designed to learn about your strengths. The post explains the specific skills and abilities that will make you successful in the role and what to expect in the interview process.",
@@ -556,6 +556,13 @@
       "title": "We built a better system for scheduling cron jobs",
       "summary": "We built a system to define scheduled jobs that moves away from cron and adds support for timezones, better monitoring and a more delightful developer experience",
       "date_published": "2024-09-18T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/how-we-cut-time-to-sign-up-for-monzo-us-from-17-minutes-to-4-minutes",
+      "title": "How we cut time to sign up for Monzo US from 17 minutes to 4 minutes",
+      "summary": "This blog talks about how our Monzo US team revamped the signup process for customers by experimenting with signup funnel improvements, increasing the rate of completion by a massive 400%",
+      "date_published": "2024-09-04T00:00:00Z"
     },
     {
       "id": "",
@@ -787,13 +794,6 @@
       "title": "Building Year in Monzo - as told by engineering",
       "summary": "We've shared the behind the scenes insights into how we wrote 5 million Years in Monzo, and the magic behind the data. Now we're going to dig into how we turned this data into the Year in Monzo experience you know and love.",
       "date_published": "2023-12-22T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/how-we-built-year-in-monzo-unlocking-the-data-magic",
-      "title": "How we built Year in Monzo: unlocking the data magic ✨",
-      "summary": "Several months back, we got our heads together and started dreaming up Year in Monzo 2023. Here's the data team's story about how we get to where we are today.",
-      "date_published": "2023-12-20T00:00:00Z"
     },
     {
       "id": "",
@@ -1119,6 +1119,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/managing-money-group-holidays-monzo",
+      "title": "4 easy ways to make money stress-free on your next group holiday",
+      "summary": "For a stress-free trip with friends or family this summer, here are four ways to cut the risk of friction around finances.",
+      "date_published": "2023-06-07T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/pay-not-to-be-there-challenge-save-money",
       "title": "The ‘pay not to be there' challenge could save you over £500 in six months",
       "summary": "The cost of an average night out is rising. Here's one easy way to bring your monthly costs down.",
@@ -1217,13 +1224,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/monzo-pots-for-pets-cats",
-      "title": "“I have 4 Monzo Pots just for my pets”",
-      "summary": "Cat-lover Gemma, 31, uses Pots to make sure Marmite and Twiglet live their best lives.",
-      "date_published": "2023-04-25T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/managing-money-with-pets",
       "title": "Six tips for managing your money for your pets - so they can live their best lives",
       "summary": "We all want to be able to give our pets the lives they deserve.",
@@ -1319,6 +1319,13 @@
       "title": "How to set up a Future You Fund for life's little surprises",
       "summary": "A Future You Fund is money outside your budget that goes towards surprises expenses. Here's how to set one up. Your future self will thank you.",
       "date_published": "2023-03-01T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2023/02/23/manage-your-money-minimal-effort",
+      "title": "How to manage your money if you'd rather not think about it",
+      "summary": "If you're short on time and/or energy, try these hacks to reach your money goals with minimal effort.",
+      "date_published": "2023-02-24T00:00:00Z"
     },
     {
       "id": "",
@@ -1437,13 +1444,6 @@
       "url": "https://monzo.com/blog/small-change-manage",
       "title": "Small changes to make with your money (Part 1)",
       "summary": "Small Change is a new series of ideas we're sharing to help you stay on top of your money and make it go a little further. First up: getting more visibility on your money.",
-      "date_published": "2023-01-09T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/small-change-save",
-      "title": "Small changes to make with your money (Part 3)",
-      "summary": "Small Change is a new series of ideas we're sharing to help you stay on top of your money and make it go a little further. Our final blog post is all about saving.",
       "date_published": "2023-01-09T00:00:00Z"
     },
     {
@@ -1634,6 +1634,13 @@
       "title": "A better way to see how your money's trending is here",
       "summary": "There's a new line graph that makes it a breeze to keep track of your balance so you don't feel short at the end of the month. Find out more",
       "date_published": "2022-08-16T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2022/08/05/scaling-our-security-detection-pipeline-with-sigma",
+      "title": "Scaling our security detection pipeline with Sigma",
+      "summary": "Detective controls help us monitor our systems for unwanted behaviour, but since writing our first detection rules, our company and team has grown. This post explains how we scaled those detection rules using Sigma and have open sourced our tooling.",
+      "date_published": "2022-08-04T00:00:00Z"
     },
     {
       "id": "",
@@ -2106,62 +2113,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2021/09/15/how-we-measure-software-excellence",
-      "title": "How we've started to measure 'software excellence' ",
-      "summary": "We're experimenting with ways to measure, track, and improve the quality of our software.",
-      "date_published": "2021-09-15T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2021/09/16/monzo-flex",
-      "title": "Introducing Monzo Flex - it's credit with a dash of Monzo magic",
-      "summary": "Monzo Flex is here! Get more time to pay pretty much anywhere you use Monzo, on pretty much anything you want. With one application and a pre-agreed credit limit, all in your Monzo app.",
-      "date_published": "2021-09-15T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/i-started-my-dream-business-and-became-my-own-boss-during-the-pandemic",
-      "title": "'I started my dream business and became my own boss during lockdown'",
-      "summary": "27-year-old Londoner Alexandra quit her marketing job to launch a candle business at the height of the pandemic. And thanks to some savvy saving, prudent budgeting and a practical business bank account, she hasn't looked back.",
-      "date_published": "2021-08-26T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/how-to-successfully-run-your-own-design-input-sessions",
-      "title": "How to successfully run your own 'design input' sessions",
-      "summary": "Product designer Dom breaks down our Design team's secrets to running an effective 'design input' session.",
-      "date_published": "2021-08-25T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/why-you-should-run-design-input-sessions",
-      "title": "Why your design team should run 'design input' sessions",
-      "summary": "Discipline-wide, remote-friendly sessions where product designers, user researchers, brand designers and design directors all bring their knowledge to the table to help provide valuable feedback to work in progress.",
-      "date_published": "2021-08-25T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2021/08/12/monzo-business-invoicing",
-      "title": "5 ways to save time with Monzo Business invoicing",
-      "summary": "Getting paid is fun. But often, what goes on behind the scenes isn't. Here's how Monzo Business invoices can make your life better!",
-      "date_published": "2021-08-12T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2021/08/10/spinning-up-an-analytics-engineering-team",
-      "title": "Spinning up an Analytics Engineering Team",
-      "summary": "We've formed a new Analytics Engineering team to define what great Data looks like at Monzo, and power up teams to do great work.",
-      "date_published": "2021-08-09T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/the-human-impact-of-late-payments-on-small-businesses",
-      "title": "The human impact of late payments on small businesses",
-      "summary": "Paying small businesses late isn't just about the money, it can have a real impact on people's mental health too.",
-      "date_published": "2021-07-21T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/new-international-transfers/",
       "title": "Improved international transfers, powered by Wise",
       "summary": "It's typically lower cost and easier to make an international transfer with Monzo than with high street banks.",
@@ -2617,6 +2568,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/introducing-monzo-premium",
+      "title": "Introducing Monzo Premium",
+      "summary": "We're launching Monzo Premium - banking that makes a statement with our white metal card. Get phone and worldwide travel insurance, interest on your balance and regular Pots, and much, much more.",
+      "date_published": "2020-10-16T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2020/10/13/innovators-in-economics",
       "title": "Ismail Ahmed \u0026 Edith Cooper: Innovators in Economics",
       "summary": "This Black History Month we're focussing on the lesser-told stories of prominent Black figures in the history of finance. This post focuses on Ismail Ahmed \u0026 Edith Cooper.",
@@ -2750,13 +2708,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/introducing-monzo-plus",
-      "title": "Introducing Monzo Plus",
-      "summary": "We're launching Monzo Plus to help you get full financial visibility, with your other bank accounts and credit cards all in one place. Get interest on your money, personalised budgeting and so much more.",
-      "date_published": "2020-07-15T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/we-sent-our-house-deposit-to-a-fraudster-who-posed-as-our-lawyer",
       "title": "“I sent our £23,000 house deposit to a fraudster who posed as our lawyer”",
       "summary": "55-year-old Richard from Essex was preparing to buy a home with his partner, when a scammer tricked the couple out of the thousands they'd saved up for their house deposit with a very convincing scam.",
@@ -2855,6 +2806,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/5-practical-tips-for-feeling-less-lonely-in-lockdown",
+      "title": "5 practical tips for feeling less lonely in lockdown",
+      "summary": "How to feel less lonely, even though we might be spending a lot more time alone.",
+      "date_published": "2020-05-17T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/how-we-moved-our-faster-payments-connection-in-house",
       "title": "How we moved our Faster Payments connection in-house",
       "summary": "Our in-house Faster Payments gateway has been running since November 2019. This is a comprehensive insight into how we built it.",
@@ -2936,13 +2894,6 @@
       "title": "See how fraudsters run phishing scams, so you can learn to spot their tricks",
       "summary": "See how fraudsters run phishing scams, so you can learn to spot their tricks.",
       "date_published": "2020-04-28T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/how-monzos-gambling-block-and-self-exclusion-helped-me-beat-gambling-addiction-and-pay-off-debt",
-      "title": "“How I beat my gambling addiction and started paying off £100,000 in debt” ",
-      "summary": "Chris is a 38 year-old father of two from Essex who's in recovery after beating his gambling addiction.",
-      "date_published": "2020-04-27T00:00:00Z"
     },
     {
       "id": "",
@@ -3257,6 +3208,13 @@
       "url": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account",
       "title": "How to switch to Monzo without closing your old bank account",
       "summary": "A lot of you have told us you want to switch everything across and make Monzo your main bank account, but you want to keep your old bank account open. Here's how to do just that!",
+      "date_published": "2020-01-08T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/how-to-get-a-loan-with-bad-credit",
+      "title": "Loans for bad credit - find out how to improve your chances",
+      "summary": "Find out what a 'bad' credit score means and how you could try to improve it if you have one!",
       "date_published": "2020-01-08T00:00:00Z"
     },
     {
@@ -4150,13 +4108,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2019/06/27/trending-spending-west-london",
-      "title": "Trending Spending: West London",
-      "summary": "What's trending in West London last month. Your favourite bars, best coffee shops, and brand new restaurants you're obsessed with - these are the places the Monzo community love.",
-      "date_published": "2019-06-26T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2019/06/24/business-banking-update",
       "title": "The future of Monzo Business Accounts",
       "summary": "We're slowly starting to offer more accounts. And we're launching a transparent product roadmap so you can keep track of what we're building!",
@@ -4318,6 +4269,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2019/05/23/protect-yourself-agains-app-fraud",
+      "title": "How to protect yourself against APP fraud",
+      "summary": "Authorised push payment (APP) fraud is where someone tricks you into sending them money from your bank account. Here are some tips how to avoid being a victim.",
+      "date_published": "2019-05-23T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2019/05/23/save-money-to-afford-a-holiday",
       "title": "Could rounding-up your spending help you afford your next holiday?",
       "summary": "Rounding up your purchases to the nearest pound and saving the spare change is helping more than 380,000 people save money!",
@@ -4402,13 +4360,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2019/05/08/money-in-love-rosie-alex",
-      "title": "Money in Love: Rosie \u0026 Alex",
-      "summary": "Twenty-something couple Rosie and Alex are working to pay off debts that amount to £15,000 between them.",
-      "date_published": "2019-05-08T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2019/05/07/how-to-save-money-with-monzo",
       "title": "How to save money with Monzo",
       "summary": "A definitive guide to all the ways you can use Monzo to save money, earn interest and achieve your savings goals.",
@@ -4476,6 +4427,13 @@
       "title": "Money in Love: Sian \u0026 Matt",
       "summary": "Loughborough students Sian and Matt explain how they live off loans, overdrafts and credit cards, and share the post-uni plans they're making together.",
       "date_published": "2019-04-18T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2019/04/11/custom-pot-images-android",
+      "title": "You can now add your own images to Pots on both Android and iOS",
+      "summary": "And let's just say we love your work.",
+      "date_published": "2019-04-11T00:00:00Z"
     },
     {
       "id": "",
@@ -4591,13 +4549,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2019/03/19/improving-our-staff-VPN",
-      "title": "How we improved our staff VPN",
-      "summary": "OpenVPN is great, but there were some things we wanted to change.",
-      "date_published": "2019-03-19T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2019/03/18/a-trick-to-stop-you-spending-your-savings",
       "title": "Try this one trick to stop yourself spending your savings",
       "summary": "Always dipping into your savings? Nudge yourself out of the habit by using your guilt to your own advantage.",
@@ -4710,6 +4661,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2019/02/14/saving-money-when-youre-broke",
+      "title": "How to save when you have no money",
+      "summary": "Saving money can seem impossible when you're always broke.",
+      "date_published": "2019-02-14T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2019/02/13/february-monthly-update",
       "title": "Monzo Monthly Update: February 2019",
       "summary": "From improving Golden Tickets to making paying people even easier, we released a bunch of new and exciting things last month!",
@@ -4784,13 +4742,6 @@
       "title": "Pay anyone, with just a link",
       "summary": "Paying people just got easier. You can now pay anyone with just a link!",
       "date_published": "2019-02-04T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2019/02/01/bill-splitting",
-      "title": "How to use Monzo to split bills",
-      "summary": "Going Dutch on dinner or doing the shared shop for your flat? Use Monzo to get people to pay you back easily.",
-      "date_published": "2019-02-01T00:00:00Z"
     },
     {
       "id": "",
@@ -4969,13 +4920,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2018/12/11/december-update",
-      "title": "Monzo Monthly Update: December",
-      "summary": "We take a look at the progress we've made so far, and explain what's in store for the rest of the month.",
-      "date_published": "2018-12-11T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2018/12/11/design-files-system",
       "title": "Why you should care about keeping your design files clean",
       "summary": "Organising your design files is crucial if you want to work quickly and collaborate effectively as you grow. We've explained the way our system works and made our tooling open source so you can use it too!",
@@ -5130,6 +5074,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2018/11/02/monzo-chat",
+      "title": "Introducing Monzo Chat",
+      "summary": "So we can keep making Monzo customer support even better, we've built our own software to manage chats in the app.",
+      "date_published": "2018-11-02T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2018/11/01/savings-pots",
       "title": "Get interest paid on your savings!",
       "summary": "Savings Pots let you earn interest on your savings through Monzo. And we're starting to roll them out today!",
@@ -5214,6 +5165,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2018/10/01/october-update",
+      "title": "Monzo Monthly Update: October",
+      "summary": "From making our iOS app faster, to adding the option to pay cash into your Monzo account, we take a look at the progress we've made in September, and explain what's in store for October.",
+      "date_published": "2018-10-01T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2018/09/25/share-with-us",
       "title": "Share with us",
       "summary": "When something affects the way you manage your money, if you let us know we'll do everything we can do support you. So we've added a tool called ‘Share with us' that lets you tell us what's happening through the Monzo app.",
@@ -5256,13 +5214,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2018/09/07/ba-data-breach",
-      "title": "The British Airways data breach: How Monzo responded",
-      "summary": "Last night British Airways announced that the personal and financial details of their customers had been stolen. We identified the 1,300 Monzo customers who've been affected, and ordered them replacement cards as a precaution.",
-      "date_published": "2018-09-07T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2018/09/05/monzo-bank-statements",
       "title": "How to get a bank statement from Monzo",
       "summary": "You can download bank statements for any month from the Monzo app!",
@@ -5301,13 +5252,6 @@
       "url": "https://monzo.com/blog/2018/08/23/schedule-payments-out-of-pots",
       "title": "Move money out of Pots automatically!",
       "summary": "You can now move money out of Pots automatically, so you can spend it when you need it!",
-      "date_published": "2018-08-23T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2018/08/23/seven-day-switch",
-      "title": "The 7-Day Switch! What happens when you switch to Monzo?",
-      "summary": "Switching bank accounts can seem like a hassle, but the Current Account Switch Service makes it easy! Switching to Monzo only takes seven days - here's what happens on each one.",
       "date_published": "2018-08-23T00:00:00Z"
     },
     {
@@ -5865,6 +5809,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2018/04/09/making-overdrafts-available",
+      "title": "Overdrafts are coming!",
+      "summary": "We've begun giving more of you the option to use an overdraft. Here's everything you need to know about how they work and how to get one.",
+      "date_published": "2018-04-09T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2018/04/05/april-update",
       "title": "Monzo Monthly Update: April",
       "summary": "From reaching half a million current accounts, to making more overdrafts available, we take a look at the progress we've made in March, and explain what's in store for April.",
@@ -6289,13 +6240,6 @@
       "title": "Designing a product with mental health issues in mind",
       "summary": "How we're designing Monzo to be a powerful and unique financial service for our most vulnerable customers.",
       "date_published": "2017-01-27T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2017/01/26/our-new-community-page",
-      "title": "Introducing Our New Community Page",
-      "summary": "Our new home for all things Community at Monzo!",
-      "date_published": "2017-01-26T00:00:00Z"
     },
     {
       "id": "",

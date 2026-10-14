@@ -321,6 +321,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/how-we-cut-time-to-sign-up-for-monzo-us-from-17-minutes-to-4-minutes",
+      "title": "How we cut time to sign up for Monzo US from 17 minutes to 4 minutes",
+      "summary": "This blog talks about how our Monzo US team revamped the signup process for customers by experimenting with signup funnel improvements, increasing the rate of completion by a massive 400%",
+      "date_published": "2024-09-04T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/how-we-run-migrations-across-2800-microservices",
       "title": "How we run migrations across 2,800 microservices",
       "summary": "We've got a lot of value from our microservices architecture (2,800 and counting!), but this architecture is not without its challenges. One of those challenges is how to make sweeping library changes across all those services.",
@@ -636,6 +643,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2022/08/05/scaling-our-security-detection-pipeline-with-sigma",
+      "title": "Scaling our security detection pipeline with Sigma",
+      "summary": "Detective controls help us monitor our systems for unwanted behaviour, but since writing our first detection rules, our company and team has grown. This post explains how we scaled those detection rules using Sigma and have open sourced our tooling.",
+      "date_published": "2022-08-04T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2022/07/26/switching-from-customer-service-representative-to-backend-engineer",
       "title": "Switching from Customer Service Representative to Backend Engineer",
       "summary": "Kyle joined Monzo as a COp, a customer service representative, but three years on he now works in a product team as one of our backend engineers! Kyle and his mentor Duncan share the story of how Kyle made his career switch",
@@ -790,13 +804,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2021/09/15/how-we-measure-software-excellence",
-      "title": "How we've started to measure 'software excellence' ",
-      "summary": "We're experimenting with ways to measure, track, and improve the quality of our software.",
-      "date_published": "2021-09-15T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/lessons-from-implementing-progression-frameworks-at-scale",
       "title": "Lessons from implementing engineering progression frameworks at scale",
       "summary": "We introduced the first progression framework for engineers about three years ago. But as the engineering organisation has changed, we found it was hurting, not helping career conversations at Monzo. This is what we did to fix it.",
@@ -920,13 +927,6 @@
       "title": "We deployed Envoy Proxy to make Monzo faster",
       "summary": "We moved our remote procedure call (RPC) service mesh from Linkerd to Envoy to make Monzo faster.",
       "date_published": "2019-04-03T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2019/03/19/improving-our-staff-VPN",
-      "title": "How we improved our staff VPN",
-      "summary": "OpenVPN is great, but there were some things we wanted to change.",
-      "date_published": "2019-03-19T00:00:00Z"
     },
     {
       "id": "",
