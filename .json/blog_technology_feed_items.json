@@ -413,15 +413,6 @@
     "Link": "https://monzo.com/blog/how-we-cut-time-to-sign-up-for-monzo-us-from-17-minutes-to-4-minutes"
   },
   {
-    "PubDate": "2024-09-04T00:00:00Z",
-    "Description": "This blog talks about how our Monzo US team revamped the signup process for customers by experimenting with signup funnel improvements, increasing the rate of completion by a massive 400%",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "How we cut time to sign up for Monzo US from 17 minutes to 4 minutes",
-    "Link": "https://monzo.com/blog/how-we-cut-time-to-sign-up-for-monzo-us-from-17-minutes-to-4-minutes"
-  },
-  {
     "PubDate": "2024-08-26T00:00:00Z",
     "Description": "We've got a lot of value from our microservices architecture (2,800 and counting!), but this architecture is not without its challenges. One of those challenges is how to make sweeping library changes across all those services.",
     "Tags": [
@@ -837,16 +828,6 @@
     "Link": "https://monzo.com/blog/2022/08/05/scaling-our-security-detection-pipeline-with-sigma"
   },
   {
-    "PubDate": "2022-08-04T00:00:00Z",
-    "Description": "Detective controls help us monitor our systems for unwanted behaviour, but since writing our first detection rules, our company and team has grown. This post explains how we scaled those detection rules using Sigma and have open sourced our tooling.",
-    "Tags": [
-      "Technology",
-      "Security"
-    ],
-    "Title": "Scaling our security detection pipeline with Sigma",
-    "Link": "https://monzo.com/blog/2022/08/05/scaling-our-security-detection-pipeline-with-sigma"
-  },
-  {
     "PubDate": "2022-07-25T00:00:00Z",
     "Description": "Kyle joined Monzo as a COp, a customer service representative, but three years on he now works in a product team as one of our backend engineers! Kyle and his mentor Duncan share the story of how Kyle made his career switch",
     "Tags": [
@@ -1054,6 +1035,15 @@
     "Link": "https://monzo.com/blog/2021/09/30/documenting-pull-requests-is-as-important-as-writing-good-code"
   },
   {
+    "PubDate": "2021-09-15T00:00:00Z",
+    "Description": "We're experimenting with ways to measure, track, and improve the quality of our software.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How we've started to measure 'software excellence' ",
+    "Link": "https://monzo.com/blog/2021/09/15/how-we-measure-software-excellence"
+  },
+  {
     "PubDate": "2021-04-22T00:00:00Z",
     "Description": "We introduced the first progression framework for engineers about three years ago. But as the engineering organisation has changed, we found it was hurting, not helping career conversations at Monzo. This is what we did to fix it.",
     "Tags": [
@@ -1214,6 +1204,15 @@
     ],
     "Title": "We deployed Envoy Proxy to make Monzo faster",
     "Link": "https://monzo.com/blog/2019/04/03/deploying-envoy-proxy"
+  },
+  {
+    "PubDate": "2019-03-19T00:00:00Z",
+    "Description": "OpenVPN is great, but there were some things we wanted to change.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How we improved our staff VPN",
+    "Link": "https://monzo.com/blog/2019/03/19/improving-our-staff-VPN"
   },
   {
     "PubDate": "2019-02-11T00:00:00Z",
