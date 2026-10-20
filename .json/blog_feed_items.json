@@ -631,6 +631,15 @@
     "Link": "https://monzo.com/blog/credit-scores/check-your-score"
   },
   {
+    "PubDate": "2025-01-06T00:00:00Z",
+    "Description": "Checking your credit score can help you find out what your borrowing health is like and how you might look to potential lenders. We've outlined how to check your credit score!",
+    "Tags": [
+      "Credit scores"
+    ],
+    "Title": "How to check your credit score",
+    "Link": "https://monzo.com/blog/credit-scores/check-your-score"
+  },
+  {
     "PubDate": "2024-12-18T00:00:00Z",
     "Description": "Nothing brings us more joy than roasting and celebrating millions of people for their spending habits, so we're here to break down exactly how we did it.",
     "Tags": [
@@ -3993,15 +4002,6 @@
     "Link": "https://monzo.com/blog/2019/09/18/tax-free-savings-allowance"
   },
   {
-    "PubDate": "2020-04-07T00:00:00Z",
-    "Description": "If you're shopping online more during the lockdown, you could be more at risk of falling victim to fraud.",
-    "Tags": [
-      "How We Protect You"
-    ],
-    "Title": "How to shop online safely with Monzo",
-    "Link": "https://monzo.com/blog/how-to-shop-online-safely-with-monzo"
-  },
-  {
     "PubDate": "2020-04-05T00:00:00Z",
     "Description": "We recently finished a major networking project which let us control internal traffic in our platform. And we've been thinking about how we can add similar security to network traffic leaving our platform.",
     "Tags": [
@@ -4321,16 +4321,6 @@
     ],
     "Title": "How to switch to Monzo without closing your old bank account",
     "Link": "https://monzo.com/blog/2020-01-01/switch-to-monzo-without-closing-your-old-account"
-  },
-  {
-    "PubDate": "2020-01-08T00:00:00Z",
-    "Description": "Find out what a 'bad' credit score means and how you could try to improve it if you have one!",
-    "Tags": [
-      "How Money Works",
-      "Loans Help"
-    ],
-    "Title": "Loans for bad credit - find out how to improve your chances",
-    "Link": "https://monzo.com/blog/how-to-get-a-loan-with-bad-credit"
   },
   {
     "PubDate": "2020-01-01T00:00:00Z",
@@ -4701,6 +4691,17 @@
   },
   {
     "PubDate": "2019-11-11T00:00:00Z",
+    "Description": "Stay in control of your spending with our budgeting guide for students. We've explained how to calculate a budget, set spending allowances and stick to them. Plus, we have some handy tips for saving and earning money at uni.",
+    "Tags": [
+      "How Money Works",
+      "Savings Account Guides",
+      "How to Save Money"
+    ],
+    "Title": "How to save money as a student",
+    "Link": "https://monzo.com/blog/2018/09/11/student-budgeting-tips"
+  },
+  {
+    "PubDate": "2019-11-11T00:00:00Z",
     "Description": "We added instant notifications back in 2015. And since then some of the big banks have followed our lead! But there are still quite a few Monzo features that your old bank doesn't have.",
     "Tags": [
       "Monzo 101"
@@ -4830,6 +4831,15 @@
   },
   {
     "PubDate": "2019-10-24T00:00:00Z",
+    "Description": "The definitive list of game-changing Monzo features.",
+    "Tags": [
+      "Monzo 101"
+    ],
+    "Title": "9 Monzo features and why you need them",
+    "Link": "https://monzo.com/blog/2019/10/24/9-monzo-features-and-why-you-need-them"
+  },
+  {
+    "PubDate": "2019-10-24T00:00:00Z",
     "Description": "Your big day can come with a big price tag - the average UK couple spent £31.9k on a wedding in 2019! But planning ahead can help you save up and cut costs.",
     "Tags": [
       "How Money Works",
@@ -4933,6 +4943,15 @@
   },
   {
     "PubDate": "2019-10-10T00:00:00Z",
+    "Description": "Excited to see what you've earned? Want to make sure you're being taxed right? Learn the language of payslips with our comprehensive guide.",
+    "Tags": [
+      "How Money Works"
+    ],
+    "Title": "Understanding your payslip",
+    "Link": "https://monzo.com/blog/2018/09/26/how-to-read-your-payslip"
+  },
+  {
+    "PubDate": "2019-10-10T00:00:00Z",
     "Description": "Pay off debt, save for the future and control your spending with a 50/20/30 budget. Here's how to create one in four steps.",
     "Tags": [
       "How Money Works",
@@ -4996,15 +5015,6 @@
     ],
     "Title": "38 times you absolutely hated Monzo",
     "Link": "https://monzo.com/blog/2019/10/14/39-times-you-absolutely-hated-monzo"
-  },
-  {
-    "PubDate": "2019-09-30T00:00:00Z",
-    "Description": "'LockYourPot-tober' is a challenge where you keep your money locked in a Pot until the end of the month.",
-    "Tags": [
-      "How Money Works"
-    ],
-    "Title": "‘LockYourPot-tober': The new saving challenge to help manage your money this October",
-    "Link": "https://monzo.com/blog/2019/09/30/what-is-locktober"
   },
   {
     "PubDate": "2019-09-26T00:00:00Z",
@@ -5438,70 +5448,6 @@
     ],
     "Title": "How much are you spending on going out?",
     "Link": "https://monzo.com/blog/2019/07/01/how-much-are-we-spending-on-going-out"
-  },
-  {
-    "PubDate": "2019-06-26T00:00:00Z",
-    "Description": "What's trending in Central London last month. Your favourite bars, best coffee shops, and brand new restaurants you're obsessed with - these are the places the Monzo community love.",
-    "Tags": [
-      "Trending Spending"
-    ],
-    "Title": "Trending Spending: Central London",
-    "Link": "https://monzo.com/blog/2019/06/27/trending-spending-central-london"
-  },
-  {
-    "PubDate": "2019-06-26T00:00:00Z",
-    "Description": "What's trending in East London last month. Your favourite bars, best coffee shops, and brand new restaurants you're obsessed with - these are the places the Monzo community love.",
-    "Tags": [
-      "Trending Spending"
-    ],
-    "Title": "Trending Spending: East London",
-    "Link": "https://monzo.com/blog/2019/06/27/trending-spending-east-london"
-  },
-  {
-    "PubDate": "2019-06-26T00:00:00Z",
-    "Description": "What's trending in London last month. Your favourite bars, best coffee shops, and brand new restaurants you're obsessed with - these are the places the Monzo community love.",
-    "Tags": [
-      "Trending Spending",
-      "Data"
-    ],
-    "Title": "Trending Spending: London",
-    "Link": "https://monzo.com/blog/2019/06/27/trending-spending-london"
-  },
-  {
-    "PubDate": "2019-06-26T00:00:00Z",
-    "Description": "What's trending in North London last month. Your favourite bars, best coffee shops, and brand new restaurants you're obsessed with - these are the places the Monzo community love.",
-    "Tags": [
-      "Trending Spending"
-    ],
-    "Title": "Trending Spending: North London",
-    "Link": "https://monzo.com/blog/2019/06/27/trending-spending-north-london"
-  },
-  {
-    "PubDate": "2019-06-26T00:00:00Z",
-    "Description": "What's trending in South East London last month. Your favourite bars, best coffee shops, and brand new restaurants you're obsessed with - these are the places the Monzo community love.",
-    "Tags": [
-      "Trending Spending"
-    ],
-    "Title": "Trending Spending: South East London",
-    "Link": "https://monzo.com/blog/2019/06/27/trending-spending-south-east-london"
-  },
-  {
-    "PubDate": "2019-06-26T00:00:00Z",
-    "Description": "What's trending in South West London last month. Your favourite bars, best coffee shops, and brand new restaurants you're obsessed with - these are the places the Monzo community love.",
-    "Tags": [
-      "Trending Spending"
-    ],
-    "Title": "Trending Spending: South West London",
-    "Link": "https://monzo.com/blog/2019/06/27/trending-spending-south-west-london"
-  },
-  {
-    "PubDate": "2019-06-26T00:00:00Z",
-    "Description": "What's trending in West London last month. Your favourite bars, best coffee shops, and brand new restaurants you're obsessed with - these are the places the Monzo community love.",
-    "Tags": [
-      "Trending Spending"
-    ],
-    "Title": "Trending Spending: West London",
-    "Link": "https://monzo.com/blog/2019/06/27/trending-spending-west-london"
   },
   {
     "PubDate": "2019-06-23T00:00:00Z",
@@ -6873,6 +6819,15 @@
     "Link": "https://monzo.com/blog/2018/10/01/october-update"
   },
   {
+    "PubDate": "2018-10-01T00:00:00Z",
+    "Description": "From making our iOS app faster, to adding the option to pay cash into your Monzo account, we take a look at the progress we've made in September, and explain what's in store for October.",
+    "Tags": [
+      "Quarterly Updates"
+    ],
+    "Title": "Monzo Monthly Update: October",
+    "Link": "https://monzo.com/blog/2018/10/01/october-update"
+  },
+  {
     "PubDate": "2018-09-25T00:00:00Z",
     "Description": "When something affects the way you manage your money, if you let us know we'll do everything we can do support you. So we've added a tool called ‘Share with us' that lets you tell us what's happening through the Monzo app.",
     "Tags": [
@@ -6880,6 +6835,24 @@
     ],
     "Title": "Share with us",
     "Link": "https://monzo.com/blog/2018/09/25/share-with-us"
+  },
+  {
+    "PubDate": "2018-09-25T00:00:00Z",
+    "Description": "When something affects the way you manage your money, if you let us know we'll do everything we can do support you. So we've added a tool called ‘Share with us' that lets you tell us what's happening through the Monzo app.",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Share with us",
+    "Link": "https://monzo.com/blog/2018/09/25/share-with-us"
+  },
+  {
+    "PubDate": "2018-09-21T00:00:00Z",
+    "Description": "Banks and other companies work hard to prevent data theft and financial fraud. But there are a few things you can do to protect yourself too.",
+    "Tags": [
+      "How Money Works"
+    ],
+    "Title": "How to protect yourself against identity theft and fraud",
+    "Link": "https://monzo.com/blog/2018/09/21/protect-yourself-against-fraud-identity-theft"
   },
   {
     "PubDate": "2018-09-21T00:00:00Z",
@@ -6900,6 +6873,15 @@
     "Link": "https://monzo.com/blog/2018/09/20/on-call"
   },
   {
+    "PubDate": "2018-09-20T00:00:00Z",
+    "Description": "A team of engineers are available 24/7/365 to respond when things go wrong. For other companies thinking about how to approach incidents, here's how we do on-call at Monzo.",
+    "Tags": [
+      "Technology"
+    ],
+    "Title": "How we do on-call at Monzo",
+    "Link": "https://monzo.com/blog/2018/09/20/on-call"
+  },
+  {
     "PubDate": "2018-09-18T00:00:00Z",
     "Description": "We've been working on making our iOS app much faster, and we've made some significant improvements so far!",
     "Tags": [
@@ -6907,6 +6889,24 @@
     ],
     "Title": "We're working to improve the performance of our iOS app",
     "Link": "https://monzo.com/blog/2018/09/18/ios-app-performance"
+  },
+  {
+    "PubDate": "2018-09-18T00:00:00Z",
+    "Description": "We've been working on making our iOS app much faster, and we've made some significant improvements so far!",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "We're working to improve the performance of our iOS app",
+    "Link": "https://monzo.com/blog/2018/09/18/ios-app-performance"
+  },
+  {
+    "PubDate": "2018-09-13T00:00:00Z",
+    "Description": "If you're planning to go to university, you might want a student loan to help cover your tuition fees and maintenance costs. Here's how student loans work in Northern Ireland.",
+    "Tags": [
+      "How Money Works"
+    ],
+    "Title": "Student loans in Northern Ireland explained",
+    "Link": "https://monzo.com/blog/2018/09/13/student-loans-northern-ireland"
   },
   {
     "PubDate": "2018-09-13T00:00:00Z",
@@ -6982,69 +6982,6 @@
     "Link": "https://monzo.com/blog/2018/08/30/manage-your-bills"
   },
   {
-    "PubDate": "2018-08-23T00:00:00Z",
-    "Description": "You can now move money out of Pots automatically, so you can spend it when you need it!",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Move money out of Pots automatically!",
-    "Link": "https://monzo.com/blog/2018/08/23/schedule-payments-out-of-pots"
-  },
-  {
-    "PubDate": "2018-08-23T00:00:00Z",
-    "Description": "Switching bank accounts can seem like a hassle, but the Current Account Switch Service makes it easy! Switching to Monzo only takes seven days - here's what happens on each one.",
-    "Tags": [
-      "Monzo 101"
-    ],
-    "Title": "The 7-Day Switch! What happens when you switch to Monzo?",
-    "Link": "https://monzo.com/blog/2018/08/23/seven-day-switch"
-  },
-  {
-    "PubDate": "2018-08-22T00:00:00Z",
-    "Description": "Three months ago today we published a list of features and committed to bringing them to you. Here's what we've done in the last three months to make Monzo better, and what we plan to do next!",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "The end of The Big List!",
-    "Link": "https://monzo.com/blog/2018/08/22/end-of-the-big-list"
-  },
-  {
-    "PubDate": "2018-08-22T00:00:00Z",
-    "Description": "We've built 3D Secure (the Monzo way!) so you can make online payments safely.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Launching 3D Secure!",
-    "Link": "https://monzo.com/blog/2018/08/22/launching-3d-secure"
-  },
-  {
-    "PubDate": "2018-08-21T00:00:00Z",
-    "Description": "Budgeting apps can take the painful admin out of setting and sticking to a budget. You can use the Monzo app to plan and track your spending, so you can manage your money better.",
-    "Tags": [
-      "Monzo 101"
-    ],
-    "Title": "How to budget with Monzo",
-    "Link": "https://monzo.com/blog/2018/08/21/budget-with-monzo"
-  },
-  {
-    "PubDate": "2018-08-21T00:00:00Z",
-    "Description": "As part of the Big List, we committed to helping you get interest paid on savings in a pot. Here's an update about our plans and how the project's going!",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "An update on getting interest paid on savings",
-    "Link": "https://monzo.com/blog/2018/08/21/savings-update"
-  },
-  {
-    "PubDate": "2018-08-16T00:00:00Z",
-    "Description": "Wouldn't it be good if your money managed itself? Here are four ways you can use Monzo to automate your finances.",
-    "Tags": [
-      "Monzo 101"
-    ],
-    "Title": "How to automate your financial life with Monzo",
-    "Link": "https://monzo.com/blog/2018/08/16/automate-your-finances"
-  },
-  {
     "PubDate": "2018-08-15T00:00:00Z",
     "Description": "Using Monzo to manage your bills is easy. Here are five ways we can help you keep track of your bills and other regular payments.",
     "Tags": [
@@ -7052,15 +6989,6 @@
     ],
     "Title": "How to manage your bills with Monzo",
     "Link": "https://monzo.com/blog/2018/08/15/manage-your-bills-with-monzo"
-  },
-  {
-    "PubDate": "2018-08-15T00:00:00Z",
-    "Description": "We've built a better version of bill splitting, that lets you split the bill with other Monzo users instantly, with a few clicks in the app.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Try splitting the bill in Monzo Labs on iOS!",
-    "Link": "https://monzo.com/blog/2018/08/15/split-the-bill"
   },
   {
     "PubDate": "2018-08-14T00:00:00Z",
@@ -8274,6 +8202,15 @@
     "Link": "https://monzo.com/blog/2017/01/26/our-new-community-page"
   },
   {
+    "PubDate": "2017-01-26T00:00:00Z",
+    "Description": "Our new home for all things Community at Monzo!",
+    "Tags": [
+      "Community"
+    ],
+    "Title": "Introducing Our New Community Page",
+    "Link": "https://monzo.com/blog/2017/01/26/our-new-community-page"
+  },
+  {
     "PubDate": "2017-01-24T00:00:00Z",
     "Description": "This year has been pretty exciting so far and today is no exception. We're proud to announce we've just reached 100,000 users!",
     "Tags": [
@@ -8281,6 +8218,24 @@
     ],
     "Title": "100,000 Users!",
     "Link": "https://monzo.com/blog/2017/01/24/100000th-user"
+  },
+  {
+    "PubDate": "2017-01-24T00:00:00Z",
+    "Description": "This year has been pretty exciting so far and today is no exception. We're proud to announce we've just reached 100,000 users!",
+    "Tags": [
+      "Community"
+    ],
+    "Title": "100,000 Users!",
+    "Link": "https://monzo.com/blog/2017/01/24/100000th-user"
+  },
+  {
+    "PubDate": "2017-01-16T00:00:00Z",
+    "Description": "To kick off the New Year on Android, we've just released version 1.3.3 to the Play Store with app shortcut support!",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Monzo App Shortcuts on Android: New Update",
+    "Link": "https://monzo.com/blog/2017/01/16/app-shortcuts-android"
   },
   {
     "PubDate": "2017-01-16T00:00:00Z",
@@ -8311,6 +8266,24 @@
     "Link": "https://monzo.com/blog/2016/11/14/spending-android"
   },
   {
+    "PubDate": "2016-11-14T00:00:00Z",
+    "Description": "We've just pushed version 1.2.0 to the Play Store bringing Spending, as well as a variety of other improvements and bug fixes",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Spending on Android! New Update Out Now",
+    "Link": "https://monzo.com/blog/2016/11/14/spending-android"
+  },
+  {
+    "PubDate": "2016-11-04T00:00:00Z",
+    "Description": "To underscore our commitment to fair pay, we've become a Living Wage accredited employer",
+    "Tags": [
+      "Community"
+    ],
+    "Title": "Celebrating Living Wage Week: Monzo is now a Living Wage Employer",
+    "Link": "https://monzo.com/blog/2016/11/04/living-wage"
+  },
+  {
     "PubDate": "2016-11-04T00:00:00Z",
     "Description": "To underscore our commitment to fair pay, we've become a Living Wage accredited employer",
     "Tags": [
@@ -8329,6 +8302,15 @@
     "Link": "https://monzo.com/blog/2016/10/26/card-replacement-android"
   },
   {
+    "PubDate": "2016-10-26T00:00:00Z",
+    "Description": "Now you can order a new card instantly from within the Android app…",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "New Monzo Update: Card Replacement on Android",
+    "Link": "https://monzo.com/blog/2016/10/26/card-replacement-android"
+  },
+  {
     "PubDate": "2016-10-19T00:00:00Z",
     "Description": "Getting to grips with one of our most commonly requested features",
     "Tags": [
@@ -8336,6 +8318,24 @@
     ],
     "Title": "Target Practice: #MyMonzoMonth",
     "Link": "https://monzo.com/blog/2016/10/19/target-practice"
+  },
+  {
+    "PubDate": "2016-10-19T00:00:00Z",
+    "Description": "Getting to grips with one of our most commonly requested features",
+    "Tags": [
+      "Community"
+    ],
+    "Title": "Target Practice: #MyMonzoMonth",
+    "Link": "https://monzo.com/blog/2016/10/19/target-practice"
+  },
+  {
+    "PubDate": "2016-09-29T00:00:00Z",
+    "Description": "Today, we're incredibly excited to announce the release of version 1 of the Monzo Android app!",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Android is Here!",
+    "Link": "https://monzo.com/blog/2016/09/29/android"
   },
   {
     "PubDate": "2016-09-29T00:00:00Z",
@@ -8408,78 +8408,6 @@
     ],
     "Title": "We Are Now a Bank",
     "Link": "https://monzo.com/blog/2016/08/11/we-are-now-a-bank"
-  },
-  {
-    "PubDate": "2016-08-08T00:00:00Z",
-    "Description": "New day, new Mondo update! We've just pushed a new update to the iOS app with two big changes and a bunch of bug fixes…",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "New Mondo Update: Updated Design and More",
-    "Link": "https://monzo.com/blog/2016/08/08/updated-design"
-  },
-  {
-    "PubDate": "2016-07-22T00:00:00Z",
-    "Description": "It's been a few weeks since we last gave you an update on our name change project...",
-    "Tags": [
-      "Community"
-    ],
-    "Title": "A Quick Update on the New Name, via Snapchat",
-    "Link": "https://monzo.com/blog/2016/07/22/name-change-update-snapchat"
-  },
-  {
-    "PubDate": "2016-07-18T00:00:00Z",
-    "Description": "We've been hard at work on a new update to the Mondo iOS app, which we're releasing to the App Store today as version 1.5.3...",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "New Mondo Update: Touch ID, Profile Editing and More",
-    "Link": "https://monzo.com/blog/2016/07/18/touchid-profile-update"
-  },
-  {
-    "PubDate": "2016-06-13T00:00:00Z",
-    "Description": "We're very excited to release version 1.5 of the Mondo app on iOS which you can download now in the App Store...",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Mondo Version 1.5: Improved Search and New Export Features",
-    "Link": "https://monzo.com/blog/2016/06/13/1-5"
-  },
-  {
-    "PubDate": "2016-06-07T00:00:00Z",
-    "Description": "We started Mondo because we believe there should be an alternative to the banking of the past...",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "What Makes A Bank Ethical?",
-    "Link": "https://monzo.com/blog/2016/06/07/ethical-banking"
-  },
-  {
-    "PubDate": "2016-06-03T00:00:00Z",
-    "Description": "Today we're taking the next step towards opening out our community forum. We're linking every post ...",
-    "Tags": [
-      "Community"
-    ],
-    "Title": "Ask Us Anything - Join the Conversation on Our Forum",
-    "Link": "https://monzo.com/blog/2016/06/03/ask-us-anything-join-the-forum"
-  },
-  {
-    "PubDate": "2016-03-17T00:00:00Z",
-    "Description": "136 days after we launched our Alpha preview, we're excited to announce the...",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "The Next Step",
-    "Link": "https://monzo.com/blog/2016/03/17/beta"
-  },
-  {
-    "PubDate": "2016-03-10T00:00:00Z",
-    "Description": "This week in Meet Mondo, I talk to Jonas Huckestein, Mondo's Chief Technology Officer and one of...",
-    "Tags": [
-      "Team"
-    ],
-    "Title": "Meet Jonas Huckestein: Co-founder and CTO",
-    "Link": "https://monzo.com/blog/2016/03/10/meet-jonas"
   },
   {
     "PubDate": "2016-01-20T00:00:00Z",
