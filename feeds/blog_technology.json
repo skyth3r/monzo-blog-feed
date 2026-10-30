@@ -853,13 +853,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/bringing-our-faster-payments-connection-in-house",
-      "title": "We recently brought our Faster Payments connection in-house",
-      "summary": "It's been running smoothly, handling every single Faster Payment that you've been sending in and out of Monzo!",
-      "date_published": "2019-12-16T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/coordinators-on-android-building-flows-quickly-with-reusable-screens",
       "title": "Coordinators on Android: how to build flows quickly with reusable screens",
       "summary": "When we first built Monzo on Android, we couldn't 'reuse' screens. We'd build them from scratch every time! To help us work faster, we've used a new architectural pattern called 'the Coordinator Pattern' in our codebase.",
