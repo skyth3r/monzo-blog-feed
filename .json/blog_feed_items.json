@@ -3271,16 +3271,6 @@
     "Link": "https://monzo.com/blog/2020/12/15/how-accounting-can-help-your-business-grow"
   },
   {
-    "PubDate": "2020-12-14T00:00:00Z",
-    "Description": "It starts by saving £1 on the 1st of January.",
-    "Tags": [
-      "How Money Works",
-      "Pots"
-    ],
-    "Title": "Save £1,378 in 2021 with the 52 Week Savings Challenge",
-    "Link": "https://monzo.com/blog/52-week-savings-challenge-2021"
-  },
-  {
     "PubDate": "2020-12-08T00:00:00Z",
     "Description": "It's the most wonderful time of the year, but it's also a time to be extra mindful of potential online scams.",
     "Tags": [
@@ -3713,8 +3703,8 @@
       "Fraud",
       "How We Protect You"
     ],
-    "Title": "Everything I wish I'd known about money at university",
-    "Link": "https://monzo.com/blog/2019/07/03/money-at-university"
+    "Title": "Puppy and kitten deposit scams are on the rise",
+    "Link": "https://monzo.com/blog/2020/05/puppy-and-kitten-deposit-scams-are-on-the-rise"
   },
   {
     "PubDate": "2020-05-27T00:00:00Z",
@@ -4434,15 +4424,6 @@
   },
   {
     "PubDate": "2019-12-06T00:00:00Z",
-    "Description": "It starts by saving £1 on the 1st of January.",
-    "Tags": [
-      "How Money Works"
-    ],
-    "Title": "Save £1,378 in a year with the 52 Week Savings Challenge",
-    "Link": "https://monzo.com/blog/52-week-savings-challenge"
-  },
-  {
-    "PubDate": "2019-12-06T00:00:00Z",
     "Description": "Save £671.61 in 2020 with the Reverse 1p Saving Challenge!",
     "Tags": [
       "How Money Works"
@@ -4571,15 +4552,6 @@
     ],
     "Title": "Why you should make Monzo your main bank, according to people who have",
     "Link": "https://monzo.com/blog/2019/06/12/make-monzo-my-main-account"
-  },
-  {
-    "PubDate": "2019-11-19T00:00:00Z",
-    "Description": "When you make payments abroad using Monzo, we pass on the Mastercard exchange rate directly to you, without any markups.",
-    "Tags": [
-      "Monzo 101"
-    ],
-    "Title": "Mastercard exchange rate - What's the rate on Monzo?",
-    "Link": "https://monzo.com/blog/2018/06/05/monzo-exchange-rate"
   },
   {
     "PubDate": "2019-11-19T00:00:00Z",
@@ -5414,6 +5386,15 @@
   },
   {
     "PubDate": "2019-07-03T00:00:00Z",
+    "Description": "One of the biggest challenges at university (alongside actual academic work) is managing your money.",
+    "Tags": [
+      "Monzo 101"
+    ],
+    "Title": "Everything I wish I'd known about money at university",
+    "Link": "https://monzo.com/blog/2019/07/03/money-at-university"
+  },
+  {
+    "PubDate": "2019-07-03T00:00:00Z",
     "Description": "The technology we use to create Monzo can play a key part in our mission to make money work for everyone.",
     "Tags": [
       "Technology"
@@ -5548,15 +5529,6 @@
     ],
     "Title": "My bank says I need to move my money into a 'safe account' - should I?",
     "Link": "https://monzo.com/blog/2019/06/05/should-i-bank-transfer-money-to-a-safe-account"
-  },
-  {
-    "PubDate": "2019-06-04T00:00:00Z",
-    "Description": "Do the 1p Saving Challenge backwards, so it gets easier over time!",
-    "Tags": [
-      "How Money Works"
-    ],
-    "Title": "Save £667.95 a year with the Reverse 1p Saving Challenge",
-    "Link": "https://monzo.com/blog/2019/06/04/reverse-1p-savings-challenge-monzo"
   },
   {
     "PubDate": "2019-06-04T00:00:00Z",
@@ -6449,12 +6421,40 @@
   },
   {
     "PubDate": "2018-12-13T00:00:00Z",
+    "Description": "To help you avoid dipping into your savings, you can lock your Pots until a date you choose.",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Stick to your savings goals by locking your Pots",
+    "Link": "https://monzo.com/blog/2018/12/13/locked-pots"
+  },
+  {
+    "PubDate": "2018-12-13T00:00:00Z",
     "Description": "Settling up bills can be a pain. So we've created Shared Tabs to make it easier.",
     "Tags": [
       "Product Updates"
     ],
     "Title": "Keep track of what you're owed with Shared Tabs",
     "Link": "https://monzo.com/blog/2018/12/13/shared-tabs"
+  },
+  {
+    "PubDate": "2018-12-13T00:00:00Z",
+    "Description": "Settling up bills can be a pain. So we've created Shared Tabs to make it easier.",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Keep track of what you're owed with Shared Tabs",
+    "Link": "https://monzo.com/blog/2018/12/13/shared-tabs"
+  },
+  {
+    "PubDate": "2018-12-13T00:00:00Z",
+    "Description": "Affordable festive food, drink and decoration ideas.",
+    "Tags": [
+      "How Money Works",
+      "Budgeting Tips"
+    ],
+    "Title": "How to throw a Christmas party without going broke",
+    "Link": "https://monzo.com/blog/2018/12/13/throw-achristmas-party-on-a-budget"
   },
   {
     "PubDate": "2018-12-13T00:00:00Z",
@@ -6584,24 +6584,6 @@
     "Link": "https://monzo.com/blog/2018/11/23/what-is-crowdfunding"
   },
   {
-    "PubDate": "2018-11-22T00:00:00Z",
-    "Description": "We're in the very early stages of exploring business bank accounts, and we're applying for some funding to help us.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "We're planning to launch a business current account",
-    "Link": "https://monzo.com/blog/2018/11/22/business-banking"
-  },
-  {
-    "PubDate": "2018-11-21T00:00:00Z",
-    "Description": "You can deposit cash in your Monzo account at any of the 28,000 PayPoints or 11,500 Post Offices across the UK.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "You can now pay cash into your Monzo account!",
-    "Link": "https://monzo.com/blog/2018/11/21/deposit-cash"
-  },
-  {
     "PubDate": "2018-11-20T00:00:00Z",
     "Description": "We're updating Summary so you can budget in a way that works for you.",
     "Tags": [
@@ -6609,15 +6591,6 @@
     ],
     "Title": "We're making Summary more flexible",
     "Link": "https://monzo.com/blog/2018/11/20/flexible-budgeting"
-  },
-  {
-    "PubDate": "2018-11-20T00:00:00Z",
-    "Description": "We want to lend money in a way that's fair, transparent, and helps you achieve your goals.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Why we're lending",
-    "Link": "https://monzo.com/blog/2018/11/20/why-we-are-lending"
   },
   {
     "PubDate": "2018-11-20T00:00:00Z",
@@ -6982,6 +6955,24 @@
   },
   {
     "PubDate": "2018-08-15T00:00:00Z",
+    "Description": "Using Monzo to manage your bills is easy. Here are five ways we can help you keep track of your bills and other regular payments.",
+    "Tags": [
+      "Monzo 101"
+    ],
+    "Title": "How to manage your bills with Monzo",
+    "Link": "https://monzo.com/blog/2018/08/15/manage-your-bills-with-monzo"
+  },
+  {
+    "PubDate": "2018-08-15T00:00:00Z",
+    "Description": "We've built a better version of bill splitting, that lets you split the bill with other Monzo users instantly, with a few clicks in the app.",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Try splitting the bill in Monzo Labs on iOS!",
+    "Link": "https://monzo.com/blog/2018/08/15/split-the-bill"
+  },
+  {
+    "PubDate": "2018-08-15T00:00:00Z",
     "Description": "We've built a better version of bill splitting, that lets you split the bill with other Monzo users instantly, with a few clicks in the app.",
     "Tags": [
       "Product Updates"
@@ -7006,6 +6997,15 @@
     ],
     "Title": "Should you share your finances?",
     "Link": "https://monzo.com/blog/2018/08/14/sharing-finances"
+  },
+  {
+    "PubDate": "2018-08-13T00:00:00Z",
+    "Description": "We've built 3D Secure (the Monzo way!) and we'd love your help with testing.",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Help us test 3D Secure in Monzo Labs!",
+    "Link": "https://monzo.com/blog/2018/08/13/test-3d-secure"
   },
   {
     "PubDate": "2018-08-13T00:00:00Z",
@@ -7114,34 +7114,6 @@
     ],
     "Title": "We're sharing the vision and principles for our internal product",
     "Link": "https://monzo.com/blog/2018/08/03/our-internal-product-vision"
-  },
-  {
-    "PubDate": "2018-08-02T00:00:00Z",
-    "Description": "Whether you're planning a wedding or saving up for a new phone, you can now set goals for your pots and save towards them!",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "Set goals for your Pots!",
-    "Link": "https://monzo.com/blog/2018/08/02/pots-goals"
-  },
-  {
-    "PubDate": "2018-08-02T00:00:00Z",
-    "Description": "When you reach out to us with a question, you can tell us whether it's urgent or not. Operations analyst Sam explains how putting our customers in control helps us prioritise your queries and deal with growing demand.",
-    "Tags": [
-      "Customer Support"
-    ],
-    "Title": "Tell us when your question's urgent",
-    "Link": "https://monzo.com/blog/2018/08/02/urgent-questions"
-  },
-  {
-    "PubDate": "2018-08-01T00:00:00Z",
-    "Description": "As we work to make sure we can keep giving you world-class support as we scale, we've been using data to make changes to the help screen so you can find your own answers faster.",
-    "Tags": [
-      "Customer Support",
-      "Data"
-    ],
-    "Title": "Using data to build a better help screen",
-    "Link": "https://monzo.com/blog/2018/08/01/data-help"
   },
   {
     "PubDate": "2018-07-31T00:00:00Z",
@@ -7273,6 +7245,24 @@
   },
   {
     "PubDate": "2018-07-03T00:00:00Z",
+    "Description": "Today, we're announcing another new feature in the iOS app that came out of Monzo Time — custom app icons!",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "Custom Monzo app icons on iOS",
+    "Link": "https://monzo.com/blog/2018/07/03/custom-app-icons"
+  },
+  {
+    "PubDate": "2018-07-03T00:00:00Z",
+    "Description": "Halfway through, we wanted to reflect on our progress and update you on exactly where we're at.",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "We're halfway through The Big List! An update",
+    "Link": "https://monzo.com/blog/2018/07/03/the-big-list-update"
+  },
+  {
+    "PubDate": "2018-07-03T00:00:00Z",
     "Description": "Halfway through, we wanted to reflect on our progress and update you on exactly where we're at.",
     "Tags": [
       "Product Updates"
@@ -7297,6 +7287,15 @@
     ],
     "Title": "Joining Monzo as a backend engineer",
     "Link": "https://monzo.com/blog/2018/06/28/joining-monzo-engineer-onboarding"
+  },
+  {
+    "PubDate": "2018-06-28T00:00:00Z",
+    "Description": "Last night, Ticketmaster revealed a major data breach in which tens of thousands of people had their card details stolen. Our customers have nothing to worry about.",
+    "Tags": [
+      "How We Protect You"
+    ],
+    "Title": "Protecting customers from the Ticketmaster breach: Monzo's story",
+    "Link": "https://monzo.com/blog/2018/06/28/ticketmaster-breach"
   },
   {
     "PubDate": "2018-06-28T00:00:00Z",
@@ -7417,30 +7416,12 @@
   },
   {
     "PubDate": "2018-06-07T00:00:00Z",
-    "Description": "Yes! Monzo is a fully-licenced UK bank. That means we're regulated by the FCA and the PRA and the money in your Monzo account's protected up to £120,000.",
-    "Tags": [
-      "Monzo 101"
-    ],
-    "Title": "Is Monzo a bank?",
-    "Link": "https://monzo.com/blog/2018/06/07/is-monzo-a-bank"
-  },
-  {
-    "PubDate": "2018-06-07T00:00:00Z",
     "Description": "We're starting to predict Direct Debits and subscriptions and include them in Summary, to give you better control over your budget.",
     "Tags": [
       "Product Updates"
     ],
     "Title": "Summary Update - Predicting Committed Spending",
     "Link": "https://monzo.com/blog/2018/06/07/summary-update-predicting-committed-spending"
-  },
-  {
-    "PubDate": "2018-06-04T00:00:00Z",
-    "Description": "From launching Apple Pay, to helping you send international payments, we take a look at the progress we've made in May, and explain what's in store for June.",
-    "Tags": [
-      "Quarterly Updates"
-    ],
-    "Title": "Monzo Monthly Update: June",
-    "Link": "https://monzo.com/blog/2018/06/04/june-update"
   },
   {
     "PubDate": "2018-05-29T00:00:00Z",
@@ -8409,6 +8390,15 @@
     "Link": "https://monzo.com/blog/2016/03/10/meet-jonas"
   },
   {
+    "PubDate": "2016-03-10T00:00:00Z",
+    "Description": "This week in Meet Mondo, I talk to Jonas Huckestein, Mondo's Chief Technology Officer and one of...",
+    "Tags": [
+      "Team"
+    ],
+    "Title": "Meet Jonas Huckestein: Co-founder and CTO",
+    "Link": "https://monzo.com/blog/2016/03/10/meet-jonas"
+  },
+  {
     "PubDate": "2016-01-20T00:00:00Z",
     "Description": "After last month's post on card payments, we thought we'd follow-up with a post on...",
     "Tags": [
@@ -8416,6 +8406,24 @@
     ],
     "Title": "How do bank payments actually work?",
     "Link": "https://monzo.com/blog/2016/01/20/how-do-bank-payments-work"
+  },
+  {
+    "PubDate": "2016-01-20T00:00:00Z",
+    "Description": "After last month's post on card payments, we thought we'd follow-up with a post on...",
+    "Tags": [
+      "Banking and Regulation"
+    ],
+    "Title": "How do bank payments actually work?",
+    "Link": "https://monzo.com/blog/2016/01/20/how-do-bank-payments-work"
+  },
+  {
+    "PubDate": "2016-01-08T00:00:00Z",
+    "Description": "In December we gave an overview of how foreign card payments work, and how...",
+    "Tags": [
+      "Banking and Regulation"
+    ],
+    "Title": "How Does the Wholesale Foreign Exchange Market Work?",
+    "Link": "https://monzo.com/blog/2016/01/08/how-does-the-wholesale-foreign-exchange-market-work"
   },
   {
     "PubDate": "2016-01-08T00:00:00Z",
