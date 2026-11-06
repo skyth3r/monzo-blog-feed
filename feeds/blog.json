@@ -2449,13 +2449,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/automated-billing-updater/",
-      "title": "We can now automatically update your card details with online shops",
-      "summary": "Update your card details with the online services you use, automatically when you replace your card.",
-      "date_published": "2021-02-05T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2021/01/21/financial-education-spending-and-budgeting",
       "title": "Financial education: spending and budgeting",
       "summary": "A new series lifting the lid on life's most misunderstood money matters.",
@@ -4479,13 +4472,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts",
-      "title": "Why we sometimes freeze, block or close Monzo accounts",
-      "summary": "Blocking or closing accounts is something all banks have to do sometimes, to meet their legal and regulatory obligations, in line with their terms and conditions, and to help fight against financial crime. We explain why this (very rarely) happens.",
-      "date_published": "2019-04-04T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2019/04/03/deploying-envoy-proxy",
       "title": "We deployed Envoy Proxy to make Monzo faster",
       "summary": "We moved our remote procedure call (RPC) service mesh from Linkerd to Envoy to make Monzo faster.",
@@ -4602,6 +4588,13 @@
       "title": "How to manage money when you're terrible with money",
       "summary": "Think you're bad with money? No one's beyond help.",
       "date_published": "2019-03-03T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2019/02/28/money-in-nick-amy",
+      "title": "Money in Love: Nick \u0026 Amy",
+      "summary": "Through stories from real-life relationships, we're tackling the taboo around couples and their cash.",
+      "date_published": "2019-02-28T00:00:00Z"
     },
     {
       "id": "",
@@ -4787,13 +4780,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2019/01/17/monzo-product-designer-jobs",
-      "title": "How we hire product designers",
-      "summary": "What makes someone an amazing product designer?",
-      "date_published": "2019-01-17T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2019/01/16/crowdfunding-technology-systems",
       "title": "How we prepared our systems for our £20 million crowdfunding round",
       "summary": "We prepared our systems for crowdfunding by shedding load, and built tools to help us monitor on the day.",
@@ -4889,6 +4875,13 @@
       "title": "How to throw a Christmas party without going broke",
       "summary": "Affordable festive food, drink and decoration ideas.",
       "date_published": "2018-12-13T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2018/12/12/christmas-shopping-sales",
+      "title": "Christmas shopping and sales - know your rights",
+      "summary": "Tis the season of giving gifts... and sometimes returning them. We've got some tips to make it easier for you, plus some important info about Christmas sales.",
+      "date_published": "2018-12-12T00:00:00Z"
     },
     {
       "id": "",
@@ -5977,13 +5970,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2017/09/25/android-progress-update",
-      "title": "An Android Progress Report",
-      "summary": "Kicking off a week of Android-related updates, product manager Jami brings us up to speed and explains what's in store for the next few months.",
-      "date_published": "2017-09-25T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2017/09/04/meet-phil-hewinson-head-of-partnerships",
       "title": "Meet Phil - Head of Partnerships",
       "summary": "My goal is to help achieve Monzo's vision of becoming the financial control centre for people's lives.",
@@ -6082,6 +6068,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups",
+      "title": "Practical Machine Learning With Event Streaming",
+      "summary": "Monzo's Head of Data and Analytics walks through our recent advances in using machine learning to make predictions based on existing data.",
+      "date_published": "2017-05-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2017/04/27/welcome-to-the-drawing-board",
       "title": "Welcome to The Drawing Board!",
       "summary": "A launchpad for awesome community led events at Monzo HQ.",
@@ -6177,13 +6170,6 @@
       "title": "5 Features Your Mobile Bank Account Should Have By Now",
       "summary": "Click to read more",
       "date_published": "2017-02-13T00:00:00Z"
-    },
-    {
-      "id": "",
-      "url": "https://monzo.com/blog/2017/02/09/customer-support-quotables-short",
-      "title": "Can You Marry An App? Customer Support Quotables",
-      "summary": "A selection of our favourite customer support related interactions and responses…",
-      "date_published": "2017-02-09T00:00:00Z"
     },
     {
       "id": "",
@@ -6303,6 +6289,13 @@
       "title": "Building a Modern Bank Backend",
       "summary": "This first post in a series about our platform explains how we're building systems to meet these demands using modern, open-source technology...",
       "date_published": "2016-09-19T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2016/09/12/1-6-3",
+      "title": "New Monzo Update: Limits on iOS",
+      "summary": "A new Monzo update which brings the Limits page to iOS...",
+      "date_published": "2016-09-12T00:00:00Z"
     },
     {
       "id": "",

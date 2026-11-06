@@ -3214,15 +3214,6 @@
     "Link": "https://monzo.com/blog/2021/02/09/borrowing-data-at-monzo"
   },
   {
-    "PubDate": "2021-02-05T00:00:00Z",
-    "Description": "Update your card details with the online services you use, automatically when you replace your card.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "We can now automatically update your card details with online shops",
-    "Link": "https://monzo.com/blog/automated-billing-updater/"
-  },
-  {
     "PubDate": "2021-01-21T00:00:00Z",
     "Description": "A new series lifting the lid on life's most misunderstood money matters.",
     "Tags": [
@@ -5913,15 +5904,6 @@
     "Link": "https://monzo.com/blog/2019/04/04/money-in-love-nellie-nial"
   },
   {
-    "PubDate": "2019-04-04T00:00:00Z",
-    "Description": "Blocking or closing accounts is something all banks have to do sometimes, to meet their legal and regulatory obligations, in line with their terms and conditions, and to help fight against financial crime. We explain why this (very rarely) happens.",
-    "Tags": [
-      "How We Protect You"
-    ],
-    "Title": "Why we sometimes freeze, block or close Monzo accounts",
-    "Link": "https://monzo.com/blog/2019/04/04/why-we-block-freeze-close-monzo-accounts"
-  },
-  {
     "PubDate": "2019-04-03T00:00:00Z",
     "Description": "We moved our remote procedure call (RPC) service mesh from Linkerd to Envoy to make Monzo faster.",
     "Tags": [
@@ -6074,6 +6056,15 @@
     ],
     "Title": "How to manage money when you're terrible with money",
     "Link": "https://monzo.com/blog/2019/03/03/bad-with-money"
+  },
+  {
+    "PubDate": "2019-02-28T00:00:00Z",
+    "Description": "Through stories from real-life relationships, we're tackling the taboo around couples and their cash.",
+    "Tags": [
+      "Money in Love"
+    ],
+    "Title": "Money in Love: Nick \u0026 Amy",
+    "Link": "https://monzo.com/blog/2019/02/28/money-in-nick-amy"
   },
   {
     "PubDate": "2019-02-21T00:00:00Z",
@@ -6312,15 +6303,6 @@
     "Link": "https://monzo.com/blog/2019/01/17/monzo-product-designer-jobs"
   },
   {
-    "PubDate": "2019-01-17T00:00:00Z",
-    "Description": "What makes someone an amazing product designer?",
-    "Tags": [
-      "Design"
-    ],
-    "Title": "How we hire product designers",
-    "Link": "https://monzo.com/blog/2019/01/17/monzo-product-designer-jobs"
-  },
-  {
     "PubDate": "2019-01-16T00:00:00Z",
     "Description": "We prepared our systems for crowdfunding by shedding load, and built tools to help us monitor on the day.",
     "Tags": [
@@ -6446,6 +6428,15 @@
     ],
     "Title": "How to throw a Christmas party without going broke",
     "Link": "https://monzo.com/blog/2018/12/13/throw-achristmas-party-on-a-budget"
+  },
+  {
+    "PubDate": "2018-12-12T00:00:00Z",
+    "Description": "Tis the season of giving gifts... and sometimes returning them. We've got some tips to make it easier for you, plus some important info about Christmas sales.",
+    "Tags": [
+      "How Money Works"
+    ],
+    "Title": "Christmas shopping and sales - know your rights",
+    "Link": "https://monzo.com/blog/2018/12/12/christmas-shopping-sales"
   },
   {
     "PubDate": "2018-12-11T00:00:00Z",
@@ -7847,15 +7838,6 @@
     "Link": "https://monzo.com/blog/2017/09/25/android-progress-update"
   },
   {
-    "PubDate": "2017-09-25T00:00:00Z",
-    "Description": "Kicking off a week of Android-related updates, product manager Jami brings us up to speed and explains what's in store for the next few months.",
-    "Tags": [
-      "Product Updates"
-    ],
-    "Title": "An Android Progress Report",
-    "Link": "https://monzo.com/blog/2017/09/25/android-progress-update"
-  },
-  {
     "PubDate": "2017-09-04T00:00:00Z",
     "Description": "My goal is to help achieve Monzo's vision of becoming the financial control centre for people's lives.",
     "Tags": [
@@ -7983,6 +7965,16 @@
     "Link": "https://monzo.com/blog/2017/05/05/why-payments-are-declined"
   },
   {
+    "PubDate": "2017-05-03T00:00:00Z",
+    "Description": "Monzo's Head of Data and Analytics walks through our recent advances in using machine learning to make predictions based on existing data.",
+    "Tags": [
+      "Technology",
+      "Data"
+    ],
+    "Title": "Practical Machine Learning With Event Streaming",
+    "Link": "https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups"
+  },
+  {
     "PubDate": "2017-04-27T00:00:00Z",
     "Description": "A launchpad for awesome community led events at Monzo HQ.",
     "Tags": [
@@ -8107,15 +8099,6 @@
     ],
     "Title": "5 Features Your Mobile Bank Account Should Have By Now",
     "Link": "https://monzo.com/blog/2017/02/13/5-features-your-mobile-bank-account-should-have-by-now"
-  },
-  {
-    "PubDate": "2017-02-09T00:00:00Z",
-    "Description": "A selection of our favourite customer support related interactions and responses…",
-    "Tags": [
-      "Community"
-    ],
-    "Title": "Can You Marry An App? Customer Support Quotables",
-    "Link": "https://monzo.com/blog/2017/02/09/customer-support-quotables-short"
   },
   {
     "PubDate": "2017-02-09T00:00:00Z",
@@ -8270,6 +8253,15 @@
     ],
     "Title": "Building a Modern Bank Backend",
     "Link": "https://monzo.com/blog/2016/09/19/building-a-modern-bank-backend"
+  },
+  {
+    "PubDate": "2016-09-12T00:00:00Z",
+    "Description": "A new Monzo update which brings the Limits page to iOS...",
+    "Tags": [
+      "Product Updates"
+    ],
+    "Title": "New Monzo Update: Limits on iOS",
+    "Link": "https://monzo.com/blog/2016/09/12/1-6-3"
   },
   {
     "PubDate": "2016-09-07T00:00:00Z",

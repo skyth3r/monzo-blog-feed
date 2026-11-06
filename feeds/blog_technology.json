@@ -1014,6 +1014,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups",
+      "title": "Practical Machine Learning With Event Streaming",
+      "summary": "Monzo's Head of Data and Analytics walks through our recent advances in using machine learning to make predictions based on existing data.",
+      "date_published": "2017-05-03T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2017/02/17/four-useful-services-your-bank-should-not-be-charging-for",
       "title": "4 useful services your bank should not be charging you for",
       "summary": "Click to read more",
