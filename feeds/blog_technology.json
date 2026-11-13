@@ -6,6 +6,13 @@
   "items": [
     {
       "id": "",
+      "url": "https://monzo.com/blog/more-than-money-back-reimagining-payment-disputes-at-monzo",
+      "title": "More Than Money Back: Reimagining Payment Disputes at Monzo",
+      "summary": "A blog that show you the inside of the Disputes Squad's 18-month journey: building a trust-driven disputes experience. See how a small team delivered multi-million-pound savings via data-informed product design and engineering automations.",
+      "date_published": "2026-11-12T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/fca-ai-live-testing-insights",
       "title": "Helping people save with AI: what we learned through the FCA's AI Live Testing programme",
       "summary": "Monzo joined the first cohort of the Financial Conduct Authority's AI Live Testing programme to test a savings-focused AI assistant in controlled real-world conditions. Steve Martin, VP Engineering, shares what we learned.",
@@ -706,13 +713,6 @@
     },
     {
       "id": "",
-      "url": "https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform",
-      "title": "How we secure Monzo's banking platform",
-      "summary": "Our Security Infrastructure team introduces the principles we follow to build security in Monzo's fast-moving engineering environment and how they work with other engineering teams to keep our customers and platform safe.",
-      "date_published": "2022-03-30T00:00:00Z"
-    },
-    {
-      "id": "",
       "url": "https://monzo.com/blog/2022/03/21/data-hiring-at-monzo",
       "title": "Data hiring at Monzo: The interview process",
       "summary": "We hire lots of different people in Data who join us to work in a lot of different teams. Our interviews are designed to do two things: teach you about Monzo and capture information that tells us the role is right for you.",
@@ -773,6 +773,13 @@
       "title": "How we protect our most sensitive secrets from the most determined attackers",
       "summary": "As a bank, we have private keys and other 'secrets' we need to protect, to keep our customers and ourselves safe. Our security controls work together to stop even the most determined and capable attackers.",
       "date_published": "2021-11-18T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2021/10/14/an-introduction-to-monzos-data-stack",
+      "title": "An introduction to Monzo's data stack",
+      "summary": "An overview of the data stack we use at Monzo, some of the challenges we face, and what we want to change.",
+      "date_published": "2021-10-13T00:00:00Z"
     },
     {
       "id": "",
@@ -1011,6 +1018,20 @@
       "title": "Terminal decline: Why some payments fail",
       "summary": "We break down the common causes of declined card payments.",
       "date_published": "2017-05-05T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2017/05/05/why-payments-are-declined",
+      "title": "Terminal decline: Why some payments fail",
+      "summary": "We break down the common causes of declined card payments.",
+      "date_published": "2017-05-05T00:00:00Z"
+    },
+    {
+      "id": "",
+      "url": "https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups",
+      "title": "Practical Machine Learning With Event Streaming",
+      "summary": "Monzo's Head of Data and Analytics walks through our recent advances in using machine learning to make predictions based on existing data.",
+      "date_published": "2017-05-03T00:00:00Z"
     },
     {
       "id": "",
