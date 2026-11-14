@@ -929,6 +929,16 @@
     "Link": "https://monzo.com/blog/2022/04/04/my-first-3-months-at-monzo-as-an-engineering-manager"
   },
   {
+    "PubDate": "2022-03-30T00:00:00Z",
+    "Description": "Our Security Infrastructure team introduces the principles we follow to build security in Monzo's fast-moving engineering environment and how they work with other engineering teams to keep our customers and platform safe.",
+    "Tags": [
+      "Technology",
+      "Security"
+    ],
+    "Title": "How we secure Monzo's banking platform",
+    "Link": "https://monzo.com/blog/2022/03/31/how-we-secure-monzos-banking-platform"
+  },
+  {
     "PubDate": "2022-03-21T00:00:00Z",
     "Description": "We hire lots of different people in Data who join us to work in a lot of different teams. Our interviews are designed to do two things: teach you about Monzo and capture information that tells us the role is right for you.",
     "Tags": [
@@ -1012,16 +1022,6 @@
     ],
     "Title": "How we protect our most sensitive secrets from the most determined attackers",
     "Link": "https://monzo.com/blog/2021/11/18/protecting-our-most-sensitive-secrets"
-  },
-  {
-    "PubDate": "2021-10-13T00:00:00Z",
-    "Description": "An overview of the data stack we use at Monzo, some of the challenges we face, and what we want to change.",
-    "Tags": [
-      "Data",
-      "Technology"
-    ],
-    "Title": "An introduction to Monzo's data stack",
-    "Link": "https://monzo.com/blog/2021/10/14/an-introduction-to-monzos-data-stack"
   },
   {
     "PubDate": "2021-10-13T00:00:00Z",
@@ -1330,25 +1330,6 @@
     ],
     "Title": "Terminal decline: Why some payments fail",
     "Link": "https://monzo.com/blog/2017/05/05/why-payments-are-declined"
-  },
-  {
-    "PubDate": "2017-05-05T00:00:00Z",
-    "Description": "We break down the common causes of declined card payments.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Terminal decline: Why some payments fail",
-    "Link": "https://monzo.com/blog/2017/05/05/why-payments-are-declined"
-  },
-  {
-    "PubDate": "2017-05-03T00:00:00Z",
-    "Description": "Monzo's Head of Data and Analytics walks through our recent advances in using machine learning to make predictions based on existing data.",
-    "Tags": [
-      "Technology",
-      "Data"
-    ],
-    "Title": "Practical Machine Learning With Event Streaming",
-    "Link": "https://monzo.com/blog/2017/05/03/practical-machine-learning-for-startups"
   },
   {
     "PubDate": "2017-05-03T00:00:00Z",
