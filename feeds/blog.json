@@ -5858,6 +5858,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/2018/02/15/android-crowdsourcing-merchant-data",
+      "title": "Better Transaction Information on Android",
+      "summary": "Android users can now help us tidy up the way transactions appear in everyone's apps, by sharing or correcting information we have about retailers.",
+      "date_published": "2018-02-15T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/2018/02/14/android-pulse",
       "title": "Pulse Comes to Android",
       "summary": "We've added the Pulse graph to Android, so you can see your spending at a glance.",
