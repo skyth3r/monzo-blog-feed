@@ -56,15 +56,6 @@
     "Link": "https://monzo.com/blog/interviewing-for-machine-learning-at-monzo"
   },
   {
-    "PubDate": "2026-06-04T00:00:00Z",
-    "Description": "This post explains how we engineered our LLM-based agent, built rigorous evaluation systems for safe improvement, and are shifting from simply answering questions to automating complex, end-to-end operational workflows.",
-    "Tags": [
-      "Technology"
-    ],
-    "Title": "Engineering the Future of Customer Operations: The Monzo Ops Agent",
-    "Link": "https://monzo.com/blog/engineering-the-future-of-customer-operations-the-monzo-ops-agent"
-  },
-  {
     "PubDate": "2026-06-03T00:00:00Z",
     "Description": "This blog outlines Monzo's Homeownership strategy. Facing stalled growth, we paused engineering for 2 months for user research. We found users want an integrated in-app mortgage journey, sparking a new product vision.",
     "Tags": [
