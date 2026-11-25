@@ -48,6 +48,13 @@
     },
     {
       "id": "",
+      "url": "https://monzo.com/blog/engineering-the-future-of-customer-operations-the-monzo-ops-agent",
+      "title": "Engineering the Future of Customer Operations: The Monzo Ops Agent",
+      "summary": "This post explains how we engineered our LLM-based agent, built rigorous evaluation systems for safe improvement, and are shifting from simply answering questions to automating complex, end-to-end operational workflows.",
+      "date_published": "2026-06-04T00:00:00Z"
+    },
+    {
+      "id": "",
       "url": "https://monzo.com/blog/slowing-down-to-speed-up-how-a-2-month-engineering-pause-rebooted-our-mortgage-strategy",
       "title": "Slowing down to speed up: how a 2 month engineering pause rebooted our mortgage strategy",
       "summary": "This blog outlines Monzo's Homeownership strategy. Facing stalled growth, we paused engineering for 2 months for user research. We found users want an integrated in-app mortgage journey, sparking a new product vision.",
